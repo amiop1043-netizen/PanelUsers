@@ -598,5 +598,11 @@
         "key": "n23jKO4SPU",
         "expirydate": "04-07-4702",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fb45cf0680423677",
+        "key": "5GZKDCxa9X",
+        "expirydate": "04-11-3035",
+        "Allowoffline": false
     }
 ]
