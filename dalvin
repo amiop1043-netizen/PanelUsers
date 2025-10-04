@@ -178,5 +178,11 @@
         "key": "VLM8Z7Ifzx",
         "expirydate": "04-12-187210",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6d1923e3543bcff6",
+        "key": "D1WXgB74tK",
+        "expirydate": "04-01-2036",
+        "Allowoffline": false
     }
 ]
