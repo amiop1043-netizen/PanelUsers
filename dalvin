@@ -340,5 +340,11 @@
         "key": "X2NViJkq4x",
         "expirydate": "04-05-2128",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca775a3d4a0e9844",
+        "key": "f0npe3ZExF",
+        "expirydate": "04-01-2036",
+        "Allowoffline": false
     }
 ]
