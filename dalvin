@@ -814,5 +814,11 @@
         "key": "eNJWY8hftH",
         "expirydate": "04-11-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "891dd1c8a2cf8fd2",
+        "key": "pk1CL8502h",
+        "expirydate": "04-08-2052",
+        "Allowoffline": false
     }
 ]
