@@ -742,5 +742,11 @@
         "key": "RfxBEgUpS9",
         "expirydate": "04-04-2480",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e730c28e802c6048",
+        "key": "3KtCD4Ik68",
+        "expirydate": "04-05-2294",
+        "Allowoffline": false
     }
 ]
