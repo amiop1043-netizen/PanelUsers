@@ -106,5 +106,11 @@
         "key": "au8EfW6eFN",
         "expirydate": "04-07-2043",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec18780100957ceb",
+        "key": "DOH5QhwK3N",
+        "expirydate": "04-07-2043",
+        "Allowoffline": false
     }
 ]
