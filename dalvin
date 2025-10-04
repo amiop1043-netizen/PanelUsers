@@ -604,5 +604,11 @@
         "key": "5GZKDCxa9X",
         "expirydate": "04-11-3035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b1676c0cb3bc59e7",
+        "key": "WGu3b62jHM",
+        "expirydate": "04-03-3054",
+        "Allowoffline": false
     }
 ]
