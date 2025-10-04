@@ -22,5 +22,11 @@
         "key": "BIgFNl1LsC",
         "expirydate": "04-04-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b68f6313e54e96e3",
+        "key": "uvDGIs30k5",
+        "expirydate": "04-01-2026",
+        "Allowoffline": false
     }
 ]
