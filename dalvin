@@ -1024,5 +1024,11 @@
         "key": "Gmdo47pbyN",
         "expirydate": "04-12-4911",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7f661a70f99ec141",
+        "key": "s12g6RPJdv",
+        "expirydate": "04-04-2205",
+        "Allowoffline": false
     }
 ]
