@@ -1030,5 +1030,11 @@
         "key": "s12g6RPJdv",
         "expirydate": "04-04-2205",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7d312150eb60c30a",
+        "key": "FGJvnAqusp",
+        "expirydate": "04-09-2043",
+        "Allowoffline": false
     }
 ]
