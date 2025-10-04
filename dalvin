@@ -952,5 +952,11 @@
         "key": "O1w76PBS2r",
         "expirydate": "04-09-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "65570c000b3f8854",
+        "key": "wBaWdnTE04",
+        "expirydate": "04-08-2043",
+        "Allowoffline": false
     }
 ]
