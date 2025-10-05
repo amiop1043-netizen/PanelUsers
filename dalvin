@@ -1330,5 +1330,11 @@
         "key": "UNCiGvmeHf",
         "expirydate": "05-11-2063",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e9cada159f611817",
+        "key": "ghGAHZLC1t",
+        "expirydate": "05-03-2032",
+        "Allowoffline": false
     }
 ]
