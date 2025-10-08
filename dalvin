@@ -1630,5 +1630,11 @@
         "key": "UNECLPFjKl",
         "expirydate": "08-06-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3efdf5d2ec8ac34e",
+        "key": "GS6w1A0Ds9",
+        "expirydate": "08-03-2033",
+        "Allowoffline": false
     }
 ]
