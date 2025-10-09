@@ -1696,5 +1696,11 @@
         "key": "GwS4jbusBD",
         "expirydate": "09-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b8503affb91491af",
+        "key": "QmsN4cODSF",
+        "expirydate": "09-01-2033",
+        "Allowoffline": false
     }
 ]
