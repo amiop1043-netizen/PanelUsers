@@ -1834,5 +1834,11 @@
         "key": "Bb68WYMI1m",
         "expirydate": "12-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6e1937dc1e4fa48a",
+        "key": "47dtAIXVYE",
+        "expirydate": "12-09-2027",
+        "Allowoffline": false
     }
 ]
