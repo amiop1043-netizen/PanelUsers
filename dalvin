@@ -1960,5 +1960,11 @@
         "key": "YbOevpZqKG",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ea740a699f14cd35",
+        "key": "4Xs7jGrl8m",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
