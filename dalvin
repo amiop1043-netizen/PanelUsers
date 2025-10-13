@@ -1948,5 +1948,11 @@
         "key": "Pj5h6NQz4F",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7865b39d91adcc7f",
+        "key": "drkLxJV4EO",
+        "expirydate": "13-06-2030",
+        "Allowoffline": false
     }
 ]
