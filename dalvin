@@ -1930,5 +1930,11 @@
         "key": "uvQdgjisrh",
         "expirydate": "13-07-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54d6f40c6824b434",
+        "key": "X4mdJgs36Q",
+        "expirydate": "13-02-2033",
+        "Allowoffline": false
     }
 ]
