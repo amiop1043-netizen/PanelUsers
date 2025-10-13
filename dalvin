@@ -1900,5 +1900,11 @@
         "key": "rhqtsm1Ene",
         "expirydate": "13-05-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "633be56bafe42f6f",
+        "key": "8qPGF4R3HI",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
