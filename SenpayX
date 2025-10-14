@@ -46,5 +46,11 @@
         "key": "C2MEx8rnHV",
         "expirydate": "14-01-10359",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d98ec80411e2ec9e",
+        "key": "1yCX50RFJL",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 ]
