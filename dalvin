@@ -2008,5 +2008,11 @@
         "key": "apGSJXsCqB",
         "expirydate": "14-01-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5c4622e3e414e796",
+        "key": "vPqfNldBJT",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 ]
