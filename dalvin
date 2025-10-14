@@ -1996,5 +1996,11 @@
         "key": "dRv8thuXmS",
         "expirydate": "14-06-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dRv8thuXmS",
+        "key": "rf19XDd8BC",
+        "expirydate": "14-04-2030",
+        "Allowoffline": false
     }
 ]
