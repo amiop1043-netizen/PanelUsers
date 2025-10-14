@@ -2020,5 +2020,11 @@
         "key": "eAldcoLhzN",
         "expirydate": "14-03-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1611ad71d2ff39ed",
+        "key": "vK2eo94FjR",
+        "expirydate": "14-06-2030",
+        "Allowoffline": false
     }
 ]
