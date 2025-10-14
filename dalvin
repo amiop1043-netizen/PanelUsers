@@ -2002,5 +2002,11 @@
         "key": "rf19XDd8BC",
         "expirydate": "14-04-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e8572953f6400336",
+        "key": "apGSJXsCqB",
+        "expirydate": "14-01-2034",
+        "Allowoffline": false
     }
 ]
