@@ -58,5 +58,11 @@
         "key": "fiLanScpkT",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "982e4478048f2b21",
+        "key": "QjEzeTul0W",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
