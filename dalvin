@@ -2062,5 +2062,11 @@
         "key": "SMtomFk7hB",
         "expirydate": "15-02-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "128f42cbb155f4cc",
+        "key": "bpUAVwJuZ9",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
     }
 ]
