@@ -2212,5 +2212,11 @@
         "key": "SEigutP3bI",
         "expirydate": "20-03-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f24e6f5687a3048",
+        "key": "8qki5hxGV1",
+        "expirydate": "20-04-2030",
+        "Allowoffline": false
     }
 ]
