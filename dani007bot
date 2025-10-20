@@ -26,6 +26,15 @@
             "status": "inactive",
             "created_date": "2024-01-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6414-SECU-3A5B",
+            "device_id": "\u06a9\u0648\u0646 \u0644\u0642\u062a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-20",
+            "max_devices": 1
         }
     ]
 }
