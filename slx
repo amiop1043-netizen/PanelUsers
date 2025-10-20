@@ -34,5 +34,11 @@
         "key": "cugNGidl5B",
         "expirydate": "20-01-2859",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b894735241018bc",
+        "key": "wiSCHlJbs5",
+        "expirydate": "20-01-2859",
+        "Allowoffline": false
     }
 ]
