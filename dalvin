@@ -2224,5 +2224,11 @@
         "key": "RyaMAm2oZ0",
         "expirydate": "20-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6a4a19ad5c8ce97f",
+        "key": "BMZrnkAqce",
+        "expirydate": "20-03-2031",
+        "Allowoffline": false
     }
 ]
