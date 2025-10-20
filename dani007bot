@@ -35,6 +35,15 @@
             "status": "active",
             "created_date": "2025-10-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-388A-SECU-9E10",
+            "device_id": "mtxff12345",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-20",
+            "max_devices": 1
         }
     ]
 }
