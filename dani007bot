@@ -89,6 +89,15 @@
             "status": "active",
             "created_date": "2025-10-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F096-SECU-02BE",
+            "device_id": "@Dani_007kBot",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-21",
+            "max_devices": 1
         }
     ]
 }
