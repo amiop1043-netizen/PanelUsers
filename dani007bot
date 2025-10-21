@@ -71,6 +71,15 @@
             "status": "active",
             "created_date": "2025-10-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AFD2-SECU-9C71",
+            "device_id": "9e51f164-76fe-40f5-8a85-394a98d2b6ab",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-21",
+            "max_devices": 1
         }
     ]
 }
