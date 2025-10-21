@@ -80,6 +80,15 @@
             "status": "active",
             "created_date": "2025-10-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A1CF-SECU-8380",
+            "device_id": "5fe8877c-5009-49e0-8983-ed55bd4b0d4e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-21",
+            "max_devices": 1
         }
     ]
 }
