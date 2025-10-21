@@ -35,6 +35,15 @@
             "status": "active",
             "created_date": "2025-10-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-15D5-SECU-AA79",
+            "device_id": "612b1ce0-21fa-446f-b1be-2ef9d07939a5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-21",
+            "max_devices": 1
         }
     ]
 }
