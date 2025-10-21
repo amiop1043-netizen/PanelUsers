@@ -2290,5 +2290,11 @@
         "key": "WbevqZsnuw",
         "expirydate": "21-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9f71513b9aea178b",
+        "key": "Ti32fXdIMK",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
