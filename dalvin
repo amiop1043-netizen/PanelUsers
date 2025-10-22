@@ -2296,5 +2296,11 @@
         "key": "Ti32fXdIMK",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9daff83721925b05",
+        "key": "uY9WIHUSh0",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
