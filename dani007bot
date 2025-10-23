@@ -1961,6 +1961,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7A21-SECU-5B88",
+            "device_id": "bd5d1f2a-116d-4ea1-ba5c-1a7bcda35f5b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
