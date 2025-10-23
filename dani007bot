@@ -3095,6 +3095,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-86A4-SECU-9829",
+            "device_id": "b875a0bd-370e-4f8a-81a4-afc535620638",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
