@@ -1151,6 +1151,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ED38-SECU-618A",
+            "device_id": "073ac450-8f52-4135-bdc1-ece6ae4b8650",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
