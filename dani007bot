@@ -1313,6 +1313,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D5E5-SECU-B030",
+            "device_id": "08080ba3-d92b-4b62-9b9d-956434e2bb19",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
