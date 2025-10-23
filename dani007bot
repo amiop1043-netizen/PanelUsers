@@ -2753,6 +2753,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CDF7-SECU-CC31",
+            "device_id": "39e815ce-c838-46f1-8b41-6e06103dd264",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
