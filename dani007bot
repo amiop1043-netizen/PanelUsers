@@ -3410,6 +3410,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8F80-SECU-EB90",
+            "device_id": "cb8ba46a-e0a2-4a29-92ce-792ebf3327ae",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
