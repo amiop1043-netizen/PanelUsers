@@ -2402,6 +2402,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1CD1-SECU-28C7",
+            "device_id": "479a7d44-c352-4b1b-8a88-a415777de636",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
