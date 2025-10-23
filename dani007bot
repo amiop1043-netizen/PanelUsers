@@ -2870,6 +2870,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5DD5-SECU-880B",
+            "device_id": "c0eff637-7531-4730-9a7e-2acf4aad43fd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
