@@ -296,6 +296,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CE5C-SECU-E2E9",
+            "device_id": "7eb891be-c9eb-401c-b4ae-41318600b2eb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
