@@ -1376,6 +1376,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6876-SECU-05C9",
+            "device_id": "dec4959b-46cc-408c-ab53-93bde8956c0f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
