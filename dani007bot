@@ -2564,6 +2564,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E14A-SECU-AC10",
+            "device_id": "4c58307a-7992-4cf2-b2f1-00ff4dbd111b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
