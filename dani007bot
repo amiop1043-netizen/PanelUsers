@@ -2258,6 +2258,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2B73-SECU-C46C",
+            "device_id": "6ab3c56a-a781-46da-875e-ab7a7b247a37",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
