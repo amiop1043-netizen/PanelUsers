@@ -3032,6 +3032,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-50B4-SECU-A712",
+            "device_id": "f4d5b2e3-7fe0-4bc1-b9bc-19f28a55e05f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
