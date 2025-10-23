@@ -179,6 +179,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EECC-SECU-54FD",
+            "device_id": "860dff97-2cb3-4356-b667-5356f5bd8b27",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
