@@ -224,6 +224,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-244F-SECU-B3AC",
+            "device_id": "bfb9e51d-6138-49b4-b8af-b0f5e919e275",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
