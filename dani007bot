@@ -2159,6 +2159,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-88CC-SECU-75D3",
+            "device_id": "78034bd3-bcac-4d06-87cf-e45beaef2589",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
