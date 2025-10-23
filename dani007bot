@@ -125,6 +125,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5303-SECU-CC17",
+            "device_id": "ea5e9f06-c3b5-421c-8a33-525ffb3a590c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
