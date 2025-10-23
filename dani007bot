@@ -836,6 +836,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-97FA-SECU-D8CF",
+            "device_id": "740d7f64-a5f1-41d1-a0de-b16e8cb252e5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
