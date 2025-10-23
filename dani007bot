@@ -1925,6 +1925,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6881-SECU-519B",
+            "device_id": "532dd7c3-18ee-4308-b1f2-6ab92fc1042b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
