@@ -1664,6 +1664,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-117F-SECU-594F",
+            "device_id": "sh /sdcard/FPS_MODE/Lock60Fps.sh",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
