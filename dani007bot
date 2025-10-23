@@ -3239,6 +3239,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F986-SECU-21E3",
+            "device_id": "75fcfc9b-72b2-48bd-b18f-ba262cd99a8f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
