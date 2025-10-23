@@ -1232,6 +1232,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7F24-SECU-FEB8",
+            "device_id": "07755770-05ac-4909-a04c-92da6b2ccd31",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
