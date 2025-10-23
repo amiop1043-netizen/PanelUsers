@@ -1088,6 +1088,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D6D3-SECU-140A",
+            "device_id": "e3cc7742-2bf0-4e49-93ea-6e1d8e1dbae7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
