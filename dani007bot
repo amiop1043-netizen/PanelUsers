@@ -1844,6 +1844,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8750-SECU-74AD",
+            "device_id": "7d518f19-82b2-49f7-a939-a9731f79d554",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
