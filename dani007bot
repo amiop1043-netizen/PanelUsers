@@ -1808,6 +1808,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-50E7-SECU-B1C7",
+            "device_id": "96bfdec6-0ee0-4162-af13-27270056c3be",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
