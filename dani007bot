@@ -1520,6 +1520,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2D1F-SECU-EE71",
+            "device_id": "0d4f05c8-a20b-43bd-87f6-a6850656426f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
