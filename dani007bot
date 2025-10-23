@@ -638,6 +638,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2D1B-SECU-F378",
+            "device_id": "25eee2d1-59c8-45b3-aa07-d60218e16e15",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
