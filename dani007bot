@@ -2231,6 +2231,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-78EB-SECU-53A3",
+            "device_id": "5ecec2d7-e46f-4e12-bad2-3ebf19946ede",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
