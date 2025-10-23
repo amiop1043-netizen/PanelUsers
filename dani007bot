@@ -1466,6 +1466,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7684-SECU-A4C4",
+            "device_id": "217e8a02-79da-42c4-b882-7e51af0807ac",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
