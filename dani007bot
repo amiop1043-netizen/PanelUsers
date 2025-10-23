@@ -350,6 +350,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-931B-SECU-6B51",
+            "device_id": "115db0b0-3f29-470b-ac6e-dee9562ecfee",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
