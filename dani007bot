@@ -1972,15 +1972,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-E77D-SECU-8F28",
-            "device_id": "bd068473-e67d-48ea-a0f3-50c8fd99fdcc",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-01BB-SECU-CBAB",
             "device_id": "7ff74f5a-d1c5-4e95-8849-807dff7a8d2d",
             "expiry_date": "2069-12-31",
