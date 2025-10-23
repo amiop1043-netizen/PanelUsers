@@ -2096,6 +2096,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8661-SECU-2EFF",
+            "device_id": "a7b405e4-f046-47cd-8bcf-9d3665677de5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
