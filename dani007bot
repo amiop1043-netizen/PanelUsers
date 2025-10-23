@@ -287,6 +287,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-92B0-SECU-BBE2",
+            "device_id": "62bebb62-d443-47c6-88b6-b192ce6ad128",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
