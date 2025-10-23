@@ -314,6 +314,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BF30-SECU-231B",
+            "device_id": "a122bc6d-6b8a-4043-8c02-f09b0ceddadc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
