@@ -2690,6 +2690,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B83B-SECU-E227",
+            "device_id": "206a71c2-6fb7-401e-a9bd-ddbd48139698",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
