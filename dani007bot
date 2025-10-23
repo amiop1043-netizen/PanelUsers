@@ -2708,6 +2708,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1784-SECU-AF38",
+            "device_id": "3ff7318a-0c65-4d95-ab70-83eb077a474b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
