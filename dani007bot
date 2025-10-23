@@ -2879,6 +2879,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F82B-SECU-DC0D",
+            "device_id": "c75ffae0-5d80-40ed-b3af-08a592d47ac4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
