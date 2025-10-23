@@ -1430,6 +1430,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B29C-SECU-3E61",
+            "device_id": "60b529c8-a204-48a7-a545-10d5f1b346ff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
