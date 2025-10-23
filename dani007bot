@@ -1385,6 +1385,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-42BA-SECU-0303",
+            "device_id": "64ba8c54-82ab-4201-969a-40d39561a3e2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
