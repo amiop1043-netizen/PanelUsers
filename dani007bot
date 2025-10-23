@@ -3266,6 +3266,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CB6C-SECU-7899",
+            "device_id": "8e950e92-7459-4ea1-9726-e8c1efbd9a85",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
