@@ -2222,6 +2222,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8A28-SECU-FC43",
+            "device_id": "3b1fec93-6295-4fcd-9911-742a53b02962",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
