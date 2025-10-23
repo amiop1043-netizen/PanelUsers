@@ -1763,6 +1763,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-39CE-SECU-E089",
+            "device_id": "8bce4eb9-1402-4023-9d21-3a75267e7832",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
