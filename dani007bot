@@ -2645,6 +2645,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4A9D-SECU-9840",
+            "device_id": "fadf7797-72ec-4c14-be89-b3910005bf4f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
