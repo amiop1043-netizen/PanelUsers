@@ -3329,6 +3329,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-102C-SECU-5013",
+            "device_id": "ce2a13e1-30dc-4b29-aab6-50bfbf5e00a6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
