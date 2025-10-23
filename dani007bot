@@ -2024,6 +2024,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4888-SECU-FC32",
+            "device_id": "4b2cf4ac-3c46-42b7-a894-9dc9ea09847f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
