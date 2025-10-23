@@ -1196,6 +1196,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C335-SECU-84D8",
+            "device_id": "0bce6376-6106-498a-ba7c-c5fdf55db747",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
