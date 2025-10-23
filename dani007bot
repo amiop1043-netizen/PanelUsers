@@ -2132,6 +2132,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2DB5-SECU-107A",
+            "device_id": "bf04a6fe-fdd2-4621-89a7-6ce5fbd8a589",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
