@@ -2726,6 +2726,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FF7F-SECU-DB50",
+            "device_id": "0e8c0b66-0acb-4dfa-9b9b-cd067ba6f59d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
