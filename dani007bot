@@ -2897,6 +2897,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A7DA-SECU-7400",
+            "device_id": "0ab546c7-60c4-4293-adab-129990c4cdfa",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
