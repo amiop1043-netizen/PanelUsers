@@ -2375,6 +2375,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CC9F-SECU-ABC3",
+            "device_id": "889ca3aa-1876-486e-82ed-651a755aaa74",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
