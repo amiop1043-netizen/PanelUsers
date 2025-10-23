@@ -2150,6 +2150,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AF3F-SECU-6226",
+            "device_id": "c50cc9f0-e4e0-469a-aae8-9e28b0bf3f78",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
