@@ -1169,6 +1169,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A9BA-SECU-1368",
+            "device_id": "1d553234-6129-4aeb-85bf-acb42fb3324c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
