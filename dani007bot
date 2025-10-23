@@ -2555,6 +2555,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CC4F-SECU-31E9",
+            "device_id": "22d63747-c706-4a0e-9c55-6381266b6999",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
