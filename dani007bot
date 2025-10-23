@@ -2015,6 +2015,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-38AC-SECU-9416",
+            "device_id": "162d7014-085d-4791-b1ed-5ad11ce4f6d7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
