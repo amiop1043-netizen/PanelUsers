@@ -2906,6 +2906,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-52C7-SECU-A893",
+            "device_id": "992c6e54-35ee-45c1-9d00-1872465b9e0f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
