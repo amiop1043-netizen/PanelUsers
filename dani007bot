@@ -1709,6 +1709,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5AD0-SECU-B824",
+            "device_id": "1f50ea49-aaad-4bcf-8032-df8f90152865",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
