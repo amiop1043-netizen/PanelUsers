@@ -2816,6 +2816,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A548-SECU-9FAA",
+            "device_id": "892d3930-d9f9-4c91-8c9e-a40abbc59cfe",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
