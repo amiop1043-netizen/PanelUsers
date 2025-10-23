@@ -1502,6 +1502,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8502-SECU-F596",
+            "device_id": "13224ebf-017c-4b5c-8c93-63f5f53b4978",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
