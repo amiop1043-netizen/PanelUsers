@@ -1772,6 +1772,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7504-SECU-550C",
+            "device_id": "966f951b-ff07-4cbc-b8dd-41959bbaca37",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
