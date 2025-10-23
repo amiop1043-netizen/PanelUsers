@@ -2546,6 +2546,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-013F-SECU-2962",
+            "device_id": "fc8dfcda-c021-4f5f-ac5c-7e2b260a5018",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
