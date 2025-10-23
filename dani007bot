@@ -2825,6 +2825,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-345A-SECU-F5B5",
+            "device_id": "b68e52ce-e0eb-4bb9-aea1-1a0757076c6e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
