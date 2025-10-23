@@ -1106,6 +1106,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-007F-SECU-0D35",
+            "device_id": "3aa5b16d-b2cf-4714-9a49-632630d04d2d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
