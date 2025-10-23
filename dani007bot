@@ -746,6 +746,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DCFE-SECU-43A0",
+            "device_id": "a6e1bc23-6604-43f2-b1cd-14f824df4101",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
