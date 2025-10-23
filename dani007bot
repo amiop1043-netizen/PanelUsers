@@ -557,6 +557,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0ACD-SECU-722B",
+            "device_id": "5cdebbfb-2daa-4092-994e-4b92bc621cb2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
