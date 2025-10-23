@@ -1601,6 +1601,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-15E3-SECU-94C0",
+            "device_id": "9057b84d-780e-4953-812b-07f52d69aa9c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
