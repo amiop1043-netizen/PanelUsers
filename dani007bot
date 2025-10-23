@@ -2672,6 +2672,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-72E4-SECU-3AE9",
+            "device_id": "5a505ffd-cfe8-4043-b78f-fe03d1cdc837",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
