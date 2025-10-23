@@ -1817,6 +1817,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6C5C-SECU-5FF0",
+            "device_id": "575bf7a1-da1d-4ae1-8bdc-31742acbfc1e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
