@@ -3320,6 +3320,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0A17-SECU-EEFC",
+            "device_id": "89bff8db-ae7f-4ea4-9a2b-dbb539c19448",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
