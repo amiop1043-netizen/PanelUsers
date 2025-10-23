@@ -2843,6 +2843,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F3F6-SECU-7465",
+            "device_id": "f035b6a1-f22b-4841-b460-21f75b5a1f08",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
