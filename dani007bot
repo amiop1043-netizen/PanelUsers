@@ -3203,6 +3203,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8DFB-SECU-6D98",
+            "device_id": "fe4b618f-cdae-4027-84e9-2c5468461323",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
