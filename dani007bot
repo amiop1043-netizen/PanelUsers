@@ -3401,6 +3401,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1F3A-SECU-B78D",
+            "device_id": "5a432035-bc2e-4201-b751-2d6c5d3a0fff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
