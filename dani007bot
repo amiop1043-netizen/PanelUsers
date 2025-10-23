@@ -116,6 +116,15 @@
             "status": "active",
             "created_date": "2025-10-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DD65-SECU-E87B",
+            "device_id": "10f3e97b-43b1-4ebd-be5e-eedabf6852de",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
