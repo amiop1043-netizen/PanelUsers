@@ -1574,6 +1574,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AF52-SECU-0CA1",
+            "device_id": "c6bdaf97-3107-4fa4-beac-fea61d1b116b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
