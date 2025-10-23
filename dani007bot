@@ -341,6 +341,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3CA0-SECU-2ACF",
+            "device_id": "53d8dd1e-95fc-47c9-a023-01e20a4421d8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
