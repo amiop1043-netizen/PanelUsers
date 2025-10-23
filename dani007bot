@@ -3230,6 +3230,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2E5A-SECU-1EE8",
+            "device_id": "b9dee1d1-cbce-4367-a0a6-f369b2b7753a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
