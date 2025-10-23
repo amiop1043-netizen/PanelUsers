@@ -494,6 +494,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-330E-SECU-93B6",
+            "device_id": "a08c934a-ab8a-47a6-b95d-c1fd5ffdf837",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
