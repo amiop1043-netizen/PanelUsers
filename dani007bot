@@ -1475,6 +1475,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CD2B-SECU-ED31",
+            "device_id": "c9b40c9a-0660-46e8-8480-d2053b53bc4c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
