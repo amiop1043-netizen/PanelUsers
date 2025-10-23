@@ -2888,6 +2888,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-63EC-SECU-FA6B",
+            "device_id": "56ae830a-a758-4fcd-8bd7-791fb3a18af9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
