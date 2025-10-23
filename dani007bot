@@ -1259,6 +1259,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7285-SECU-1A6C",
+            "device_id": "f692ddfb-f1f4-4566-8943-94aba72e1d58",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
