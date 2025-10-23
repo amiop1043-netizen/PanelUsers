@@ -2600,6 +2600,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8A82-SECU-FA8C",
+            "device_id": "388b3017-380a-4b98-ab19-81ceb59d680e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
