@@ -3158,6 +3158,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1830-SECU-E1E4",
+            "device_id": "38be937f-7822-459e-9e80-c4bb3760f86a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
