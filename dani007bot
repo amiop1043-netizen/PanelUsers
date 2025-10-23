@@ -2654,6 +2654,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E48B-SECU-FA2E",
+            "device_id": "c1e1e16a-d6ee-48ec-b564-721e26e6deac",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
