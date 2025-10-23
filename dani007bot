@@ -3131,6 +3131,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C220-SECU-4DC3",
+            "device_id": "391872b6-96c7-4fb5-be6e-74afae3214dc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
