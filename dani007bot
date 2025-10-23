@@ -3104,6 +3104,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FEE4-SECU-47F8",
+            "device_id": "3e7a9a9c-726d-45a9-9203-1997e747be6f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
