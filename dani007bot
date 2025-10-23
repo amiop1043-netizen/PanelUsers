@@ -2627,6 +2627,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CB17-SECU-E83A",
+            "device_id": "0931cfd4-e99e-4f1d-acbc-446ff1464851",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
