@@ -2105,6 +2105,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-58EF-SECU-920A",
+            "device_id": "a8ffa8bc-5707-48aa-a4cf-a21bb7d8c12e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
