@@ -3257,6 +3257,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-824B-SECU-1E12",
+            "device_id": "baa68c4b-ecc9-4de5-ba67-fba075e5c431",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
