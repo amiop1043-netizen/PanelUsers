@@ -2033,6 +2033,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F608-SECU-3008",
+            "device_id": "c21a6cd3-a170-4b8b-b680-90eb9e2b82ab",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
