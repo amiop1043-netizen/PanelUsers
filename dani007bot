@@ -1754,6 +1754,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8A55-SECU-FB75",
+            "device_id": "c50a904b-1c3b-464c-bfba-8569caf1086d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
