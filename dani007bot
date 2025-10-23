@@ -1538,6 +1538,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-598C-SECU-5FCD",
+            "device_id": "67f403e8-6561-4e17-a9a7-988cc904832f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
