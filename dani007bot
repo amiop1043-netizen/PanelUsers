@@ -2339,6 +2339,15 @@
             "status": "active",
             "created_date": "2025-10-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BAAA-SECU-C1BB",
+            "device_id": "8e9884f7-0d09-4cc4-bb27-28066d73da7d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-23",
+            "max_devices": 1
         }
     ]
 }
