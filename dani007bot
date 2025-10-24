@@ -5372,6 +5372,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F21A-SECU-5CA2",
+            "device_id": "0cdf7837-0380-4f74-84c2-7144ea31b1a3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
