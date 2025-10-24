@@ -5597,6 +5597,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-02F5-SECU-2C45",
+            "device_id": "22311fd1-a670-46f4-8d5e-1a8a41e091f8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
