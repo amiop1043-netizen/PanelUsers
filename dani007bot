@@ -5399,6 +5399,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-662A-SECU-02D9",
+            "device_id": "f01a7028-66d7-48c7-bc3e-4523d5ecc040",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
