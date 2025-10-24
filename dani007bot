@@ -4238,6 +4238,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7422-SECU-F676",
+            "device_id": "d790e70d-ea63-4a80-9f8c-b656de1de494",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
