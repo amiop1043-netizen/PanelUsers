@@ -3500,6 +3500,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-527D-SECU-06D7",
+            "device_id": "b72975eb-790d-4992-9259-1ff8d39a2ee7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
