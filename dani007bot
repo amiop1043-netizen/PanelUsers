@@ -4724,6 +4724,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-134F-SECU-DF2F",
+            "device_id": "1a1a6d00-daa7-4f3d-8cd1-9bee2e5997b1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
