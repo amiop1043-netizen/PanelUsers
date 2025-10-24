@@ -4931,6 +4931,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-59FA-SECU-B956",
+            "device_id": "0e00a004-f5a0-48c5-b9ae-060405b34ade",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
