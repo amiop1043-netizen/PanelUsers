@@ -4391,6 +4391,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7C58-SECU-19D4",
+            "device_id": "0e11745f-86da-4d1a-9e9a-f2a2a087cfe8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
