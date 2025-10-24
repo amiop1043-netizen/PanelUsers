@@ -5723,6 +5723,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3F71-SECU-0EBC",
+            "device_id": "48221c33-9eb2-4865-8aa9-db176fcf88e0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
