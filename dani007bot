@@ -3482,6 +3482,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E5B5-SECU-E328",
+            "device_id": "7891e229-c6de-4ef4-ac1a-62f7e2d958af",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
