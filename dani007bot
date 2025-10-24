@@ -4121,6 +4121,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6306-SECU-5F44",
+            "device_id": "1beda5fb-35e5-4c4c-a318-76d4a2535b9a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
