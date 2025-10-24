@@ -3437,6 +3437,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B9FD-SECU-0AAC",
+            "device_id": "251cddd9-5d86-4103-a793-f41378eff80b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
