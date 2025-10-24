@@ -4085,6 +4085,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-934E-SECU-7CF9",
+            "device_id": "b413ed69-66f4-49c7-a92e-ae3aeddf50f4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
