@@ -892,15 +892,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-1ABF-SECU-A700",
-            "device_id": "53141ff9-3932-417d-908c-289a0e7d3ba3",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-1238-SECU-EF08",
             "device_id": "97b0e062-4131-4459-82a8-46f01f5102ca",
             "expiry_date": "2069-12-31",
