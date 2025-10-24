@@ -5588,6 +5588,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CA4E-SECU-4358",
+            "device_id": "3a8cc692-c32f-45cf-8eed-10f1540377a9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
