@@ -4733,6 +4733,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1F92-SECU-E953",
+            "device_id": "e6ce8e02-baec-4648-b6f5-527cf76179e9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
