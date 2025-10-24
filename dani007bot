@@ -3752,15 +3752,6 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
-        },
-        {
-            "key": "MTX-C1F0-SECU-655B",
-            "device_id": "060b43f6-76df-4d57-9b3c-ba48a79f5193",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
         }
     ]
 }
