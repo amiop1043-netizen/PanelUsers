@@ -4508,6 +4508,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0B88-SECU-0527",
+            "device_id": "5d7f0adb-0262-4640-b2a1-b7ad2b22c0c3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
