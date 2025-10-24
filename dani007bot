@@ -5606,6 +5606,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9AF8-SECU-584B",
+            "device_id": "5cdefced-46cf-4cf8-b92b-a58014839601",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
