@@ -5696,6 +5696,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C5C4-SECU-50A4",
+            "device_id": "c65c16ff-fe18-4ef4-be1c-be00dc384bfc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
