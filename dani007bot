@@ -5687,6 +5687,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A391-SECU-5563",
+            "device_id": "7da9eec6-b42f-4cec-8dd1-87659cb46bb9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
