@@ -3437,6 +3437,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-65EC-SECU-4909",
+            "device_id": "89bff8db-ae7f-4ea4-9a2b-dbb539c19448",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
