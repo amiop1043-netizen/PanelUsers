@@ -4652,6 +4652,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-35B4-SECU-7931",
+            "device_id": "a2b95a01-90ac-4139-970a-a241dec55cc3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
