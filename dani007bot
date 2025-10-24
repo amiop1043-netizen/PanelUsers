@@ -3581,6 +3581,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FD06-SECU-A456",
+            "device_id": "28eef7b5-5cff-4c64-9c18-9f2a0bcc6157",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
