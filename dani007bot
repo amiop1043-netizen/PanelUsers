@@ -4310,6 +4310,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9D58-SECU-AB99",
+            "device_id": "fafcebeb-8fb8-442e-b26b-d115c40cec73",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
