@@ -5732,6 +5732,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AEE3-SECU-0993",
+            "device_id": "46d63d90-ea62-4a36-9169-8542a8180e04",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
