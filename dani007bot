@@ -4139,6 +4139,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B331-SECU-9A22",
+            "device_id": "3e7bcc32-e6fd-4bf5-8715-f5b9c1389932",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
