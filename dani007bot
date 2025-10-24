@@ -4400,6 +4400,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2A08-SECU-F554",
+            "device_id": "3ebd2b66-ad2b-4639-9f69-b3b93a9af13b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
