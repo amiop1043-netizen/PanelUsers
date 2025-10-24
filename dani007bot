@@ -3860,6 +3860,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4E4C-SECU-FE27",
+            "device_id": "270b5862-d8ef-43e4-bf31-3da6af84f399",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
