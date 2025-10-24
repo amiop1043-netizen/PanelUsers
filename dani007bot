@@ -4598,6 +4598,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B23C-SECU-5EEE",
+            "device_id": "d8d32306-f8d5-4b6e-9f88-b28faf97a0a3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
