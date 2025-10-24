@@ -4589,6 +4589,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5544-SECU-0135",
+            "device_id": "c78fdf5c-9740-4134-9d53-6590569a9d43",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
