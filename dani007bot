@@ -5669,6 +5669,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C843-SECU-BA32",
+            "device_id": "9dbb9592-4bac-4cad-a54f-b664bc7f3ea7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
