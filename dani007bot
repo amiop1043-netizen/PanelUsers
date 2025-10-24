@@ -3617,6 +3617,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-53E5-SECU-A98A",
+            "device_id": "44c2e6fe-e47e-46be-9076-a0b52df89c30",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
