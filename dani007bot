@@ -3635,6 +3635,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CFD8-SECU-F507",
+            "device_id": "72104029-1dc7-49e3-9bf8-2b4febfc7abb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
