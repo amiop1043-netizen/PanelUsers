@@ -5147,6 +5147,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D717-SECU-80B5",
+            "device_id": "58129dd5-3045-4335-8fba-d912d1076672",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
