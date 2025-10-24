@@ -4067,6 +4067,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8DC7-SECU-B454",
+            "device_id": "5e58b221-01cd-4dcd-b22d-ad0076d4ad21",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
