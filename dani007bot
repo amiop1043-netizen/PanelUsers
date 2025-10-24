@@ -4427,6 +4427,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9789-SECU-CFE1",
+            "device_id": "2dbb5da1-15a8-40fe-8cb3-c2b6a1ef4ffc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
