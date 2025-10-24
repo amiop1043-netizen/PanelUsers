@@ -4850,6 +4850,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-89A0-SECU-FC46",
+            "device_id": "c2f4423d-05fb-41aa-9e04-c217a598157a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
