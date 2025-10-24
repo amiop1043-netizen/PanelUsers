@@ -5075,6 +5075,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6DCA-SECU-0695",
+            "device_id": "cd26284d-1052-46cd-9441-dd1d4de4ea3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
