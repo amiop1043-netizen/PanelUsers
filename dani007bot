@@ -5552,6 +5552,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8E31-SECU-7AE1",
+            "device_id": "9404caec-2411-42c4-83ec-8c0d423b38df",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
