@@ -4247,6 +4247,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1337-SECU-43A4",
+            "device_id": "961c93ad-e064-4de1-ae92-5cb3c844d522",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
