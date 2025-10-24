@@ -4994,6 +4994,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5809-SECU-4593",
+            "device_id": "045d8e5c-2026-4400-8089-5ba7d2aba5f8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
