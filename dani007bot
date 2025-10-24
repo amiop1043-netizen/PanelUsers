@@ -4337,6 +4337,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BBF6-SECU-4D48",
+            "device_id": "b85f4ccd-ba48-4efc-972d-3e715e480c2b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
