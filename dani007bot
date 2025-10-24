@@ -4706,6 +4706,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DB86-SECU-5C11",
+            "device_id": "d86a3370-d0e0-4a19-a591-9ee276240552",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
