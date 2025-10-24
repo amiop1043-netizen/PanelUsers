@@ -3833,6 +3833,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-68B3-SECU-6A8E",
+            "device_id": "f36476e6-81b4-4f3d-894d-3b509897d857",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
