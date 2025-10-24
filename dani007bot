@@ -5129,6 +5129,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1971-SECU-A3F0",
+            "device_id": "18674c21-5064-4ec2-9627-bfc354dbe63a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
