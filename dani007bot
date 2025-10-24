@@ -5651,6 +5651,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-750C-SECU-9EA8",
+            "device_id": "d37dd856-5382-46ea-9510-12c40b110a9b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
