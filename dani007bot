@@ -4562,6 +4562,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4CA6-SECU-3319",
+            "device_id": "e9ce9258-4e9f-4e02-9058-3c309733787e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
