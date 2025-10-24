@@ -5741,6 +5741,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6EB7-SECU-E349",
+            "device_id": "74a694f4-3500-428d-a0ae-3ad0e00360ee",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
