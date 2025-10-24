@@ -5516,6 +5516,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B43A-SECU-FB38",
+            "device_id": "99d131b3-e165-4cdd-935d-de4e8183eac1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
