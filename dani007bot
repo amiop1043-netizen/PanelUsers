@@ -4130,6 +4130,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F094-SECU-F216",
+            "device_id": "aa3cffb3-c5cc-4508-b528-d37bc2bd2250",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
