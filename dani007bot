@@ -4562,6 +4562,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EB5D-SECU-7447",
+            "device_id": "66192c26-f610-47b6-85d0-bfad052c9d51",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
