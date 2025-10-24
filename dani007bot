@@ -3851,6 +3851,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0196-SECU-5904",
+            "device_id": "6119d107-9ae2-4d4b-a3ea-704564a53ae7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
