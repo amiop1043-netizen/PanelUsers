@@ -5534,6 +5534,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DA7C-SECU-FC54",
+            "device_id": "f19a3af9-47e2-4f54-a4b1-b2e97bcef5dd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
