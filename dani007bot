@@ -4895,6 +4895,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1AB9-SECU-E82F",
+            "device_id": "8c1e9886-3e50-4ce1-97ea-ede21d1271a0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
