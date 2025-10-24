@@ -5363,6 +5363,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DC48-SECU-D264",
+            "device_id": "7ff74f5a-d1c5-4e95-8849-807dff7a8d2d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
