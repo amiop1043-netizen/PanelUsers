@@ -4535,6 +4535,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7E64-SECU-9303",
+            "device_id": "e5da9da5-b20b-408b-8a9b-69ad1a0383bb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
