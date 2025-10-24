@@ -5210,6 +5210,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-95A2-SECU-61B4",
+            "device_id": "afe0b57a-5b21-4ccc-9fb8-af56f299eef5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
