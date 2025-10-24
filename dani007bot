@@ -4580,6 +4580,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9B80-SECU-64A3",
+            "device_id": "14b20a2a-b3d9-46a5-9877-fec57f48ad2f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
