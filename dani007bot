@@ -5327,6 +5327,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-480D-SECU-96A8",
+            "device_id": "8d1cedb2-6e46-43a7-b5ca-3eecc8a8e06f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
