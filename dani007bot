@@ -4319,6 +4319,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EDDE-SECU-416A",
+            "device_id": "5b46602e-9db1-4df5-b910-1b8b7d8ffbc6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
