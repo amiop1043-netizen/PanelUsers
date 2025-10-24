@@ -5426,6 +5426,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5918-SECU-AFA2",
+            "device_id": "2cc85e9a-23e9-42fa-906a-0750559097d7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
