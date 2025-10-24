@@ -4823,6 +4823,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7BA6-SECU-A78D",
+            "device_id": "5dcd3d56-fdad-4f38-bddc-be1a8cd264fb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
