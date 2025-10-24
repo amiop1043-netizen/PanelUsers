@@ -5606,6 +5606,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BAE9-SECU-FE55",
+            "device_id": "63a10485-f5e0-4ca1-b18f-265d8c378609",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
