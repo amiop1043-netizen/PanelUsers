@@ -4166,6 +4166,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D90B-SECU-F4F0",
+            "device_id": "74130146-9dc9-40d9-ad5d-6e8a51cd4c0b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
