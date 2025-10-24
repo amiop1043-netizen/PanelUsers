@@ -5156,6 +5156,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-32DA-SECU-1FB8",
+            "device_id": "3e23658a-b9e2-4e77-9c9e-096da26ff973",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
