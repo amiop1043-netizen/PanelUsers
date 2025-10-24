@@ -4463,6 +4463,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B71C-SECU-35AA",
+            "device_id": "9017d183-6560-42f3-bbc2-c990c653b714",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
