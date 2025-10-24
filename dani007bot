@@ -4445,6 +4445,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5EA0-SECU-B027",
+            "device_id": "6f38f798-9d93-4fd7-8699-5c7860ae8301",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
