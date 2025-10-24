@@ -5246,6 +5246,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-772E-SECU-310E",
+            "device_id": "da953165-2d04-4de3-92ee-2d43511a217d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
