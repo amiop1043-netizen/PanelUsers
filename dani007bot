@@ -5597,6 +5597,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1F6E-SECU-03DB",
+            "device_id": "8bce4eb9-1402-4023-9d21-3a75267e7832",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
