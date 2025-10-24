@@ -3626,6 +3626,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A10A-SECU-2F50",
+            "device_id": "6c1bde04-fd41-47de-926c-fcbb697e2437",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
