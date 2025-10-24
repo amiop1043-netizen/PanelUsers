@@ -5417,6 +5417,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BA02-SECU-D06C",
+            "device_id": "c4427822-40d3-4d95-8428-42cb6854c3d0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
