@@ -5390,6 +5390,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3F69-SECU-364A",
+            "device_id": "f68f5c6b-5b44-4d34-a895-d43cfec4d1f6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
