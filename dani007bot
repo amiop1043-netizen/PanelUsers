@@ -4472,6 +4472,15 @@
             "status": "active",
             "created_date": "2025-10-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5F36-SECU-3720",
+            "device_id": "c5db880c-69e1-478c-8977-2a74034fa0cf",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-24",
+            "max_devices": 1
         }
     ]
 }
