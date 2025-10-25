@@ -6506,6 +6506,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D18A-SECU-DE60",
+            "device_id": "68828ca7-32bc-4a7e-a138-baae280113e5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
