@@ -6659,6 +6659,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C1DA-SECU-CB54",
+            "device_id": "d9572c52-f2e5-47d7-8140-84b9401a6883",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
