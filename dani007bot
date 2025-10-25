@@ -5840,6 +5840,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-42E4-SECU-1AB8",
+            "device_id": "ade8abd1-ffd9-4ac3-b20c-3d8a2ee1945f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
