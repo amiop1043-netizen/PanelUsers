@@ -6227,6 +6227,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1CDA-SECU-5E90",
+            "device_id": "7667dd0a-97cf-4b67-8d7f-fdc1e2e7b9af",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
