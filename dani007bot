@@ -6452,6 +6452,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AFB6-SECU-CEA4",
+            "device_id": "ecf6b188-9bfe-4e02-b6db-0276c1f04e01",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
