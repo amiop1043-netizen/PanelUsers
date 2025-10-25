@@ -6794,6 +6794,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8482-SECU-D4B2",
+            "device_id": "e5115755-4a28-4bdb-8cdd-32fed71679d0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
