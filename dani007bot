@@ -6146,6 +6146,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3EB5-SECU-220B",
+            "device_id": "0713c658-b9e3-4ce2-b16d-a6bca6774774",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
