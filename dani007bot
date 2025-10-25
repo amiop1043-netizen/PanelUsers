@@ -6020,6 +6020,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-814C-SECU-2FFB",
+            "device_id": "c2803388-cc49-4b5b-bfe3-05705a21632e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
