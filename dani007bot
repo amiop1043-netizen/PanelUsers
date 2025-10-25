@@ -6776,6 +6776,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7D7D-SECU-DAFD",
+            "device_id": "403c576a-caa0-45b7-8ebf-cfd7315c7e37",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
