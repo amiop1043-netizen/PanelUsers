@@ -5768,6 +5768,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5B1A-SECU-27F5",
+            "device_id": "4dad5a84-69fe-4d0a-a026-bba544c16efd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
