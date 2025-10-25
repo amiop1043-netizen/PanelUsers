@@ -6326,6 +6326,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F5C1-SECU-42DF",
+            "device_id": "21a79c76-a2de-4c53-984f-6485d159f089",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
