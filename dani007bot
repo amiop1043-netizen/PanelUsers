@@ -5777,6 +5777,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0E64-SECU-B568",
+            "device_id": "dc6a3e39-51dc-4708-ab85-788118ce97d2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
