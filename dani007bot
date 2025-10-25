@@ -6488,6 +6488,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-09CB-SECU-B3B9",
+            "device_id": "e9af3c98-f5ff-45f8-83d6-bbd6c87ac3bf",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
