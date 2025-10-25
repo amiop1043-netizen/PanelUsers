@@ -5957,6 +5957,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DAFD-SECU-AE1D",
+            "device_id": "0ffc907a-038e-4d90-8c6f-56bd3535562b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
