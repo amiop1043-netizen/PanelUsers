@@ -6578,6 +6578,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2277-SECU-3480",
+            "device_id": "2c8ccfa1-262c-49bf-ad02-91853d5afe52",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
