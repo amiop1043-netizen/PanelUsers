@@ -5930,6 +5930,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8895-SECU-4ADD",
+            "device_id": "2945ceaf-fa59-4764-8974-fbbc3311cb3b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
