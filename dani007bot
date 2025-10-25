@@ -5876,6 +5876,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5570-SECU-336D",
+            "device_id": "906d99e9-a7d4-4986-992b-920f8e0f8543",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
