@@ -6695,6 +6695,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-81FF-SECU-5264",
+            "device_id": "31a1fac1-98cf-407a-8d12-663c05a38ba3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
