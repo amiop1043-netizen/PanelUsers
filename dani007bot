@@ -6596,6 +6596,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-885D-SECU-6B5E",
+            "device_id": "47faf77a-3a96-4b47-9f19-573e587fe460",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
