@@ -6785,6 +6785,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7761-SECU-AB15",
+            "device_id": "f00942e1-c5e8-4f64-a11d-5c467b25c6a0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
