@@ -5903,6 +5903,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-87BB-SECU-8BBB",
+            "device_id": "e89644ef-a1f9-44ef-a03d-e32acc965925",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
