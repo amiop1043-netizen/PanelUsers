@@ -94,5 +94,11 @@
         "key": "LTu23hmYB5",
         "expirydate": "25-04-8335358",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d6479c1a9df4314a",
+        "key": "dFOZYfEUBP",
+        "expirydate": "25-01-8335359",
+        "Allowoffline": false
     }
 ]
