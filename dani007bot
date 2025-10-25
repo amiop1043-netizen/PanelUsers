@@ -6353,6 +6353,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FE86-SECU-8661",
+            "device_id": "4ec10fae-3620-4915-a3a6-9dddfd0aea77",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
