@@ -5804,6 +5804,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0BE4-SECU-1621",
+            "device_id": "0d3b5b1a-6242-48d0-8a73-ccca4c0bcf21",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
