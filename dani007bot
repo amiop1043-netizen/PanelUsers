@@ -5912,6 +5912,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7048-SECU-D57F",
+            "device_id": "b643db51-86f5-40cb-8994-ab9f69bfcf56",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
