@@ -6713,6 +6713,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4ABE-SECU-8689",
+            "device_id": "97901b32-b0f6-4648-9036-1122ee2655bb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
