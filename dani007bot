@@ -6218,6 +6218,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EA67-SECU-6341",
+            "device_id": "52c5d8be-d66c-4f76-87c8-e762fe75ec74",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
