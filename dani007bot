@@ -6704,6 +6704,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A98D-SECU-2C98",
+            "device_id": "bc5ee638-4d20-493c-a56a-3d60cd65bb8a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
