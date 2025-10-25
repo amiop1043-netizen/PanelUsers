@@ -6830,6 +6830,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5FEC-SECU-C704",
+            "device_id": "a5239a3b-5c35-46f9-b000-1e175cbd001d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
