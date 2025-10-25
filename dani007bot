@@ -6245,6 +6245,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C235-SECU-92A5",
+            "device_id": "c923a610-3ac6-4136-b512-e7739ac6925a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
