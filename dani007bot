@@ -5914,15 +5914,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-DF16-SECU-76F2",
-            "device_id": "\u0646\u0645\u06cc\u200c\u062f\u0648\u0646\u0645",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-25",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-F8B2-SECU-7662",
             "device_id": "b04ad7be-f152-4058-bf05-63c206895cf9",
             "expiry_date": "2069-12-31",
