@@ -6848,6 +6848,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0880-SECU-0690",
+            "device_id": "5e4cc910-d6ce-4e03-9749-cec8cc17ce06",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
