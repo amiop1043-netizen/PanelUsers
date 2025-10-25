@@ -6803,6 +6803,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-46CA-SECU-D093",
+            "device_id": "c26f0122-5f18-495d-b3f5-21f260beab3b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
