@@ -6542,6 +6542,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BE1D-SECU-D684",
+            "device_id": "4cb2bb66-9355-49f2-8345-2561c992870a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
