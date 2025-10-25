@@ -5939,6 +5939,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F0E7-SECU-95E5",
+            "device_id": "ccf9f1bf-9ab3-4587-9576-12faed78e4bd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
