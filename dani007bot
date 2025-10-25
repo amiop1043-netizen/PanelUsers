@@ -6848,6 +6848,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9BF7-SECU-272E",
+            "device_id": "bf619e8c-274d-437a-8159-9a9be0f8976d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
