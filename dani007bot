@@ -6389,6 +6389,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-180D-SECU-9D49",
+            "device_id": "6f7c07f9-0edc-44a9-a8a2-bd62e2da7dc4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
