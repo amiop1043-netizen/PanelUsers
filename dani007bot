@@ -6119,6 +6119,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6EAF-SECU-186B",
+            "device_id": "16b21251-3e6c-4da1-b3e1-9b6dadda679a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
