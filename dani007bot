@@ -6524,6 +6524,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4DF2-SECU-A554",
+            "device_id": "a77a7e1c-3f6d-423b-bd6e-d998d35b2492",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
