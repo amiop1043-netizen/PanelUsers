@@ -6065,6 +6065,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-60CD-SECU-9C79",
+            "device_id": "e74537fc-af10-4a87-802c-7c00a2487e2f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
