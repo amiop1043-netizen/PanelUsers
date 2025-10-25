@@ -6767,6 +6767,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F61B-SECU-E646",
+            "device_id": "2efb583b-bbad-4c65-883d-17c9e37addb5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
