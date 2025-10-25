@@ -6830,6 +6830,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-61A4-SECU-3D08",
+            "device_id": "12907be0-9830-4286-b87a-ef525c7cef80",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
