@@ -6605,6 +6605,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-00A1-SECU-FD86",
+            "device_id": "331f0bad-687e-4d7e-88c6-b670e24e4ee8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
