@@ -6686,6 +6686,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DEEA-SECU-3187",
+            "device_id": "0e68e0c6-dc3a-42da-87fe-dd4f11a0a42a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
