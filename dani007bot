@@ -6218,6 +6218,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0F92-SECU-24A8",
+            "device_id": "a3bd4afa-a77c-4494-9892-f84d1acb2753",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
