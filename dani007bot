@@ -6650,6 +6650,15 @@
             "status": "active",
             "created_date": "2025-10-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B6B8-SECU-0A2D",
+            "device_id": "b4348646-cf4e-4645-80c7-e6a94a61b74e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-25",
+            "max_devices": 1
         }
     ]
 }
