@@ -6974,6 +6974,15 @@
             "status": "active",
             "created_date": "2025-10-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-00DD-SECU-E367",
+            "device_id": "a855d203-0f43-403b-9142-09e0a204bcda",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-26",
+            "max_devices": 1
         }
     ]
 }
