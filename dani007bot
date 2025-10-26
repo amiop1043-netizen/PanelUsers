@@ -6965,6 +6965,15 @@
             "status": "active",
             "created_date": "2025-10-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B596-SECU-375E",
+            "device_id": "8e60d290-3799-4c2b-9b84-c9d774831964",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-26",
+            "max_devices": 1
         }
     ]
 }
