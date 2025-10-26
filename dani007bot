@@ -6929,6 +6929,15 @@
             "status": "active",
             "created_date": "2025-10-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8F12-SECU-3FF1",
+            "device_id": "d3270914-9b20-44bb-a4ea-5452d81777a7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-26",
+            "max_devices": 1
         }
     ]
 }
