@@ -7064,6 +7064,15 @@
             "status": "active",
             "created_date": "2025-10-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C23B-SECU-846B",
+            "device_id": "bed9c7fb-68ff-44d4-87cb-f91e57c55539",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-26",
+            "max_devices": 1
         }
     ]
 }
