@@ -6965,6 +6965,15 @@
             "status": "active",
             "created_date": "2025-10-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-76FD-SECU-C8AA",
+            "device_id": "6b9f92d7-7f03-4a79-b0b2-57b17fcf5548",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-26",
+            "max_devices": 1
         }
     ]
 }
