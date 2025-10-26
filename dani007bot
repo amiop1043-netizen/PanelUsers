@@ -6920,6 +6920,15 @@
             "status": "active",
             "created_date": "2025-10-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-78AC-SECU-446A",
+            "device_id": "afb374eb-7a24-46c9-8a50-cdd24ce98d26",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-26",
+            "max_devices": 1
         }
     ]
 }
