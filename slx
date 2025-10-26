@@ -136,5 +136,11 @@
         "key": "op2V1avwsn",
         "expirydate": "26-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "87ff44310b0f6e8f",
+        "key": "aOEmHo53QZ",
+        "expirydate": "26-11-2025",
+        "Allowoffline": false
     }
 ]
