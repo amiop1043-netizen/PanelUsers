@@ -6850,15 +6850,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-BFD4-SECU-64A6",
-            "device_id": "066b2f4a-af1b-40dc-9089-28828cd5fae1",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-25",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-310F-SECU-CD9D",
             "device_id": "d0ec44b0-1828-46fe-b60e-2a27d49c94f0",
             "expiry_date": "2069-12-31",
