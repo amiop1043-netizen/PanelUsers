@@ -7136,6 +7136,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3C27-SECU-FDB6",
+            "device_id": "a3bf3146-c381-488c-bae9-d4be2d3a0a7f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
