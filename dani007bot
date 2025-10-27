@@ -7055,6 +7055,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4BC1-SECU-B55F",
+            "device_id": "7f7ced8b-09c8-4d96-93bb-4967915ea31f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
