@@ -4357,15 +4357,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-5707-SECU-15C8",
-            "device_id": "SaveChanges 1\nByPassAntiDetect 1\nByPassMouse 1\nShowMenuInt 45\nShowMenukey 45\nLenguajeMenuHackInt 0\nShowFps 1\nNoRecoil 1\nNoVisualRecoil 1\nNoSpread 1\nRecoilSilent 1\nRealAngles 0\nShotgunsound 0\nPositionAdjustment 0\nNoLerpSafe 0\nActive 1\nActiveKey 116\nAutoBunnyHop 1\nAutoStrafe 0\nEdgeJump 0\nEdgeJumpSpeed 250\nNoduckCooldown 0\nActive 0\nActiveKey 70\nWalking 1\nShots 0\nGame 0\nAntiAim 1\nChockedExploit 0\nFlyLag 0\nFakeLag 0\nActive 1\nActiveKey 112\nAimBotFov 11\nDistance 4614\nDistancePriority 0\nObjetive 0\nMelee 1\nAgressive 1\nCameratracking 0\nRangeAim 1\nTargetAim 1\nAnglesAim 1\nVelocityExtrapolate 0\nForwardtrack 0\nPerfectSilent 1\nVisibleinspection 1\nShotgun 1\nIgnoreAllies 1\nIgnoreCommonInfected 0\nIgnoreBoomer 0\nIgnoreSpitter 0\nIgnoreSmoker 0\nIgnoreJockey 0\nIgnoreHunter 0\nIgnoreCharger 0\nIgnoreTank 0\nIgnoreWitchs 1\nActive 0\nActiveKey 113\nTriggerBotFov 65.9\nDrawPosition 1\nCrosshair 1\nCameratracking 0\nHeadshot 1\nForwardtrack 0\nVelocityExtrapolate 0\nVisableAim 1\nTrackForwardtrack 0\nTrackVelocityExtrapolate 0\nTrackWithoutMagnum 1\nTrackShotgunChest 1\nFollowTheTarget 1\nFollowVisible 1\nFollowFov 51.6\nPreventTooFastShot 0\nIgnoreTicks 3\nDiffOfChange 10\nIgnoreAllies 1\nIgnoreCommonInfected 0\nIgnoreBoomer 0\nIgnoreSpitter 0\nIgnoreSmoker 0\nIgnoreJockey 0\nIgnoreHunter 0\nIgnoreCharger 0\nIgnoreTank 0\nIgnoreWitchs 1\nActiveMelee 0\nActiveMeleeKey 114\nAutoMelee 0\nAutoMeleeFov 70\nAutoMeleeRange 9\nActiveShove 0\nActiveShoveKey 115\nAutoShove 0\nAutoShoveFov 90\nAutoShoveRange 0\nMeleeFaster 1\nVelocityExtrapolate 1\nForwardtrack 1\nVisualOnly 1\nEspBox 1\nEspHeadshot 1\nEspSkeleton 0\nEspName 1\nEspDistance 1\nEspinFov 0\nEspHealth 1\nEspCharacter 0\nEspInfo 0\nEspSpectator 1\nEspSpectatorwidth 720\nEspSpectatorheight 720\nEspMaxDistanceInt 1500\nEspWeapon 0\nEspTier1Weapon 1\nEspTier2Weapon 1\nEspTier3Weapon 1\nEspMeleeWeapon 0\nEspMedical 0\nEspGrenade 0\nEspAmmoUpgrade 0\nEspVisualsCarry 0\nEspProjectile 0\nEspDeadbody 0\nModelsFov 0\nModelsFovInt 90\nModelsViewFovInt 50\nEspChams 0\nDisableBarrel 0\nDisableBarrelDistance 1500\nDisableNoVomit 1\nDisableNoInfectedVision 1\nDisableNoGhostVision 0\nDisableNoFog 0\nEventLoggerActive 1\nEventLoggerSpawnRespawn 0\nEventLoggerDeathKilled 0\nEventLoggerChangeTeam 1\nEventLoggerAttackDamage 0\nZombiesActive 0\nZombiesMeleeRangeExtra 76.6\nZombiesShoveRangeExtra 78.4\nZombiesVisibleOnly 1\nZombiesTargetCheckFov 1\nZombiesCameratracking 0\nZombiesPerfectSilent 1\nZombiesVelocityExtrapolate 1\nZombiesForwardTrack 1\nZombiesSwingPrediction 1\nZombiesMeleeTickMode 0\nZombiesMeleeUnSilienced 0\nZombiesHandleBoomer 0\nZombiesAllowShotSmoker 0\nZombiesAllowCutSmoker 0\nZombiesAllowShoveSmoker 1\nZombiesHandleSmoker 1\nZombiesSmokerDistance 750\nZombiesHandleJockey 1\nZombiesAllowShotJockey 0\nZombiesAllowCutJockey 0\nZombiesAllowShoveJockey 1\nZombiesJockeyDistance 299.5\nZombiesJockeyLungeFOV 90\nZombiesJockeyScale 4.7\nZombiesHandleHunter 1\nZombiesAllowShotHunter 0\nZombiesAllowCutHunter 0\nZombiesAllowShoveHunter 1\nZombiesHunterDistance 278.7\nZombiesHunterLungeFOV 90\nZombiesAllowShotCharger 0\nZombiesAllowCutCharger 0\nZombiesHandleCharger 0\nZombiesChargerDistance 150\nZombiesAllowShotTank 1\nZombiesAllowCutTank 0\nZombiesHandleTank 0\nZombiesHandleTankDistance 350\nMenuTextActive 1\nMenuTextRainbow 0\nMenuTextMover 1\nMenuTextSeparation 18\nMenuTextScale 1\nMenuTextIncluirAimbot 1\nMenuTextIncluirTriggerbot 1\nMenuTextIncluirMeleebot 1\nMenuTextIncluirShovebot 1\nMenuTextIncluirBunnyHop 1\nMenuTextIncluirSpeedHacks  1\nSpeedHacksActiveAvanzado  1\nAimbotHeadshot  1\nZombiesActive  0\nZombiesMeleeRangeExtra  76.6\nZombiesShoveRangeExtra  78.4\nZombiesVisibleOnly  1\nZombiesTargetCheckFov  1\nZombiesCameratracking  0\nZombiesPerfectSilent  1\nZombiesVelocityExtrapolate  1\nZombiesForwardTrack  1\nZombiesSwingPrediction  1\nZombiesMeleeTickMode  0\nZombiesMeleeUnSilienced  0\nZombiesMeleeUnSiliencedFov  90\nZombiesShoveTicks  6\nZombiesMeleeScale  2",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-E071-SECU-7010",
             "device_id": "MTX-2DC6-SECU-03A0",
             "expiry_date": "2069-12-31",
@@ -4413,15 +4404,6 @@
         {
             "key": "MTX-1F92-SECU-E953",
             "device_id": "e6ce8e02-baec-4648-b6f5-527cf76179e9",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-D027-SECU-1398",
-            "device_id": "2692a4f7-6368-4088-b662-7e160b34a72a",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
