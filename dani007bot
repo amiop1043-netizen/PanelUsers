@@ -7109,6 +7109,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9860-SECU-C584",
+            "device_id": "9c7ccbb8-8111-4036-9a80-14c8d169d1d0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
