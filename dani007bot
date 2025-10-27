@@ -7073,6 +7073,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BF0E-SECU-9C71",
+            "device_id": "5cc0beb5-2e33-4982-940f-503006bb5234",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
