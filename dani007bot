@@ -7082,6 +7082,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2C17-SECU-9CA0",
+            "device_id": "0afd0b27-a8ff-4c1a-a6e7-56ef4fda9e90",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
