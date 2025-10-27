@@ -7091,6 +7091,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-535B-SECU-01C8",
+            "device_id": "3f9c8b17-2eba-4517-93a9-329b07a84103",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
