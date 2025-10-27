@@ -7154,6 +7154,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-307D-SECU-3E6B",
+            "device_id": "29011262-bad8-4f81-9fe7-aec4a578f847",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
