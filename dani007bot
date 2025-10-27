@@ -7064,6 +7064,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5C8C-SECU-8BD7",
+            "device_id": "67543c3a-bbed-4388-996f-abfca7c5dc08",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
