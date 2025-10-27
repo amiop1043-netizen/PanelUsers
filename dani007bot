@@ -7109,6 +7109,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ED31-SECU-4CE6",
+            "device_id": "1665fd5e-b632-4c25-b190-2b3dc7066298",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
