@@ -7127,6 +7127,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-93A3-SECU-502C",
+            "device_id": "8fb154ee-64a3-4f33-87ac-c1b905211b5b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
