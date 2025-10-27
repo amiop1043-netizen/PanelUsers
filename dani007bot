@@ -7082,6 +7082,15 @@
             "status": "active",
             "created_date": "2025-10-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5F5C-SECU-D870",
+            "device_id": "\u062d\u062a\u0645\u0627 \u06af\u0648\u0634 \u0628\u062f\u06cc\u062f \u06a9\u0647 \u0645\u062a\u0648\u062c\u0647 \u0628\u0634\u06cc\u0646 \u0686\u06cc \u0628\u0647 \u0686\u06cc\u0647 \u2764\ufe0f\n\n@Dani_007kBot",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-27",
+            "max_devices": 1
         }
     ]
 }
