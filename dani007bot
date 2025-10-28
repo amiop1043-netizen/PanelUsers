@@ -7163,6 +7163,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0239-SECU-9C0C",
+            "device_id": "2a2e22ad-658b-47de-b999-80e62a4e1c17",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
