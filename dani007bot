@@ -7181,6 +7181,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9BA9-SECU-2EDD",
+            "device_id": "992c6e54-35ee-45c1-9d00-1872465b9e0f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
