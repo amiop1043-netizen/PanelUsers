@@ -5068,15 +5068,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-55E7-SECU-C2F5",
-            "device_id": "79a92cad-3b23-4a54-bb31-6be09fe1eabc",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-A614-SECU-D478",
             "device_id": "6b83bc4d-10a7-4491-a43b-774e46fab63a",
             "expiry_date": "2069-12-31",
