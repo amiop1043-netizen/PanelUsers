@@ -7172,6 +7172,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6332-SECU-BEC5",
+            "device_id": "b4d5b486-45b8-4f5a-aad4-88c886c5c3c7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
