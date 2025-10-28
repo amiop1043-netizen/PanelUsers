@@ -7190,6 +7190,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A417-SECU-3024",
+            "device_id": "46bed4a7-2162-4920-9dbc-6b94e02159cd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
