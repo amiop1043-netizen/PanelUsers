@@ -7102,24 +7102,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-71F5-SECU-9FBC",
-            "device_id": "\u0645\u0646 \u067e\u0648\u0644\u0648 \u0646\u062f\u0644\u0630\u0645",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-28",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-5843-SECU-BD1C",
-            "device_id": "MTX-71F5-SECU-9FBC",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-28",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-7069-SECU-4236",
             "device_id": "32b0fa3f-cad9-4163-af40-640946b9aff0",
             "expiry_date": "2069-12-31",
