@@ -7208,6 +7208,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7069-SECU-4236",
+            "device_id": "32b0fa3f-cad9-4163-af40-640946b9aff0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
