@@ -7217,6 +7217,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5079-SECU-E8F3",
+            "device_id": "676ef1fb-66a1-434e-ada2-a02d2b582251",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
