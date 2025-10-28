@@ -7208,6 +7208,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AE57-SECU-3491",
+            "device_id": "Sadx Freestyle 3.0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
