@@ -7208,6 +7208,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4486-SECU-3030",
+            "device_id": "48221c33-9eb2-4865-8aa9-db176fcf88e0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
