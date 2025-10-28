@@ -7199,6 +7199,15 @@
             "status": "active",
             "created_date": "2025-10-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5843-SECU-BD1C",
+            "device_id": "MTX-71F5-SECU-9FBC",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-28",
+            "max_devices": 1
         }
     ]
 }
