@@ -7730,6 +7730,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9CB3-SECU-DEFF",
+            "device_id": "31903d3b-7ce8-475b-9066-59170450dd5d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
