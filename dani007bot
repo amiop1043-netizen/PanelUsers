@@ -7244,6 +7244,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DE47-SECU-74C2",
+            "device_id": "d4cb7bb6-05a6-44ee-85c0-174654658f12",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
