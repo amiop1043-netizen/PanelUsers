@@ -7379,6 +7379,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DDC3-SECU-9C32",
+            "device_id": "b1a7b59a-50dc-481b-8059-f6efc282dccf",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
