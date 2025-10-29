@@ -7721,6 +7721,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5C56-SECU-15B2",
+            "device_id": "511cd414-d7b1-4a79-8daf-31958381a597",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
