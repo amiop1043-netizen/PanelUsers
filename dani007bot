@@ -7829,6 +7829,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4F48-SECU-A48D",
+            "device_id": "3154b167-f7ef-4dbb-b0ee-384c83a23226",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
