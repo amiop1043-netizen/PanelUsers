@@ -7487,6 +7487,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B0A8-SECU-727B",
+            "device_id": "d0507ab7-2040-478b-b321-cfcf2b31d921",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
