@@ -7946,6 +7946,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D5C7-SECU-B802",
+            "device_id": "5e6c25b3-7a02-4b7d-85c6-f6c6bc0a7bf6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
