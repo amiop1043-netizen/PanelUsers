@@ -7694,6 +7694,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D92B-SECU-75E1",
+            "device_id": "d42684d7-3738-4f6b-9420-84d55b36963b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
