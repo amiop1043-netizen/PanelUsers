@@ -7433,6 +7433,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2914-SECU-64B9",
+            "device_id": "14dfa566-9804-4d2f-8661-bd5efe4b5d08",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
