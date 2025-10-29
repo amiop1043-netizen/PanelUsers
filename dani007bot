@@ -7478,6 +7478,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DFA0-SECU-622C",
+            "device_id": "4f51545b-f424-4ac2-aa47-98359e38f9ba",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
