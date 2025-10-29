@@ -7496,6 +7496,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FE76-SECU-D7CD",
+            "device_id": "6ae9df2b-83af-4cc8-b8e6-c3022a9760e4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
