@@ -7343,6 +7343,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7E66-SECU-E72A",
+            "device_id": "1a0e688b-dbac-4eb7-b34a-3beb9d6325c9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
