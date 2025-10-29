@@ -7793,6 +7793,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C7A4-SECU-84CE",
+            "device_id": "7bac87f6-fc93-4200-b494-b7cfc29df683",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
