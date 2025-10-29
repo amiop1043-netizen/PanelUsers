@@ -7316,6 +7316,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F5A7-SECU-671C",
+            "device_id": "2ec21ba3-1e7c-4933-abe5-0010b0c760c6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
