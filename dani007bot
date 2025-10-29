@@ -7946,6 +7946,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AF05-SECU-E3B2",
+            "device_id": "8654a846-a691-4144-961d-f8dcd16d8101",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
