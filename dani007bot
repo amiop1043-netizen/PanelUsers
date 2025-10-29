@@ -7676,6 +7676,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-11A0-SECU-48EF",
+            "device_id": "525e4392-2508-4b45-b2ff-99ea57c78965",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
