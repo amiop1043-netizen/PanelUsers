@@ -7586,6 +7586,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-938C-SECU-682D",
+            "device_id": "820dc1d2-3ff1-4712-b849-e81cc193599a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
