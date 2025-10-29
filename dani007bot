@@ -7928,6 +7928,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DB16-SECU-DDE0",
+            "device_id": "6b4070eb-647b-48ab-a307-d0bf17d3d8b7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
