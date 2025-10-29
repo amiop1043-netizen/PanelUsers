@@ -7838,6 +7838,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A065-SECU-3338",
+            "device_id": "61d3215b-0586-40d8-9414-3ad8266c33ae",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
