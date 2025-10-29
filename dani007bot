@@ -7640,6 +7640,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8047-SECU-48EC",
+            "device_id": "48b50c49-975c-4e69-bbd7-5ed14fd2af35",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
