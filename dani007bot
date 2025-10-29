@@ -7460,6 +7460,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B2E2-SECU-68AB",
+            "device_id": "6b9f92d7-7f03-4a79-b0b2-57b17fcf5548",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
