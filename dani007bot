@@ -7541,6 +7541,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-47F9-SECU-913C",
+            "device_id": "0ac52d11-a486-4a5d-90d6-482c0ef10777",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
