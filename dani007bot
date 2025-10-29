@@ -7883,6 +7883,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B768-SECU-C144",
+            "device_id": "c1b318aa-c85b-435a-a2f7-a20ae46bf498",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
