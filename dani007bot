@@ -7757,6 +7757,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D7B2-SECU-AC0A",
+            "device_id": "d2edaf9c-4f13-4a0a-b149-2690a194820c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
