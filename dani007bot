@@ -7775,6 +7775,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-295B-SECU-E731",
+            "device_id": "f39cef5b-097b-4fa8-b6f5-65723c06fd1e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
