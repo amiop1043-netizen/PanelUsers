@@ -7406,6 +7406,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9B02-SECU-935D",
+            "device_id": "67a886b7-df9c-4c02-8c48-3b98d1e736c4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
