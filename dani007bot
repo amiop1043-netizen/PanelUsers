@@ -7289,6 +7289,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C53F-SECU-5A6F",
+            "device_id": "0060523d-ff2b-4b21-bc38-ffd061cb65af",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
