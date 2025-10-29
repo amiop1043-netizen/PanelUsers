@@ -7604,6 +7604,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-83E8-SECU-6050",
+            "device_id": "2e22e9fb-3795-4028-ada5-d0c0848855e0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
