@@ -7748,6 +7748,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0EB2-SECU-2350",
+            "device_id": "1bb80693-68d8-4b27-bf30-d1c5b0408eff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
