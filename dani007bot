@@ -7568,6 +7568,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6936-SECU-A412",
+            "device_id": "2ea4c59c-7629-477f-999a-ec8f7587b2dd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
