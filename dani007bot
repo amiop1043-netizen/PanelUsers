@@ -7532,6 +7532,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2E85-SECU-A2E5",
+            "device_id": "d502ebe9-3316-4d49-bde6-05501be92357",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
