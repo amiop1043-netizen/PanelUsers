@@ -7955,6 +7955,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6B58-SECU-86A5",
+            "device_id": "403c576a-caa0-45b7-8ebf-cfd7315c7e37",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
