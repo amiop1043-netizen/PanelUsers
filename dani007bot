@@ -7219,15 +7219,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-945E-SECU-D6B5",
-            "device_id": "e89cba3d-6187-4f6d-8b9a-8dce04e8803c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-BC1B-SECU-8584",
             "device_id": "99c6d48d-def9-495d-b7e1-3d6814f83644",
             "expiry_date": "2069-12-31",
