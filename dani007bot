@@ -7613,6 +7613,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6A26-SECU-BC23",
+            "device_id": "3b5722e4-b71b-4b88-8a95-034d70f75f7b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
