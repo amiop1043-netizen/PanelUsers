@@ -7919,6 +7919,15 @@
             "status": "active",
             "created_date": "2025-10-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5DE8-SECU-BC21",
+            "device_id": "0b1efc2b-68f4-4abb-b1ac-59136e9760c1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-29",
+            "max_devices": 1
         }
     ]
 }
