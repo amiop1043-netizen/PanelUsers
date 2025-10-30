@@ -8234,6 +8234,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-407A-SECU-B3FD",
+            "device_id": "0a88d46f-1d09-4a17-bdd4-ccf0cc80a05d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
