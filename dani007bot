@@ -8000,6 +8000,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-60C1-SECU-7ED7",
+            "device_id": "56d4c7f8-661a-49e3-874a-c015a6fa44ff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
