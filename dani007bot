@@ -8072,6 +8072,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0033-SECU-DD3A",
+            "device_id": "ee810bb6-26be-4c15-ae06-fa27d3a7584c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
