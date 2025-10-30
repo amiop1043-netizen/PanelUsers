@@ -8252,6 +8252,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CE8B-SECU-1F23",
+            "device_id": "17fe4168-9311-441e-8a41-40da23945c98",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
