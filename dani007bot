@@ -2989,15 +2989,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-8F80-SECU-EB90",
-            "device_id": "cb8ba46a-e0a2-4a29-92ce-792ebf3327ae",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-3464-SECU-46D5",
             "device_id": "ffc7cf4c-101c-4a45-9283-326f8e9f9e9d",
             "expiry_date": "2069-12-31",
