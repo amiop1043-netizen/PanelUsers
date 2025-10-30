@@ -7901,6 +7901,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1120-SECU-D1D6",
+            "device_id": "901e95b9-a058-4186-bb69-719e5999abb8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
