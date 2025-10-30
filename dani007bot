@@ -8378,6 +8378,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A6DA-SECU-7CAF",
+            "device_id": "cdba892a-d5cc-4b25-8a02-652b27c71d03",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
