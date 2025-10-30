@@ -8369,6 +8369,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-39BC-SECU-7321",
+            "device_id": "a6259c57-ae41-469a-b97c-d024e1a428a1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
