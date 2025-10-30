@@ -8297,6 +8297,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-78E2-SECU-3B9B",
+            "device_id": "197a98e6-05e7-4455-b667-0249dca081ce",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
