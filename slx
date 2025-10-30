@@ -238,5 +238,11 @@
         "key": "gHBS13DZ6h",
         "expirydate": "30-01-560359",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fde7c0b6bfd17f58",
+        "key": "1zfU7o8nje",
+        "expirydate": "30-01-48322",
+        "Allowoffline": false
     }
 ]
