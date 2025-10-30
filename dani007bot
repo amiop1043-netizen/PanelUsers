@@ -8441,6 +8441,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3A50-SECU-2082",
+            "device_id": "c0229a3e-f6f4-49c7-ac12-1f98e2690b95",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
