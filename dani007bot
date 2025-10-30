@@ -8378,6 +8378,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-14C2-SECU-59F6",
+            "device_id": "514c9821-9634-4743-94e2-852d86f034e9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
