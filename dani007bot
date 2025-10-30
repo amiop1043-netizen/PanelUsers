@@ -8045,6 +8045,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8D37-SECU-BE4A",
+            "device_id": "55b3013e-fde2-4ca2-9276-5ab350f7c56d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
