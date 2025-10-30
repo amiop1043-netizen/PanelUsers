@@ -8342,6 +8342,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-849E-SECU-24EE",
+            "device_id": "ba57762e-5850-494f-b4ac-d01f1f717b85",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
