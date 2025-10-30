@@ -7991,6 +7991,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A170-SECU-58B7",
+            "device_id": "674782e2-2c9b-4e5a-8bd8-835974eb5896",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
