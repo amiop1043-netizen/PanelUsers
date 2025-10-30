@@ -8117,6 +8117,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E72A-SECU-5CA5",
+            "device_id": "4d27f511-35c8-49c8-88bd-9f708384cdd5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
