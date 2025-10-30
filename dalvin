@@ -2620,5 +2620,11 @@
         "key": "q8Woz3ATpM",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5f0c8bbd8d238859",
+        "key": "7p82MXeu5v",
+        "expirydate": "01-03-2032",
+        "Allowoffline": false
     }
 ]
