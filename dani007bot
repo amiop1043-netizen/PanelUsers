@@ -8189,6 +8189,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8125-SECU-64C3",
+            "device_id": "40497938-114b-4cc5-a651-1a21767bf35c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
