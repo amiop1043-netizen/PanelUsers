@@ -2644,5 +2644,11 @@
         "key": "Mstu9jNB1J",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "35fdd736080f9fce",
+        "key": "tDbOrjJLGE",
+        "expirydate": "30-09-2027",
+        "Allowoffline": false
     }
 ]
