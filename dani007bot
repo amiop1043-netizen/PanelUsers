@@ -8009,6 +8009,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8714-SECU-0ADB",
+            "device_id": "a544fc26-cc78-4c03-b32d-aa65344963fe",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
