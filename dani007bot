@@ -8396,6 +8396,15 @@
             "status": "active",
             "created_date": "2025-10-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BB57-SECU-0AC2",
+            "device_id": "0b1efc2b-68f4-4abb-b1ac-59136e9760c1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-30",
+            "max_devices": 1
         }
     ]
 }
