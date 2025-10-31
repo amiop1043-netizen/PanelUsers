@@ -8837,6 +8837,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A946-SECU-5F27",
+            "device_id": "8510cff5-aa95-4ed2-bda3-fbbc91eb2105",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
