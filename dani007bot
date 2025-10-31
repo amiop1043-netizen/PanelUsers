@@ -8432,6 +8432,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-35B8-SECU-3750",
+            "device_id": "88a28d57-dbc1-4caf-91f4-98de5e9bfe5e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
