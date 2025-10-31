@@ -2710,5 +2710,11 @@
         "key": "GMgYfOQP7l",
         "expirydate": "01-05-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "012d56153f1bcb94",
+        "key": "iSro5vLlFT",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
