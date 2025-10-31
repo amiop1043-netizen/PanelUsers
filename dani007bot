@@ -8459,6 +8459,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BE68-SECU-F825",
+            "device_id": "a8160ef4-84d3-4b2f-9736-d478073f82c7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
