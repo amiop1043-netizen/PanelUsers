@@ -8675,6 +8675,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DF54-SECU-72CA",
+            "device_id": "366af2eb-2f34-4952-8c8c-547e276bad33",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
