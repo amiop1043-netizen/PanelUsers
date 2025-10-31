@@ -8711,6 +8711,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1A82-SECU-0C41",
+            "device_id": "e24664e7-6c7b-46e9-8fdc-3d21def6beb4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
