@@ -8693,6 +8693,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1832-SECU-1213",
+            "device_id": "80ccc22d-7497-4a6d-972a-bac70f7572da",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
