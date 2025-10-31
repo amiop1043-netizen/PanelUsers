@@ -8495,6 +8495,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7B44-SECU-2025",
+            "device_id": "21d6778e-992f-48f9-9ec2-0a8aa6d88633",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
