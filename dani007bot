@@ -8648,6 +8648,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-89E1-SECU-E0BA",
+            "device_id": "5acef6b7-91e4-43bb-ba42-ae7561d53900",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
