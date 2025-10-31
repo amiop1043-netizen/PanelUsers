@@ -8630,6 +8630,15 @@
             "status": "active",
             "created_date": "2025-10-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8604-SECU-BECA",
+            "device_id": "85f469fa-f004-4ee6-bfd3-8b2cd806ec5e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-10-31",
+            "max_devices": 1
         }
     ]
 }
