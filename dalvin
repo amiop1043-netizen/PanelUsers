@@ -2662,5 +2662,11 @@
         "key": "J8GQ1ZFsCX",
         "expirydate": "01-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5ea0d29a5bac4204",
+        "key": "Brcpexn2qK",
+        "expirydate": "01-12-2025",
+        "Allowoffline": false
     }
 ]
