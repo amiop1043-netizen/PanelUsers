@@ -8236,15 +8236,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-C829-SECU-6041",
-            "device_id": "66f08052-568a-4d15-8d32-8da16e85c13e",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-30",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-0F0D-SECU-62B2",
             "device_id": "e6a97fa7-0d98-46cb-ae1c-b5fc45547083",
             "expiry_date": "2069-12-31",
