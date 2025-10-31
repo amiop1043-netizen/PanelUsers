@@ -6895,15 +6895,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-B281-SECU-5284",
-            "device_id": "GALKSI 12",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-7B46-SECU-D63E",
             "device_id": "22ab2026-73c5-4b02-888f-5101a10e8f63",
             "expiry_date": "2069-12-31",
@@ -7122,15 +7113,6 @@
         {
             "key": "MTX-6966-SECU-C01D",
             "device_id": "\u06cc\u0648\u0632\u0648",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-B2E2-SECU-68AB",
-            "device_id": "6b9f92d7-7f03-4a79-b0b2-57b17fcf5548",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
