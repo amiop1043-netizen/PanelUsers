@@ -8837,6 +8837,15 @@
             "status": "active",
             "created_date": "2025-11-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2186-SECU-EE6E",
+            "device_id": "9462901305",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-01",
+            "max_devices": 1
         }
     ]
 }
