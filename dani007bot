@@ -8837,6 +8837,15 @@
             "status": "active",
             "created_date": "2025-11-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-67A4-SECU-BAD7",
+            "device_id": "e24844e4-140c-4601-8b1c-2c68f8d6192e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-01",
+            "max_devices": 1
         }
     ]
 }
