@@ -8146,15 +8146,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-7D36-SECU-2946",
-            "device_id": "4334404e-a396-49f4-8081-f762e4993835",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-30",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-DD67-SECU-ABB7",
             "device_id": "80ccc22d-7497-4a6d-972a-bac70f7572da",
             "expiry_date": "2069-12-31",
