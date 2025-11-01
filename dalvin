@@ -2722,5 +2722,11 @@
         "key": "1SnmK5ZPWT",
         "expirydate": "01-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6140f71c2dc176c",
+        "key": "wK5SMd3CGp",
+        "expirydate": "01-05-2031",
+        "Allowoffline": false
     }
 ]
