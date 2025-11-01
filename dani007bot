@@ -8855,6 +8855,15 @@
             "status": "active",
             "created_date": "2025-11-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0FA3-SECU-69BA",
+            "device_id": "9cedb6e9-a7f0-4492-a83f-bba4467879cc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-01",
+            "max_devices": 1
         }
     ]
 }
