@@ -8828,6 +8828,15 @@
             "status": "active",
             "created_date": "2025-11-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-752A-SECU-F55E",
+            "device_id": "01e3f76a-a253-42ab-8182-d1fafc44cc56",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-01",
+            "max_devices": 1
         }
     ]
 }
