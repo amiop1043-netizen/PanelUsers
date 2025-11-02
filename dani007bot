@@ -8927,6 +8927,15 @@
             "status": "active",
             "created_date": "2025-11-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AFA2-SECU-39FF",
+            "device_id": "f4befdde-95ef-4f9a-93c7-449511f82c9b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-02",
+            "max_devices": 1
         }
     ]
 }
