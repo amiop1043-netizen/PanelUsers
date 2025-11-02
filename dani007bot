@@ -1702,15 +1702,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-2E15-SECU-E817",
-            "device_id": "Redmi Note 13",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-BBA6-SECU-DDF1",
             "device_id": "7640905e-d717-44c1-803e-7027fbc3cf44",
             "expiry_date": "2069-12-31",
@@ -1740,15 +1731,6 @@
         {
             "key": "MTX-AF3F-SECU-6226",
             "device_id": "c50cc9f0-e4e0-469a-aae8-9e28b0bf3f78",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-88CC-SECU-75D3",
-            "device_id": "78034bd3-bcac-4d06-87cf-e45beaef2589",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
@@ -7302,15 +7284,6 @@
         {
             "key": "MTX-2788-SECU-BBE6",
             "device_id": "31903d3b-7ce8-475b-9066-59170450dd5d",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-0EB2-SECU-2350",
-            "device_id": "1bb80693-68d8-4b27-bf30-d1c5b0408eff",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
