@@ -8900,6 +8900,15 @@
             "status": "active",
             "created_date": "2025-11-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-56D1-SECU-9D59",
+            "device_id": "6b451826-207a-4596-a468-4d3c6b414436",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-02",
+            "max_devices": 1
         }
     ]
 }
