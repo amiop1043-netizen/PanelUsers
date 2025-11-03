@@ -8882,6 +8882,15 @@
             "status": "active",
             "created_date": "2025-11-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-71C4-SECU-7E32",
+            "device_id": "05c4f1cd-1f44-43bf-935e-114328c56061",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-03",
+            "max_devices": 1
         }
     ]
 }
