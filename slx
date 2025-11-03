@@ -262,5 +262,11 @@
         "key": "Ei61PMSuZA",
         "expirydate": "01-02-2859",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bca338deaafb4f24",
+        "key": "Aidx1kvWJB",
+        "expirydate": "03-02-2859",
+        "Allowoffline": false
     }
 ]
