@@ -8828,6 +8828,15 @@
             "status": "active",
             "created_date": "2025-11-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1776-SECU-EDF1",
+            "device_id": "dd50cf02-1e91-43d4-ac11-faac27953fd4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-03",
+            "max_devices": 1
         }
     ]
 }
