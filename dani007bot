@@ -8855,6 +8855,15 @@
             "status": "active",
             "created_date": "2025-11-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0AA8-SECU-6FB8",
+            "device_id": "Redmi Note 8 Pro",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-03",
+            "max_devices": 1
         }
     ]
 }
