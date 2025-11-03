@@ -8846,6 +8846,15 @@
             "status": "active",
             "created_date": "2025-11-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E700-SECU-BB50",
+            "device_id": "390c48c8-36c0-47d9-89bb-346d321e8e81",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-03",
+            "max_devices": 1
         }
     ]
 }
