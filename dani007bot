@@ -8918,6 +8918,15 @@
             "status": "active",
             "created_date": "2025-11-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D8B8-SECU-F05D",
+            "device_id": "e8f79116-ffc9-4f02-827e-f0983e07bffe",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-03",
+            "max_devices": 1
         }
     ]
 }
