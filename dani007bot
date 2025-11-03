@@ -8882,6 +8882,15 @@
             "status": "active",
             "created_date": "2025-11-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2BAE-SECU-8F69",
+            "device_id": "MTX-2394-SECU-D884",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-03",
+            "max_devices": 1
         }
     ]
 }
