@@ -8803,15 +8803,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-08B9-SECU-35BE",
-            "device_id": "\u0632\u062f\u0645 \u067e\u0648\u0644",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-03",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-E8AB-SECU-C065",
             "device_id": "5d9ff63f-e1e9-48cd-8ce8-160aa5e25afb",
             "expiry_date": "2069-12-31",
