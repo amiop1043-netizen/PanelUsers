@@ -8909,6 +8909,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3932-SECU-BD0B",
+            "device_id": "277c3ab8-6443-4730-a53e-2afbed19d585",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
