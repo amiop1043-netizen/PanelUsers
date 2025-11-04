@@ -8918,6 +8918,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C63C-SECU-9566",
+            "device_id": "a2b9e912-af76-436f-9816-375f579e26ce",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
