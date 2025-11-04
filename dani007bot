@@ -5707,35 +5707,8 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-06D4-SECU-0C88",
-            "device_id": "fe667244-0a66-4d64-bbde-9e91992e6641",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-25",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-E9B6-SECU-C003",
             "device_id": "97901b32-b0f6-4648-9036-1122ee2655bb",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-25",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-7165-SECU-C521",
-            "device_id": "MultitouchSettleInterval=0?0ms\nMultitouchMinDistance=0?0px\npersist.sys.ui.hw=1\npersist.sys.scrollingcache=100\nTapInterval=0?0ms\nTapSlop=0?0px1\nro.data.large_tcp_window_size=true\npersist.cust.tel.eons=1\nro.ril.set.mtu1472=1\npersist.cust.tel.eons=1\nro.config.hw_fast_dormancy=1\nsys.use_fifo_ui=1\nint.aimlock_Xdpi=5.5;1;0.75::95.5;1;0.756.5;1.5;1.5;\nent_touchX.Picker.addoutput = \"modelscale  1 \"\nm_forward = 100\nm_side = 0.001\nm_mouseaccel2 = (1/0)\nm_customaccel_scale = 0.1\nm_customaccel_max = 0.0\nm_customaccel_exponent = 3\nm_rawinput_m_yaw.m_pitch_sensitivity = 0.0001",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-25",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-B079-SECU-EF30",
-            "device_id": "MultitouchSettleInterval=0?0ms\nMultitouchMinDistance=0?0px\npersist.sys.ui.hw=1\npersist.sys.scrollingcache=100\nTapInterval=0?0ms\nTapSlop=0?0px1\nro.data.large_tcp_window_size=true\npersist.cust.tel.eons=1\nro.ril.set.mtu1472=1\npersist.cust.tel.eons=1\nro.config.hw_fast_dormancy=1\nsys.use_fifo_ui=1\nint.aimlock_Xdpi=5.5;1;0.75::95.5;1;0.756.5;1.5;1.5;\nent_touchX.Picker.addoutput = \"modelscale  1 \"\nm_forward = 100\nm_side = 0.001\nm_mouseaccel2 = (1/0)\nm_customaccel_scale = 0.1\nm_customaccel_max = 0.0\nm_customaccel_exponent = 3\nm_rawinput_m_yaw.m_pitch_sensitivity = 0.0001",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
