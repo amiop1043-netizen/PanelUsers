@@ -8936,6 +8936,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FF3A-SECU-6D96",
+            "device_id": "090d980e-91a3-45cb-af03-9637a0726733",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
