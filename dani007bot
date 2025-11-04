@@ -8882,6 +8882,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C42B-SECU-5834",
+            "device_id": "power_supply.wakeup=enable\nro.warmboot.capability=1\ndalvik.vm.heaputilization=0.25\ndalvik.vm.heaptargetutilization=0.75\nro.setupwizard.mode=DISABLED\nro.ril.disable.power.collapse=1\nro.config.hw_quickpoweron=true\nro.config.hw_power_saving=1\nro.config.hw_power_saving=true",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
