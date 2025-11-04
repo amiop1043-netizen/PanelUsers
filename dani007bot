@@ -8945,6 +8945,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D3EE-SECU-12DD",
+            "device_id": "b7a075fd-4a03-45e4-ae2b-46ab0c37f9b7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
