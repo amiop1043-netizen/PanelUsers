@@ -7399,15 +7399,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-83A5-SECU-2266",
-            "device_id": "24673b8b-c73d-48bd-90f0-eb47bcebddf0",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-30",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-C174-SECU-CBE9",
             "device_id": "bb44e03e-3390-4a95-b23d-0ce535f68d3f",
             "expiry_date": "2069-12-31",
