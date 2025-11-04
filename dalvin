@@ -2824,5 +2824,11 @@
         "key": "DAYhU96cnb",
         "expirydate": "04-03-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c07c74d99581ae3",
+        "key": "0OSw97DyYX",
+        "expirydate": "04-03-2033",
+        "Allowoffline": false
     }
 ]
