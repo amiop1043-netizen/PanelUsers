@@ -8900,6 +8900,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F3CD-SECU-8B9E",
+            "device_id": "bc7470e9-ab83-444e-9f5e-5ac304f99a38",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
