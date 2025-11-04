@@ -8945,6 +8945,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C060-SECU-BDA8",
+            "device_id": "94d1a84b-abde-4ae3-9fa8-23d58c784157",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
