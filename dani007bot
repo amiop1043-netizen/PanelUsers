@@ -6760,15 +6760,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-9560-SECU-82EB",
-            "device_id": "bbb9ab44-1f0c-43e7-a456-fe00e83298e6",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-9494-SECU-C6EA",
             "device_id": "0ac52d11-a486-4a5d-90d6-482c0ef10777",
             "expiry_date": "2069-12-31",
