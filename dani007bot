@@ -8927,6 +8927,15 @@
             "status": "active",
             "created_date": "2025-11-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B24F-SECU-545F",
+            "device_id": "49212c5b-c9b6-4442-8230-0b590a0d21b5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-04",
+            "max_devices": 1
         }
     ]
 }
