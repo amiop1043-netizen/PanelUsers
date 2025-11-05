@@ -8891,6 +8891,15 @@
             "status": "active",
             "created_date": "2025-11-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6C38-SECU-BAEE",
+            "device_id": "a5310e53-e02d-4903-a61d-12801a15c3e8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-05",
+            "max_devices": 1
         }
     ]
 }
