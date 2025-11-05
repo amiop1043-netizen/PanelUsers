@@ -2884,5 +2884,11 @@
         "key": "dkEco03mPB",
         "expirydate": "05-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "329b38d9458e265e",
+        "key": "gMzSUu743e",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
     }
 ]
