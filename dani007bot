@@ -8936,6 +8936,15 @@
             "status": "active",
             "created_date": "2025-11-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FED1-SECU-B67B",
+            "device_id": "1afd441a-eaf3-45a2-86a1-17b5190fb85d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-05",
+            "max_devices": 1
         }
     ]
 }
