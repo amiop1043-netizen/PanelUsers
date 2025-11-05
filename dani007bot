@@ -8927,6 +8927,15 @@
             "status": "active",
             "created_date": "2025-11-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9BFA-SECU-0414",
+            "device_id": "e958e3d2-3f1e-4043-9357-35f718f5ce17",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-05",
+            "max_devices": 1
         }
     ]
 }
