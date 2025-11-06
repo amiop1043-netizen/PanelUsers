@@ -8938,15 +8938,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-E640-SECU-48F4",
-            "device_id": "89c483f8-8f44-4c5d-82bf-000562ac4a2c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-06",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-5F00-SECU-7FCE",
             "device_id": "5651348242",
             "expiry_date": "2069-12-31",
