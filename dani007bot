@@ -8927,6 +8927,15 @@
             "status": "active",
             "created_date": "2025-11-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-96A8-SECU-D942",
+            "device_id": "32b3a2f9-7f05-4613-8425-9d77555ddf73",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-06",
+            "max_devices": 1
         }
     ]
 }
