@@ -7228,15 +7228,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-8714-SECU-0ADB",
-            "device_id": "a544fc26-cc78-4c03-b32d-aa65344963fe",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-30",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-5994-SECU-B023",
             "device_id": "23c46243-c395-49f7-b511-d53763fa10af",
             "expiry_date": "2069-12-31",
