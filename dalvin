@@ -2914,5 +2914,11 @@
         "key": "QW4lh2Ldnr",
         "expirydate": "06-08-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "53b1e15604c5db41",
+        "key": "IFDTHl4yj6",
+        "expirydate": "06-05-2031",
+        "Allowoffline": false
     }
 ]
