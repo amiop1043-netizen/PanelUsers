@@ -8918,15 +8918,6 @@
             "status": "active",
             "created_date": "2025-11-05",
             "max_devices": 1
-        },
-        {
-            "key": "MTX-F18A-SECU-9F73",
-            "device_id": "POCO C75",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-06",
-            "max_devices": 1
         }
     ]
 }
