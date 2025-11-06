@@ -2908,5 +2908,11 @@
         "key": "GdVxD23Ini",
         "expirydate": "06-05-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a3a73ebbb49b8946",
+        "key": "QW4lh2Ldnr",
+        "expirydate": "06-08-2028",
+        "Allowoffline": false
     }
 ]
