@@ -8981,6 +8981,15 @@
             "status": "active",
             "created_date": "2025-11-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-98BF-SECU-5A13",
+            "device_id": "5c779144-e8f1-46be-bdfb-59a8739caf45",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-06",
+            "max_devices": 1
         }
     ]
 }
