@@ -8963,6 +8963,15 @@
             "status": "active",
             "created_date": "2025-11-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5445-SECU-B2A2",
+            "device_id": "4c1723db-7477-4318-947b-5da2ce53592b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-06",
+            "max_devices": 1
         }
     ]
 }
