@@ -8972,6 +8972,15 @@
             "status": "active",
             "created_date": "2025-11-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8025-SECU-AA3D",
+            "device_id": "3ed8535b-1e9a-4357-a2fb-7fc11e090096",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-06",
+            "max_devices": 1
         }
     ]
 }
