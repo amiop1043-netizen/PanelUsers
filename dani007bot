@@ -8927,6 +8927,15 @@
             "status": "active",
             "created_date": "2025-11-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B30E-SECU-BA06",
+            "device_id": "af0c739a-c7ea-4359-9489-76539c8716b8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-06",
+            "max_devices": 1
         }
     ]
 }
