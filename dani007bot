@@ -8999,6 +8999,15 @@
             "status": "active",
             "created_date": "2025-11-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FB69-SECU-A6F2",
+            "device_id": "caf5eb6e_0344_4fb8_b8e5_9059359b2030",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-07",
+            "max_devices": 1
         }
     ]
 }
