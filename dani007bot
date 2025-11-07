@@ -8927,6 +8927,15 @@
             "status": "active",
             "created_date": "2025-11-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C1A4-SECU-82E6",
+            "device_id": "adicionem\n\n#System table\nprofiler.debugmonitor=false\nprofiler.launch=false\nprofiler.hung.dumpdobugreport=false\nprofiler.force_disable_ulog=true\nprofiler.force_disable_err_rpt=true\nprofiler.force_disable_ulog=1\nprofiler.force_disable_err_rpt=1\n\nesse metodo vai otimizar seu cell e seus apps e pra aqueles que nao acredita faz o teste de benchmark e tire suas duvidas\n\nby 3dy",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-07",
+            "max_devices": 1
         }
     ]
 }
