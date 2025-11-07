@@ -8918,6 +8918,15 @@
             "status": "active",
             "created_date": "2025-11-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5194-SECU-F89D",
+            "device_id": "3863d0c7-5568-4060-b581-e35b0b7f28e2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-07",
+            "max_devices": 1
         }
     ]
 }
