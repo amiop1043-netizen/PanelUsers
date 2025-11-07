@@ -8963,6 +8963,15 @@
             "status": "active",
             "created_date": "2025-11-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8BA1-SECU-E077",
+            "device_id": "835f098e-d22c-47b7-a387-860b52a442a8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-07",
+            "max_devices": 1
         }
     ]
 }
