@@ -9008,6 +9008,15 @@
             "status": "active",
             "created_date": "2025-11-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E8A5-SECU-DF01",
+            "device_id": "caf5eb6e-0344-4fb8-b8e5-9059359b2030",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-07",
+            "max_devices": 1
         }
     ]
 }
