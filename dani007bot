@@ -9080,6 +9080,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BADF-SECU-06BF",
+            "device_id": "cfb607e9-e282-4477-92e6-4d245895b25e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
