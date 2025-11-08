@@ -9035,6 +9035,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1C05-SECU-4574",
+            "device_id": "09aa7f6c-7a88-4144-bbea-80ab3adc40ef",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
