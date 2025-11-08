@@ -9053,6 +9053,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DAAB-SECU-0BEE",
+            "device_id": "c7ed082b-35fd-4d1b-954d-0b5ebbd1149e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
