@@ -9008,6 +9008,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3755-SECU-1BB5",
+            "device_id": "7ad52d4a-cf05-401a-9f20-f5d622a7f21b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
