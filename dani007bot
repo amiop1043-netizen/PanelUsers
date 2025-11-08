@@ -9017,6 +9017,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-34B1-SECU-4FA3",
+            "device_id": "dae0c798-ea57-4dc2-a68c-773658cb5549",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
