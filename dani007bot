@@ -9071,6 +9071,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ABCD-SECU-909E",
+            "device_id": "af5f429b-b573-403f-ae39-56c8854878f1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
