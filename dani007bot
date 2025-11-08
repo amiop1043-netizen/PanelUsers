@@ -9098,6 +9098,15 @@
             "status": "active",
             "created_date": "2025-11-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-56C8-SECU-B2CB",
+            "device_id": "1148225e-28ba-4df4-aef7-d52f4917f642",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-08",
+            "max_devices": 1
         }
     ]
 }
