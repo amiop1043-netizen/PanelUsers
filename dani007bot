@@ -9062,6 +9062,15 @@
             "status": "active",
             "created_date": "2025-11-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6BA1-SECU-4815",
+            "device_id": "ef943f73-f708-41c4-8225-6b99ce02c2d2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-09",
+            "max_devices": 1
         }
     ]
 }
