@@ -3988,15 +3988,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-0CF0-SECU-EABE",
-            "device_id": "76e9e18f-227f-4c3c-85c4-32c46a7db994",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-4BEF-SECU-BA27",
             "device_id": "358ff82e-50d3-414f-929b-0806c162655f",
             "expiry_date": "2069-12-31",
