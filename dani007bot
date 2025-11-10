@@ -6571,15 +6571,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-11A0-SECU-48EF",
-            "device_id": "525e4392-2508-4b45-b2ff-99ea57c78965",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-B26E-SECU-8776",
             "device_id": "091a2f20-f3a0-406c-8700-e3d1b2ea156b",
             "expiry_date": "2069-12-31",
@@ -8263,24 +8254,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-0AA8-SECU-6FB8",
-            "device_id": "Redmi Note 8 Pro",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-03",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-DD4C-SECU-729E",
-            "device_id": "Redmi Note 8 Pro",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-03",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-1D3D-SECU-FE97",
             "device_id": "9cb8a3d2-fc78-41af-a665-cc57cdf844fe",
             "expiry_date": "2069-12-31",
@@ -8517,15 +8490,6 @@
         {
             "key": "MTX-B875-SECU-70D7",
             "device_id": "e958e3d2-3f1e-4043-9357-35f718f5ce17",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-05",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-FED1-SECU-B67B",
-            "device_id": "1afd441a-eaf3-45a2-86a1-17b5190fb85d",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
