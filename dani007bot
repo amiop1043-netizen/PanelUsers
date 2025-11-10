@@ -8981,6 +8981,15 @@
             "status": "active",
             "created_date": "2025-11-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ACD4-SECU-8B35",
+            "device_id": "5eb91c38-31b0-4959-83d9-c77c41fe71f0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-10",
+            "max_devices": 1
         }
     ]
 }
