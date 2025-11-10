@@ -8981,6 +8981,15 @@
             "status": "active",
             "created_date": "2025-11-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-81AB-SECU-932E",
+            "device_id": "7e602f0d-eadb-41fd-b4ee-071dd3600ee7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-10",
+            "max_devices": 1
         }
     ]
 }
