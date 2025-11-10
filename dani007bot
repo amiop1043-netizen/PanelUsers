@@ -8999,6 +8999,15 @@
             "status": "active",
             "created_date": "2025-11-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EF81-SECU-1098",
+            "device_id": "1f333b91-08ee-43c4-86ee-c1b4516147a7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-10",
+            "max_devices": 1
         }
     ]
 }
