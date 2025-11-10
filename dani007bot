@@ -8990,6 +8990,15 @@
             "status": "active",
             "created_date": "2025-11-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3FF2-SECU-E06D",
+            "device_id": "7e602f0d-eadb-41fd-b4ee-071dd3600ee7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-10",
+            "max_devices": 1
         }
     ]
 }
