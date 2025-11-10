@@ -8999,6 +8999,15 @@
             "status": "active",
             "created_date": "2025-11-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6B22-SECU-64AA",
+            "device_id": "bddcca7c-b45c-4f6e-9983-4b5af1e5b4a1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-10",
+            "max_devices": 1
         }
     ]
 }
