@@ -8972,6 +8972,15 @@
             "status": "active",
             "created_date": "2025-11-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-10BC-SECU-FBCF",
+            "device_id": "e97d3450-3721-4509-b72a-45ec67d480c6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-11",
+            "max_devices": 1
         }
     ]
 }
