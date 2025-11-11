@@ -8963,6 +8963,15 @@
             "status": "active",
             "created_date": "2025-11-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8FC7-SECU-34DC",
+            "device_id": "dfa7ca12-4a89-48ff-a295-80f0497d9530",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-11",
+            "max_devices": 1
         }
     ]
 }
