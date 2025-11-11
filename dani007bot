@@ -8999,6 +8999,15 @@
             "status": "active",
             "created_date": "2025-11-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2BAE-SECU-E2C3",
+            "device_id": "e7152aa72e60-bf37-4311-2084-9c77e141",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-11",
+            "max_devices": 1
         }
     ]
 }
