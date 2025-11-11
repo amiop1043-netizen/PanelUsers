@@ -9008,6 +9008,15 @@
             "status": "active",
             "created_date": "2025-11-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F9D0-SECU-CFF8",
+            "device_id": "c3a48feb-8170-4bb6-b3b1-019b02aafaeb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-11",
+            "max_devices": 1
         }
     ]
 }
