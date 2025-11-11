@@ -1153,15 +1153,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-BA5D-SECU-664A",
-            "device_id": "1a6b00b3-5bdf-431f-a082-bae40c6fdf95",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-E71C-SECU-237D",
             "device_id": "1f50ea49-aaad-4bcf-8032-df8f90152865",
             "expiry_date": "2069-12-31",
