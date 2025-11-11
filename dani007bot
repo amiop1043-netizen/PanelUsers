@@ -8981,6 +8981,15 @@
             "status": "active",
             "created_date": "2025-11-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B08B-SECU-8933",
+            "device_id": "8f4d81f0-c873-49e3-9bfd-3f9a5c6bae41",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-11",
+            "max_devices": 1
         }
     ]
 }
