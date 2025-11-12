@@ -8999,6 +8999,15 @@
             "status": "active",
             "created_date": "2025-11-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AC41-SECU-C7F4",
+            "device_id": "a4a8cb9d-8692-4826-83c4-35b2e35204b4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-12",
+            "max_devices": 1
         }
     ]
 }
