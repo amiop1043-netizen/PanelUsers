@@ -6634,15 +6634,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-A065-SECU-3338",
-            "device_id": "61d3215b-0586-40d8-9414-3ad8266c33ae",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-1235-SECU-7D37",
             "device_id": "d8d7aa3d-66e5-4329-a4c2-129711369b3c",
             "expiry_date": "2069-12-31",
