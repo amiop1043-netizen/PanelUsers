@@ -9008,6 +9008,15 @@
             "status": "active",
             "created_date": "2025-11-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-33F5-SECU-F812",
+            "device_id": "b5b17c3e-4ebf-494f-abb1-fd86fda8c643",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-12",
+            "max_devices": 1
         }
     ]
 }
