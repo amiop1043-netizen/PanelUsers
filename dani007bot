@@ -5860,15 +5860,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-EE1B-SECU-9A0E",
-            "device_id": "1f4eb888-a0e9-4925-a912-4dabd2a19c38",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-27",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-BF0E-SECU-9C71",
             "device_id": "5cc0beb5-2e33-4982-940f-503006bb5234",
             "expiry_date": "2069-12-31",
@@ -5889,15 +5880,6 @@
         {
             "key": "MTX-535B-SECU-01C8",
             "device_id": "3f9c8b17-2eba-4517-93a9-329b07a84103",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-27",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-8043-SECU-27E2",
-            "device_id": "SING IN",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
@@ -6033,15 +6015,6 @@
         {
             "key": "MTX-D8E4-SECU-09F3",
             "device_id": "c5f1f364-a69c-4b8f-aa43-49bd73e204d2",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-28",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-AE57-SECU-3491",
-            "device_id": "Sadx Freestyle 3.0",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
