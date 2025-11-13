@@ -9395,6 +9395,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B40D-SECU-FFB2",
+            "device_id": "ab1f1a85-1c6a-4c2b-b87d-902a279bd823",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
