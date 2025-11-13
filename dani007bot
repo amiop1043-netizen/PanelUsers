@@ -9530,6 +9530,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BB81-SECU-CBF1",
+            "device_id": "fe6afa63-ea44-431a-b726-d320994e647a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
