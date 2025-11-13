@@ -9539,6 +9539,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9D44-SECU-BEC9",
+            "device_id": "ace31f9d-ec7c-46fb-8c0b-4866b5b461da",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
