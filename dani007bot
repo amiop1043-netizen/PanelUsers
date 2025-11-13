@@ -9458,6 +9458,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D03C-SECU-822F",
+            "device_id": "58247617-adca-4cfb-98e5-2b73c6d0de27",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
