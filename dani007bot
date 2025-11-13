@@ -9055,62 +9055,8 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-93B7-SECU-93EF",
-            "device_id": "faa8ebfd-5ece-4dcc-967d-f7c336f58d7c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-0EAD-SECU-E90B",
-            "device_id": "753da490-fd47-49e8-b3f5-6a730749bd9e",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-CAE5-SECU-611F",
             "device_id": "5aa55d9b-bceb-4ad1-a04b-badf3bd1a281",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-CB5D-SECU-1606",
-            "device_id": "MTX-0EAD-SECU-E90B",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-FC85-SECU-6B20",
-            "device_id": "faa8ebfd-5ece-4dcc-967d-f7c336f58d7c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-F326-SECU-CC17",
-            "device_id": "MTX-CB5D-SECU-1606",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-FB16-SECU-EEF7",
-            "device_id": "faa8ebfd-5ece-4dcc-967d-f7c336f58d7c",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
