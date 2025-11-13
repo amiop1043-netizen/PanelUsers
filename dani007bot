@@ -9377,6 +9377,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EAB4-SECU-540C",
+            "device_id": "1f9e7932-5eb8-46ee-995a-ef86d536e61f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
