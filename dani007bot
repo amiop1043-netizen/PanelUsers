@@ -9314,6 +9314,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ABEA-SECU-79D3",
+            "device_id": "3627321b-5748-4ce3-b8e3-57b684669f77",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
