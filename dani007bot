@@ -9098,6 +9098,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1CCB-SECU-BAB7",
+            "device_id": "c22873df-85de-42d2-b97b-e4550e394270",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
