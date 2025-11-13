@@ -9386,6 +9386,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C75C-SECU-AC88",
+            "device_id": "b37fe231-e880-4b90-8a2d-239dcbb3656c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
