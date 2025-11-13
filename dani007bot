@@ -9071,6 +9071,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-106E-SECU-3C88",
+            "device_id": "bd731d8c-c486-4da9-a2c8-8717bf4b9877",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
