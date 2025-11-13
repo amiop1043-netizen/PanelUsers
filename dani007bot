@@ -9530,6 +9530,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B30B-SECU-3274",
+            "device_id": "8eff9f9f-e327-4567-a2d9-487c3103bd83",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
