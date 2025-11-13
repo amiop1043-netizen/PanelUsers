@@ -9404,6 +9404,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B91D-SECU-04F8",
+            "device_id": "04d63769-24fb-49b6-b10b-802488ef1a98",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
