@@ -9503,33 +9503,6 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
-        },
-        {
-            "key": "MTX-8796-SECU-EFE1",
-            "device_id": "A25 5g",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-C024-SECU-A0FF",
-            "device_id": "fe8ce1d8-c4eb-4e6c-a7ce-e2a1dc0658e6",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-0F8C-SECU-AAF2",
-            "device_id": "fe8ce1d8-c4eb-4e6c-a7ce-e2a1dc0658e6",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
         }
     ]
 }
