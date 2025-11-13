@@ -9404,6 +9404,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A98E-SECU-B60F",
+            "device_id": "6b4e9f95-2b42-46c2-a2d6-8207bfe6b618",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
