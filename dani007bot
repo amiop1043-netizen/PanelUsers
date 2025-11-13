@@ -9188,6 +9188,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FB16-SECU-EEF7",
+            "device_id": "faa8ebfd-5ece-4dcc-967d-f7c336f58d7c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
