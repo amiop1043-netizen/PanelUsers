@@ -9449,6 +9449,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8965-SECU-D3FD",
+            "device_id": "fff8d49b-85a2-4f48-9bd3-a8f46af09c42",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
