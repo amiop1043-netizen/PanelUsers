@@ -9350,6 +9350,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A4CE-SECU-2451",
+            "device_id": "14c2391a-1b27-406c-b0cd-497c241b1c26",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
