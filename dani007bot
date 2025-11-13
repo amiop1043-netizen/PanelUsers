@@ -9521,6 +9521,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AE2A-SECU-32BD",
+            "device_id": "161090ff-ee83-464c-86ea-0e6d8744c45a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
