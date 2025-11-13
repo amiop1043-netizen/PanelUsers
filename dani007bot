@@ -9494,6 +9494,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-373A-SECU-7001",
+            "device_id": "0a3065e1-ed2e-421c-85f4-3d4b828372fa",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
