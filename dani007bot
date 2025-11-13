@@ -9035,6 +9035,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ABC1-SECU-2EB1",
+            "device_id": "8751829d-9cc7-4e87-a163-a36a7dfcdb84",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
