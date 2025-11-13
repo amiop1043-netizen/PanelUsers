@@ -9494,6 +9494,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1FD0-SECU-940B",
+            "device_id": "b6651e2d-291b-410d-8083-b2c1b7f97e96",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
