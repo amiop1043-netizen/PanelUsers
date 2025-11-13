@@ -9044,6 +9044,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0CB9-SECU-5A50",
+            "device_id": "f774fb0d-002f-48bb-a85b-418a9e6c690a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
