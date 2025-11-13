@@ -9440,6 +9440,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B850-SECU-EA26",
+            "device_id": "e29fb50b-89ca-46c8-a070-68cce9858e02",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
