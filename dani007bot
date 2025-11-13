@@ -9521,6 +9521,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B206-SECU-2CED",
+            "device_id": "b31197d9-e0c7-45b0-9146-2e4a7afba81a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
