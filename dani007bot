@@ -9413,6 +9413,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B20F-SECU-01ED",
+            "device_id": "879427cd-615c-4d8a-b5b4-c589e52c7245",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
