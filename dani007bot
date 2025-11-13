@@ -9233,6 +9233,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-77D9-SECU-4D4E",
+            "device_id": "9bf0273a-a6ed-40cf-b18e-0c59687b46de",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
