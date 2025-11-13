@@ -9107,6 +9107,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B1DC-SECU-FC00",
+            "device_id": "0f7f57c9-9752-4587-9685-21c07cf3fb28",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
