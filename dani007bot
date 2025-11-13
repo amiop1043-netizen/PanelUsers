@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C1F0-SECU-B26C",
+            "device_id": "6d5c40a4-3974-4055-a650-e24b9c6efdd7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
