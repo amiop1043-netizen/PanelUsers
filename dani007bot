@@ -9152,6 +9152,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CAE5-SECU-611F",
+            "device_id": "5aa55d9b-bceb-4ad1-a04b-badf3bd1a281",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
