@@ -9584,6 +9584,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8D9E-SECU-E538",
+            "device_id": "c0447762-86b8-48cd-a403-7fe533c5f334",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
