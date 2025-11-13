@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C024-SECU-A0FF",
+            "device_id": "fe8ce1d8-c4eb-4e6c-a7ce-e2a1dc0658e6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
