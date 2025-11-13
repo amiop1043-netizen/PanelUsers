@@ -9341,6 +9341,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C428-SECU-E627",
+            "device_id": "3837d022-5b14-4973-9fa8-f6e89f310abe",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
