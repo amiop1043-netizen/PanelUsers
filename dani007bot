@@ -9395,6 +9395,15 @@
             "status": "active",
             "created_date": "2025-11-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A2FD-SECU-6895",
+            "device_id": "ca5e4b5c-4abf-4a53-a9f9-4a165c62f242",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-13",
+            "max_devices": 1
         }
     ]
 }
