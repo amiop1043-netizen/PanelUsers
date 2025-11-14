@@ -9494,6 +9494,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CE7D-SECU-DFAD",
+            "device_id": "8380cdb8-55d8-4916-81d2-24276f16b577",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
