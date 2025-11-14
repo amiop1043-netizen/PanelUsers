@@ -9737,6 +9737,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D1E1-SECU-517D",
+            "device_id": "b1e9d58d-7bd6-40ea-8377-82c901cac28c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
