@@ -9746,6 +9746,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5472-SECU-FA6F",
+            "device_id": "551fc4d8-c2da-4df5-a9f0-92feaf75d4bd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
