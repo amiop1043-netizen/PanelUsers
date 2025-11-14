@@ -9773,6 +9773,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-00C2-SECU-9B47",
+            "device_id": "f6b385e0-b4b0-4886-b46b-660747a8c4a3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
