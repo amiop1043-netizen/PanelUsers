@@ -9710,6 +9710,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4593-SECU-ED0E",
+            "device_id": "44f66a39-ddd5-40b0-a7f4-113a1069fec6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
