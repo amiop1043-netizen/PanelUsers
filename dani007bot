@@ -9728,6 +9728,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5A1A-SECU-2EF3",
+            "device_id": "e9a60174-9373-4998-8a42-078c92988a95",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
