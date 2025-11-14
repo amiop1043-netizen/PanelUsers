@@ -9683,6 +9683,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BC81-SECU-A15C",
+            "device_id": "96049e1c-0a5f-4f0e-a024-417c0fd33eb1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
