@@ -9737,6 +9737,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-483A-SECU-2B0D",
+            "device_id": "16d79edf-8094-4923-9ea4-7e16577d11e5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
