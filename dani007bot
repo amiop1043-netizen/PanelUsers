@@ -9611,6 +9611,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0C31-SECU-6ADE",
+            "device_id": "c68046f8-5964-42b7-b1e1-6a635b7bee74",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
