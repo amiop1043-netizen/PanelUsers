@@ -9755,6 +9755,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-14B0-SECU-F86C",
+            "device_id": "6452a412-68ce-4c27-b3a5-0159a4f162c8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
