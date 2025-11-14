@@ -9557,6 +9557,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D20C-SECU-0229",
+            "device_id": "cd117daa-8b41-4a4f-b781-d4e4abe5f48b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
