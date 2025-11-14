@@ -9737,6 +9737,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3221-SECU-6141",
+            "device_id": "bb827896-09e8-4ea5-bb63-615fa5515e6b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
