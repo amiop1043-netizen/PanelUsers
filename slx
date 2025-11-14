@@ -400,5 +400,11 @@
         "key": "cnSNymfKO0",
         "expirydate": "14-02-2859",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dc0512b1218116ed",
+        "key": "BVK637nUI8",
+        "expirydate": "14-02-2859",
+        "Allowoffline": false
     }
 ]
