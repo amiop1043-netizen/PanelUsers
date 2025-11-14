@@ -406,5 +406,11 @@
         "key": "BVK637nUI8",
         "expirydate": "14-02-2859",
         "Allowoffline": false
+    },
+    {
+        "device_id": "13a0b31025aed0a5",
+        "key": "rC8cNpfelD",
+        "expirydate": "14-02-2859",
+        "Allowoffline": false
     }
 ]
