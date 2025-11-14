@@ -9728,6 +9728,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-675B-SECU-A97F",
+            "device_id": "7b9720d3-f8a5-401c-b130-cdde8c82689b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
