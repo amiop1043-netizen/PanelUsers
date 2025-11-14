@@ -9566,6 +9566,15 @@
             "status": "active",
             "created_date": "2025-11-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ED93-SECU-5B65",
+            "device_id": "1e5053f6-4ae1-4a50-ab4f-63e0cf3522eb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-14",
+            "max_devices": 1
         }
     ]
 }
