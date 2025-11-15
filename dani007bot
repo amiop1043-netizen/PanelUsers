@@ -9791,6 +9791,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5D50-SECU-FD40",
+            "device_id": "60b529c8-a204-48a7-a545-10d5f1b346ff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
