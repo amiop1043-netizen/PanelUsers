@@ -9881,6 +9881,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-83F3-SECU-BC96",
+            "device_id": "15fd29ca-6a52-4ff2-9f29-f2bc1c3c3723",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
