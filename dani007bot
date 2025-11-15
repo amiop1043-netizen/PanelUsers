@@ -8848,15 +8848,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-3C45-SECU-98D2",
-            "device_id": "e6594a39-b189-40e1-b537-2f897b82a1b4",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-6F21-SECU-DF65",
             "device_id": "5aa55d9b-bceb-4ad1-a04b-badf3bd1a281",
             "expiry_date": "2069-12-31",
