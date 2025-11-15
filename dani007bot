@@ -9836,6 +9836,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1726-SECU-9E89",
+            "device_id": "4aa0c9a7-71e6-44d4-8626-eed018a4025d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
