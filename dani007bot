@@ -9782,6 +9782,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-703D-SECU-E255",
+            "device_id": "3743ccaa-8bb4-4f23-ad8e-57c11882309e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
