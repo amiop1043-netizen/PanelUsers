@@ -9872,6 +9872,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4382-SECU-C7DF",
+            "device_id": "38f6939e-44f2-4365-899d-09c3355686f7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
