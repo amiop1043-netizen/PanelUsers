@@ -9827,6 +9827,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8608-SECU-3180",
+            "device_id": "c6fc7196-0200-474b-9f1a-c06d5e480f92",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
