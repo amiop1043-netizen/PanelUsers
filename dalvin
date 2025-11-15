@@ -3184,5 +3184,11 @@
         "key": "FMx2D0ZLKn",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bad149608ad8a907",
+        "key": "6U5nb7ArsH",
+        "expirydate": "15-04-2031",
+        "Allowoffline": false
     }
 ]
