@@ -9773,6 +9773,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9824-SECU-D6BC",
+            "device_id": "5db9eed7-4c04-4f30-9f16-d7a6698d1210",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
