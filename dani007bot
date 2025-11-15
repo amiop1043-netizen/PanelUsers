@@ -9800,6 +9800,15 @@
             "status": "active",
             "created_date": "2025-11-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-493A-SECU-EFC2",
+            "device_id": "8f54c108-f96b-4893-b60c-94c53bc3ef86",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-15",
+            "max_devices": 1
         }
     ]
 }
