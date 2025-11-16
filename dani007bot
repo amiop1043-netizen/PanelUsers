@@ -9820,15 +9820,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-728F-SECU-1A49",
-            "device_id": "0d15c180-f1aa-4d8b-82c7-9bc2d765282e",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-15",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-51AE-SECU-8DD7",
             "device_id": "e4a397ef-f023-4cdc-ae76-e9b5d5fa0c3f",
             "expiry_date": "2069-12-31",
