@@ -2809,15 +2809,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-7480-SECU-8F6D",
-            "device_id": "c17df527-d9ff-424b-ac20-d5392a98917c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-121B-SECU-BCEC",
             "device_id": "e4baf467-6ef9-42bd-9b60-e59edc5341e6",
             "expiry_date": "2069-12-31",
