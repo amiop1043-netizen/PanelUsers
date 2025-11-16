@@ -9818,6 +9818,15 @@
             "status": "active",
             "created_date": "2025-11-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-66A5-SECU-264A",
+            "device_id": "7c4abcd1-eb37-4087-b0b6-932b7061ae80",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-16",
+            "max_devices": 1
         }
     ]
 }
