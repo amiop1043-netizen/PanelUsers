@@ -9622,15 +9622,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-D888-SECU-8FAA",
-            "device_id": "54b5e1cc-109e-4e59-8490-4cf6d5fdfa97",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-15",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-F055-SECU-EA42",
             "device_id": "38f6939e-44f2-4365-899d-09c3355686f7",
             "expiry_date": "2069-12-31",
