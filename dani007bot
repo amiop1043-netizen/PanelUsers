@@ -2323,15 +2323,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-58D1-SECU-84B8",
-            "device_id": "490053fc-08a2-409d-b6c0-30731adf1bb5",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-90D5-SECU-D4F4",
             "device_id": "1617db9f-97ea-4be3-b154-121afc43b94b",
             "expiry_date": "2069-12-31",
