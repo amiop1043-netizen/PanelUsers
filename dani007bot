@@ -9656,6 +9656,15 @@
             "status": "active",
             "created_date": "2025-11-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B49B-SECU-EE8F",
+            "device_id": "45c35819-b7dd-44b7-ba9d-3aa0af783fa0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-18",
+            "max_devices": 1
         }
     ]
 }
