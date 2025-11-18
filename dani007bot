@@ -9638,6 +9638,15 @@
             "status": "active",
             "created_date": "2025-11-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-235B-SECU-869E",
+            "device_id": "f2e5e454-5e53-467b-a732-11491d98b573",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-18",
+            "max_devices": 1
         }
     ]
 }
