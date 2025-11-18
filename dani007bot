@@ -9656,6 +9656,15 @@
             "status": "active",
             "created_date": "2025-11-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3CD8-SECU-1F06",
+            "device_id": "75e9931e-d181-48ed-92a7-4d3a6dfddb9b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-18",
+            "max_devices": 1
         }
     ]
 }
