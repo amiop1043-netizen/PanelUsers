@@ -2584,15 +2584,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-5D3C-SECU-81D4",
-            "device_id": "02c9c141-b062-4103-b8bd-11d2b1fb3ef4",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-527D-SECU-06D7",
             "device_id": "b72975eb-790d-4992-9259-1ff8d39a2ee7",
             "expiry_date": "2069-12-31",
@@ -6987,24 +6978,6 @@
         {
             "key": "MTX-35B8-SECU-3750",
             "device_id": "88a28d57-dbc1-4caf-91f4-98de5e9bfe5e",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-31",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-BE68-SECU-F825",
-            "device_id": "a8160ef4-84d3-4b2f-9736-d478073f82c7",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-31",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-B68E-SECU-910E",
-            "device_id": "a8160ef4-84d3-4b2f-9736-d478073f82c7",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
