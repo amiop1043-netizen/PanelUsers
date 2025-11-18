@@ -9665,6 +9665,15 @@
             "status": "active",
             "created_date": "2025-11-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3E58-SECU-14B4",
+            "device_id": "f6010d1b-dc07-4418-a4e9-5f19e441f590",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-18",
+            "max_devices": 1
         }
     ]
 }
