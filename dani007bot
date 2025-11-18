@@ -9656,6 +9656,15 @@
             "status": "active",
             "created_date": "2025-11-17",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2888-SECU-E0D3",
+            "device_id": "0b617535-5a28-44bb-9908-509539b0e73c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-18",
+            "max_devices": 1
         }
     ]
 }
