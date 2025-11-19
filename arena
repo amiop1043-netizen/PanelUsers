@@ -22,5 +22,11 @@
         "key": "SY91RlgQJE",
         "expirydate": "18-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d97199552416561e",
+        "key": "i2Kf7FBcav",
+        "expirydate": "19-01-2026",
+        "Allowoffline": false
     }
 ]
