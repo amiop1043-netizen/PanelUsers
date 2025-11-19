@@ -9629,6 +9629,15 @@
             "status": "active",
             "created_date": "2025-11-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EC12-SECU-3EA1",
+            "device_id": "db8aa96e-b3a3-42f9-8ab7-be8a13e741bc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-19",
+            "max_devices": 1
         }
     ]
 }
