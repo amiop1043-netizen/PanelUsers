@@ -9638,6 +9638,15 @@
             "status": "active",
             "created_date": "2025-11-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-79D6-SECU-AAF6",
+            "device_id": "d1278b3f-0491-4d22-be09-e46018284b15",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-19",
+            "max_devices": 1
         }
     ]
 }
