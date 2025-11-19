@@ -9620,6 +9620,15 @@
             "status": "active",
             "created_date": "2025-11-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5006-SECU-2082",
+            "device_id": "ff145b9c-a467-4037-84e7-f7e00738d330",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-19",
+            "max_devices": 1
         }
     ]
 }
