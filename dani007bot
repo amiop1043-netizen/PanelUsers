@@ -5824,15 +5824,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-DDC3-SECU-9C32",
-            "device_id": "b1a7b59a-50dc-481b-8059-f6efc282dccf",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-F878-SECU-5760",
             "device_id": "1740242",
             "expiry_date": "2069-12-31",
@@ -5853,15 +5844,6 @@
         {
             "key": "MTX-9B02-SECU-935D",
             "device_id": "67a886b7-df9c-4c02-8c48-3b98d1e736c4",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-29",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-1E25-SECU-E71E",
-            "device_id": "b1a7b59a-50dc-481b-8059-f6efc282dccf",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
@@ -9597,15 +9579,6 @@
         {
             "key": "MTX-46B2-SECU-7BC8",
             "device_id": "YOUR SETEDIT COMMAND",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-18",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-2EEF-SECU-B827",
-            "device_id": "50133cf0-1d87-488f-b9c2-cd08eec14e13",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
