@@ -2134,15 +2134,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-5CAA-SECU-0E31",
-            "device_id": "8d53b302-1402-4f21-8989-32e63afcec64",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-D50B-SECU-A28A",
             "device_id": "@Dani_007kBot",
             "expiry_date": "2069-12-31",
@@ -2811,24 +2802,6 @@
         {
             "key": "MTX-6C24-SECU-AEC5",
             "device_id": "redmi note 13",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-FBC5-SECU-A34E",
-            "device_id": "8d53b302-1402-4f21-8989-32e63afcec64",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-6A5F-SECU-02DE",
-            "device_id": "8d53b302-1402-4f21-8989-32e63afcec64",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
