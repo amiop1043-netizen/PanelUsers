@@ -2071,15 +2071,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-543E-SECU-B54E",
-            "device_id": "3d7a580e-0231-44af-963f-eb60bee4b10b",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-C87A-SECU-029A",
             "device_id": "ebdad622-6c1a-4bff-a52e-6700c6a33119",
             "expiry_date": "2069-12-31",
