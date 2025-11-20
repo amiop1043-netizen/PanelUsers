@@ -9566,6 +9566,15 @@
             "status": "active",
             "created_date": "2025-11-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-53E3-SECU-1ACE",
+            "device_id": "dc863373-4e12-478f-86df-835fdc1e8482",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-20",
+            "max_devices": 1
         }
     ]
 }
