@@ -9575,6 +9575,15 @@
             "status": "active",
             "created_date": "2025-11-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2763-SECU-6A90",
+            "device_id": "39055fa2-79a8-4ec2-856e-d1b05525a34b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-20",
+            "max_devices": 1
         }
     ]
 }
