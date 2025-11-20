@@ -3322,5 +3322,11 @@
         "key": "k5OMlEgars",
         "expirydate": "20-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a1927dd1997f98c0",
+        "key": "kJbKr5eTCX",
+        "expirydate": "20-02-2034",
+        "Allowoffline": false
     }
 ]
