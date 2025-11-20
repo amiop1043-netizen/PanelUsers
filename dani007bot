@@ -9467,6 +9467,15 @@
             "status": "active",
             "created_date": "2025-11-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0320-SECU-D6A9",
+            "device_id": "f6cb8ca8-3758-44ed-ae82-b3500093adf2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-20",
+            "max_devices": 1
         }
     ]
 }
