@@ -9476,6 +9476,15 @@
             "status": "active",
             "created_date": "2025-11-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FE67-SECU-F573",
+            "device_id": "6deb2676-fbfc-492b-a136-829e0037a857",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-21",
+            "max_devices": 1
         }
     ]
 }
