@@ -9449,6 +9449,15 @@
             "status": "active",
             "created_date": "2025-11-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BE5F-SECU-F21F",
+            "device_id": "SamsungA15",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-21",
+            "max_devices": 1
         }
     ]
 }
