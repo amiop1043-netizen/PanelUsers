@@ -3340,5 +3340,11 @@
         "key": "T1CLucgs23",
         "expirydate": "21-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4e76c926e4cf1e8",
+        "key": "txfd20g6vj",
+        "expirydate": "21-12-2025",
+        "Allowoffline": false
     }
 ]
