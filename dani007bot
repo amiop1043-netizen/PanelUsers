@@ -9476,6 +9476,15 @@
             "status": "active",
             "created_date": "2025-11-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-24BF-SECU-8C0B",
+            "device_id": "3c347279-d69c-47c4-bbe3-49737d8011dc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-22",
+            "max_devices": 1
         }
     ]
 }
