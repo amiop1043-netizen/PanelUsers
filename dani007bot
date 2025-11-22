@@ -9449,6 +9449,15 @@
             "status": "active",
             "created_date": "2025-11-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8C64-SECU-E47A",
+            "device_id": "bd068473-e67d-48ea-a0f3-50c8fd99fdcc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-22",
+            "max_devices": 1
         }
     ]
 }
