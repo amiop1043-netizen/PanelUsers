@@ -9485,6 +9485,15 @@
             "status": "active",
             "created_date": "2025-11-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-06BE-SECU-90E0",
+            "device_id": "95c65f65-aa89-4b0c-af29-67cc273b8e04",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-22",
+            "max_devices": 1
         }
     ]
 }
