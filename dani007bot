@@ -6670,15 +6670,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-FB0A-SECU-85B3",
-            "device_id": "a1145303-3526-422d-83c2-461b1c964d55",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-31",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-D38F-SECU-4A9D",
             "device_id": "https://youtu.be/9flrSeRz8iA?si=K87nUDyDi -nzlUHg",
             "expiry_date": "2069-12-31",
