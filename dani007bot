@@ -9467,6 +9467,15 @@
             "status": "active",
             "created_date": "2025-11-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ADBA-SECU-9E3F",
+            "device_id": "6b1a4391-9ef5-442e-87e9-f3e1b77368e9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-22",
+            "max_devices": 1
         }
     ]
 }
