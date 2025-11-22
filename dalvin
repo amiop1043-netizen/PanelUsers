@@ -3418,5 +3418,11 @@
         "key": "dZyOKMADVT",
         "expirydate": "22-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8152cb19533bbedf",
+        "key": "HUiPC5bmxZ",
+        "expirydate": "22-05-2031",
+        "Allowoffline": false
     }
 ]
