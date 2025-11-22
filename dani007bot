@@ -9460,15 +9460,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-8328-SECU-0402",
-            "device_id": "70d490f2-a231-4a00-b119-b61c6d79cfc8",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-22",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-24BF-SECU-8C0B",
             "device_id": "3c347279-d69c-47c4-bbe3-49737d8011dc",
             "expiry_date": "2069-12-31",
