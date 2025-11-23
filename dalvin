@@ -3472,5 +3472,11 @@
         "key": "agW9XOP48l",
         "expirydate": "23-03-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8e61dc7e5b90c7aa",
+        "key": "84ontEFPVN",
+        "expirydate": "23-12-2025",
+        "Allowoffline": false
     }
 ]
