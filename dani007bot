@@ -9494,6 +9494,15 @@
             "status": "active",
             "created_date": "2025-11-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B99E-SECU-64C7",
+            "device_id": "cf314be4-8ad9-4d76-8b82-3896be014ab5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-23",
+            "max_devices": 1
         }
     ]
 }
