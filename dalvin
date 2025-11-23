@@ -3460,5 +3460,11 @@
         "key": "OXj2pgBFCM",
         "expirydate": "23-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "24618e7f019a81b9",
+        "key": "IQDKJumnEx",
+        "expirydate": "23-08-2028",
+        "Allowoffline": false
     }
 ]
