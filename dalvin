@@ -3448,5 +3448,11 @@
         "key": "Rn5PWZESp8",
         "expirydate": "23-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b711f66beb802880",
+        "key": "40ezda2VLC",
+        "expirydate": "23-02-2034",
+        "Allowoffline": false
     }
 ]
