@@ -9485,6 +9485,15 @@
             "status": "active",
             "created_date": "2025-11-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5067-SECU-6A16",
+            "device_id": "b175907e-bba7-4c84-989a-68ddef7e9cd3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-23",
+            "max_devices": 1
         }
     ]
 }
