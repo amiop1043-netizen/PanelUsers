@@ -3466,5 +3466,11 @@
         "key": "IQDKJumnEx",
         "expirydate": "23-08-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c7a156cc80937b3f",
+        "key": "agW9XOP48l",
+        "expirydate": "23-03-2033",
+        "Allowoffline": false
     }
 ]
