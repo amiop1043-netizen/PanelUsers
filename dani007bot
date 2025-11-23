@@ -9485,6 +9485,15 @@
             "status": "active",
             "created_date": "2025-11-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2EB7-SECU-29A2",
+            "device_id": "6e1d0549-5acf-43f2-99e9-5921c4b57521",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-23",
+            "max_devices": 1
         }
     ]
 }
