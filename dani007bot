@@ -9521,6 +9521,15 @@
             "status": "active",
             "created_date": "2025-11-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E0EB-SECU-3104",
+            "device_id": "b39bb943-69e0-48c0-a5bc-d6b7e228a07b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-24",
+            "max_devices": 1
         }
     ]
 }
