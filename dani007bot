@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E62D-SECU-D9DA",
+            "device_id": "58cb2fc8-4003-4297-91ac-1d661f862b7a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-24",
+            "max_devices": 1
         }
     ]
 }
