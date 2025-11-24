@@ -3484,5 +3484,11 @@
         "key": "G62cfdnJNa",
         "expirydate": "23-01-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "31aac844f841d41e",
+        "key": "zo6plyvMIr",
+        "expirydate": "24-02-2034",
+        "Allowoffline": false
     }
 ]
