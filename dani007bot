@@ -9521,6 +9521,15 @@
             "status": "active",
             "created_date": "2025-11-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C449-SECU-36B3",
+            "device_id": "af0c739a-c7ea-4359-9489-76539c8716b8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-24",
+            "max_devices": 1
         }
     ]
 }
