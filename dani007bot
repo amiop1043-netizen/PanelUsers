@@ -9521,6 +9521,15 @@
             "status": "active",
             "created_date": "2025-11-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DCBB-SECU-936A",
+            "device_id": "777cac69-3846-4c51-acda-0ed0f49d8ad5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-24",
+            "max_devices": 1
         }
     ]
 }
