@@ -9521,6 +9521,15 @@
             "status": "active",
             "created_date": "2025-11-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F398-SECU-F26E",
+            "device_id": "e7b63ade-46c9-4d7e-885a-47a200a863a9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-25",
+            "max_devices": 1
         }
     ]
 }
