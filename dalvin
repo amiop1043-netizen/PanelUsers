@@ -3520,5 +3520,11 @@
         "key": "MvrBCIhbD4",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ea6253c32ca75fef",
+        "key": "hSX4Gjc7v2",
+        "expirydate": "25-02-2034",
+        "Allowoffline": false
     }
 ]
