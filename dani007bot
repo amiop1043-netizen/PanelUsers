@@ -9530,6 +9530,15 @@
             "status": "active",
             "created_date": "2025-11-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B323-SECU-626B",
+            "device_id": "Redmi note 13",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-25",
+            "max_devices": 1
         }
     ]
 }
