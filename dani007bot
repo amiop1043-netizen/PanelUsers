@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FC0E-SECU-FDB1",
+            "device_id": "4a8fd402-81e6-4852-9ba0-a2991d6828b4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-25",
+            "max_devices": 1
         }
     ]
 }
