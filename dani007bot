@@ -9620,6 +9620,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7B6F-SECU-BD6F",
+            "device_id": "cede47e2-cfbc-4ef7-bc79-ce8fa6165428",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-26",
+            "max_devices": 1
         }
     ]
 }
