@@ -9620,6 +9620,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D8EF-SECU-4A49",
+            "device_id": "a9e29f65-ab62-4c75-9c60-95d4df86dd22",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-26",
+            "max_devices": 1
         }
     ]
 }
