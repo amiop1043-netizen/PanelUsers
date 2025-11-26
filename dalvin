@@ -3568,5 +3568,11 @@
         "key": "SCYDK13BzA",
         "expirydate": "26-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "95de87f251f60608",
+        "key": "TLDMdtEZp1",
+        "expirydate": "26-12-2025",
+        "Allowoffline": false
     }
 ]
