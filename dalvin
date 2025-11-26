@@ -3562,5 +3562,11 @@
         "key": "SE2lyZI3Kr",
         "expirydate": "26-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d7c67a532d9c6db2",
+        "key": "SCYDK13BzA",
+        "expirydate": "26-12-2025",
+        "Allowoffline": false
     }
 ]
