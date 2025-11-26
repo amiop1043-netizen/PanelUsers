@@ -3574,5 +3574,11 @@
         "key": "TLDMdtEZp1",
         "expirydate": "26-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "30e314e28aec1e82",
+        "key": "WExfHOLlwK",
+        "expirydate": "26-02-2026",
+        "Allowoffline": false
     }
 ]
