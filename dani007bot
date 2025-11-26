@@ -9593,6 +9593,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-61F1-SECU-D4A6",
+            "device_id": "2734f506-9edc-4f42-b8f9-d379d41b5e1e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-26",
+            "max_devices": 1
         }
     ]
 }
