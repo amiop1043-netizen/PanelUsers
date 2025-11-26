@@ -9629,6 +9629,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4E4A-SECU-22CB",
+            "device_id": "e0686239-0484-464c-9547-183a0522444e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-26",
+            "max_devices": 1
         }
     ]
 }
