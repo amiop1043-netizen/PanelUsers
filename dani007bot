@@ -9638,6 +9638,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DF77-SECU-58DE",
+            "device_id": "6a64737f-2a02-4167-97bc-d2f784d28f1f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-26",
+            "max_devices": 1
         }
     ]
 }
