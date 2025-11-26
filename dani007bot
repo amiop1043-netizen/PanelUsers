@@ -9557,6 +9557,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6CBD-SECU-49EE",
+            "device_id": "b3911a5e-7b9f-45d8-b386-b99f088e0bc1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-26",
+            "max_devices": 1
         }
     ]
 }
