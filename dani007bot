@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DD6A-SECU-2632",
+            "device_id": "4134207e-71a4-4e1f-9453-f985553e0024",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-27",
+            "max_devices": 1
         }
     ]
 }
