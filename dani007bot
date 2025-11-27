@@ -9539,6 +9539,15 @@
             "status": "active",
             "created_date": "2025-11-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F437-SECU-DF5D",
+            "device_id": "06fb2bfa-bba2-4d6f-9566-2e4dc322d09a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-27",
+            "max_devices": 1
         }
     ]
 }
