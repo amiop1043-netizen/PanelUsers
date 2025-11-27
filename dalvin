@@ -3670,5 +3670,11 @@
         "key": "v3ZqgL2mkH",
         "expirydate": "27-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c1379b2aef86e528",
+        "key": "rMOiCkDTyZ",
+        "expirydate": "27-07-2031",
+        "Allowoffline": false
     }
 ]
