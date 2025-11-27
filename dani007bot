@@ -8056,15 +8056,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-2C3C-SECU-722C",
-            "device_id": "a125d94b-a4c9-40d5-bb15-c996b1dd68c8",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-13",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-7437-SECU-D44E",
             "device_id": "426ec954-7a1e-46c6-80a8-6798be57a9c7",
             "expiry_date": "2069-12-31",
