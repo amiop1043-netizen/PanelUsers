@@ -3652,5 +3652,11 @@
         "key": "Wbs7aqgJBP",
         "expirydate": "27-08-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ccfe48c56659474b",
+        "key": "wfj5n0ci6r",
+        "expirydate": "27-12-2025",
+        "Allowoffline": false
     }
 ]
