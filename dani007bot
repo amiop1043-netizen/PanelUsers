@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A62B-SECU-1858",
+            "device_id": "e4565b3b-e58f-40a6-86b2-f9956335f9a4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-28",
+            "max_devices": 1
         }
     ]
 }
