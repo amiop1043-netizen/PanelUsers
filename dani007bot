@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-11-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AB47-SECU-5EDA",
+            "device_id": "7637a494-21b0-4bb4-90d6-f34a4f7a5167",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-28",
+            "max_devices": 1
         }
     ]
 }
