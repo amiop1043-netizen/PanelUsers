@@ -3694,5 +3694,11 @@
         "key": "KQMgmphIAB",
         "expirydate": "28-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "50bf08428012b097",
+        "key": "VwcL7ChSKo",
+        "expirydate": "28-11-2063",
+        "Allowoffline": false
     }
 ]
