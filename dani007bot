@@ -9539,6 +9539,15 @@
             "status": "active",
             "created_date": "2025-11-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7306-SECU-B312",
+            "device_id": "8172332f-1567-4d2f-8e99-406e89126951",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-28",
+            "max_devices": 1
         }
     ]
 }
