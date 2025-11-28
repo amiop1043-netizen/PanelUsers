@@ -9503,6 +9503,15 @@
             "status": "active",
             "created_date": "2025-11-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2985-SECU-B916",
+            "device_id": "2c49ee16-03bc-4322-9d95-f1053f55efab",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-28",
+            "max_devices": 1
         }
     ]
 }
