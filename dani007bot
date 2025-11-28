@@ -9503,6 +9503,15 @@
             "status": "active",
             "created_date": "2025-11-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5646-SECU-1752",
+            "device_id": "fdc80ea6-990f-4ac6-adbe-88ab92ca4f36",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-28",
+            "max_devices": 1
         }
     ]
 }
