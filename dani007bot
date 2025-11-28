@@ -9548,6 +9548,15 @@
             "status": "active",
             "created_date": "2025-11-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D061-SECU-287C",
+            "device_id": "19221850-5275-48cb-9e27-42f445ed2124",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-28",
+            "max_devices": 1
         }
     ]
 }
