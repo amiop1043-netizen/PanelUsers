@@ -9557,6 +9557,15 @@
             "status": "active",
             "created_date": "2025-11-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F359-SECU-2A42",
+            "device_id": "c389992a-ca49-4c9c-9c4f-aee5645c7ca8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-29",
+            "max_devices": 1
         }
     ]
 }
