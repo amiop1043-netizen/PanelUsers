@@ -9539,6 +9539,15 @@
             "status": "active",
             "created_date": "2025-11-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-19C2-SECU-D230",
+            "device_id": "89844773-4c26-4b24-95bb-3fe11166a039",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-29",
+            "max_devices": 1
         }
     ]
 }
