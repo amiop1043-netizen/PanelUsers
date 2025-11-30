@@ -3862,5 +3862,11 @@
         "key": "q4IeGZ7TAp",
         "expirydate": "02-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d9dfd40d9bbc688d",
+        "key": "HOM2vymEn5",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
 ]
