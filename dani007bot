@@ -9467,6 +9467,15 @@
             "status": "active",
             "created_date": "2025-11-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F567-SECU-CE44",
+            "device_id": "7dd33f3a-713e-4125-a3ff-2e4c7ea45fd4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-11-30",
+            "max_devices": 1
         }
     ]
 }
