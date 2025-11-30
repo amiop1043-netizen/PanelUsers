@@ -3922,5 +3922,11 @@
         "key": "TDCGaOBfKv",
         "expirydate": "01-03-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3a667a4e54d42cab",
+        "key": "hmy9XMwdgI",
+        "expirydate": "02-03-2026",
+        "Allowoffline": false
     }
 ]
