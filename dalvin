@@ -3832,5 +3832,11 @@
         "key": "ORB9SiKMNn",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "048bc286b41e7510",
+        "key": "Fz71g2PTX4",
+        "expirydate": "30-06-2031",
+        "Allowoffline": false
     }
 ]
