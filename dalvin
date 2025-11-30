@@ -3892,5 +3892,11 @@
         "key": "EbspcxYT2P",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "636ea049f94f474f",
+        "key": "iW9ZbPaemj",
+        "expirydate": "30-05-2027",
+        "Allowoffline": false
     }
 ]
