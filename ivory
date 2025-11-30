@@ -34,5 +34,11 @@
         "key": "q8kEdCoe3u",
         "expirydate": "30-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5c9187d0bc5d83ee",
+        "key": "KSiJTNIdvD",
+        "expirydate": "30-01-2030",
+        "Allowoffline": false
     }
 ]
