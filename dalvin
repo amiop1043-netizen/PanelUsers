@@ -3934,5 +3934,11 @@
         "key": "KfUmHznMR1",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c7b1a27f84979b25",
+        "key": "Ng382oqubM",
+        "expirydate": "01-01-2026",
+        "Allowoffline": false
     }
 ]
