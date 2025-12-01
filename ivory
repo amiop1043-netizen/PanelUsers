@@ -70,5 +70,11 @@
         "key": "dxOFlf7VkW",
         "expirydate": "01-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "619c8cbb19db9574",
+        "key": "DN25sxvzO9",
+        "expirydate": "01-01-2026",
+        "Allowoffline": false
     }
 ]
