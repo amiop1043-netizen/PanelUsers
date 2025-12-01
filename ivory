@@ -76,5 +76,11 @@
         "key": "DN25sxvzO9",
         "expirydate": "01-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2079e16fc95d5831",
+        "key": "doA3szT9EW",
+        "expirydate": "01-01-2026",
+        "Allowoffline": false
     }
 ]
