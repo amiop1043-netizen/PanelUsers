@@ -9458,6 +9458,15 @@
             "status": "active",
             "created_date": "2025-12-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2AB3-SECU-BC60",
+            "device_id": "0636c823-e381-4285-994f-4d163ee38859",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-01",
+            "max_devices": 1
         }
     ]
 }
