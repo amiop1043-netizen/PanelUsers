@@ -9476,6 +9476,15 @@
             "status": "active",
             "created_date": "2025-12-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-75E3-SECU-EE6A",
+            "device_id": "c433ec90-490d-4803-b105-a63bf012ce29",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-01",
+            "max_devices": 1
         }
     ]
 }
