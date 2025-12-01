@@ -40,5 +40,11 @@
         "key": "KSiJTNIdvD",
         "expirydate": "30-01-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ede06685032f65cd",
+        "key": "5J4fkMxYKP",
+        "expirydate": "01-01-2026",
+        "Allowoffline": false
     }
 ]
