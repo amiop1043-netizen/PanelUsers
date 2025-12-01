@@ -9467,6 +9467,15 @@
             "status": "active",
             "created_date": "2025-12-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5CA7-SECU-6C23",
+            "device_id": "43cf85e6-44e9-44f9-b298-b3b153ac7a11",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-01",
+            "max_devices": 1
         }
     ]
 }
