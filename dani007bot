@@ -9512,6 +9512,15 @@
             "status": "active",
             "created_date": "2025-12-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D064-SECU-9FB8",
+            "device_id": "139cf9ce-db97-48af-9042-ba7b6c85e410",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-02",
+            "max_devices": 1
         }
     ]
 }
