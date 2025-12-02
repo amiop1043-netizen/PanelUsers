@@ -9467,6 +9467,15 @@
             "status": "active",
             "created_date": "2025-12-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0D9D-SECU-980D",
+            "device_id": "Redmi Note 13",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-02",
+            "max_devices": 1
         }
     ]
 }
