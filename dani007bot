@@ -9503,6 +9503,15 @@
             "status": "active",
             "created_date": "2025-12-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-16BB-SECU-CA26",
+            "device_id": "1439686a-9823-42f9-92f8-36c6fb2bc2dd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-02",
+            "max_devices": 1
         }
     ]
 }
