@@ -9415,15 +9415,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-6A8E-SECU-D174",
-            "device_id": "77774a95-d30c-4348-a3ea-7182f9a4bc71",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-02",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-3E74-SECU-1DD4",
             "device_id": "c433ec90-490d-4803-b105-a63bf012ce29",
             "expiry_date": "2069-12-31",
