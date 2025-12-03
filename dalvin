@@ -4072,5 +4072,11 @@
         "key": "24hdVmQR8f",
         "expirydate": "03-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "df385b6e4d25d2a6",
+        "key": "JREGLyjiWN",
+        "expirydate": "03-01-2026",
+        "Allowoffline": false
     }
 ]
