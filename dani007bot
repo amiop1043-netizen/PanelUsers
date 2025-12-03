@@ -9485,6 +9485,15 @@
             "status": "active",
             "created_date": "2025-12-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BA27-SECU-78E0",
+            "device_id": "b803c350-d39f-4b35-b392-55807c2ed14e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-03",
+            "max_devices": 1
         }
     ]
 }
