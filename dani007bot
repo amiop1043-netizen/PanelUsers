@@ -9467,6 +9467,15 @@
             "status": "active",
             "created_date": "2025-12-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D879-SECU-E6FA",
+            "device_id": "https://t.me/c/3325648621/33",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-03",
+            "max_devices": 1
         }
     ]
 }
