@@ -3700,33 +3700,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-2204-SECU-5047",
-            "device_id": "touch.toolSize.calibration",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-1B26-SECU-526A",
-            "device_id": "touch.toolSize.calibration",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-33CA-SECU-B9C4",
-            "device_id": "8b80bc12-5910-446c-b212-c27f7696a2bb",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-1BB1-SECU-C9C5",
             "device_id": "8d8f592e-0957-4131-bb2b-3a3ed19ccf74",
             "expiry_date": "2069-12-31",
