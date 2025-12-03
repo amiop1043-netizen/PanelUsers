@@ -112,5 +112,11 @@
         "key": "RqLCWpi18U",
         "expirydate": "02-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "04ca86ce9704c130",
+        "key": "XaAF960e2B",
+        "expirydate": "03-12-2030",
+        "Allowoffline": false
     }
 ]
