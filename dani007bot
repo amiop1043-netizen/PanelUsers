@@ -10016,6 +10016,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2425-SECU-0B39",
+            "device_id": "2e5c6183-7b6c-4923-9585-492d0b608c80",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
