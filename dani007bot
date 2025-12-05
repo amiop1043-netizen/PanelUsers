@@ -10106,6 +10106,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C0DC-SECU-16E8",
+            "device_id": "61fea6d7-0c6b-4420-b5bb-7e06ecc0fec0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
