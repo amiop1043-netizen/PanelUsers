@@ -10682,6 +10682,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B0C8-SECU-7D10",
+            "device_id": "7cc64a3c-f34c-4818-92a9-2f3130a03e8e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
