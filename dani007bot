@@ -9962,6 +9962,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9A1F-SECU-9359",
+            "device_id": "df2a8263-777e-4838-8577-2f42b66e8276",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
