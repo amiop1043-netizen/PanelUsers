@@ -9971,6 +9971,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8B45-SECU-4E15",
+            "device_id": "e0616fff-7cdd-4fc5-b10a-c30066a21089",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
