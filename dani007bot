@@ -10124,6 +10124,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-684E-SECU-2A40",
+            "device_id": "7c0f105c-1bf8-4993-8d15-871e4a90ee23",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
