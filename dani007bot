@@ -10367,6 +10367,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E42C-SECU-D645",
+            "device_id": "cf53f588-b83b-4224-9d1b-ed083b3df7b2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
