@@ -10430,6 +10430,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-455C-SECU-64B7",
+            "device_id": "243e4565-23ed-4ce2-8b33-b64042cded60",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
