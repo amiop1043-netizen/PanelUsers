@@ -9638,6 +9638,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A65B-SECU-F40D",
+            "device_id": "bf2a85d6-f201-48bd-a32b-5aab541f47b7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
