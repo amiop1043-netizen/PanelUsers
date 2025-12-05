@@ -9917,6 +9917,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C055-SECU-08C9",
+            "device_id": "aaf77377-aa75-46bf-8ab7-02fde526416d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
