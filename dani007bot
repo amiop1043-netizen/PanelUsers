@@ -10439,6 +10439,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E424-SECU-4B39",
+            "device_id": "11607a3e-1e52-4b22-9752-328e921c1a45",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
