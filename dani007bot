@@ -9710,6 +9710,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1255-SECU-D69D",
+            "device_id": "49f18dc2-46c1-44e3-9008-5496475ab26c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
