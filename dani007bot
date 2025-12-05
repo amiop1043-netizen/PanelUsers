@@ -9602,6 +9602,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-420F-SECU-4C2C",
+            "device_id": "8a397f15-8f45-4243-95f7-f9448faa4e14",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
