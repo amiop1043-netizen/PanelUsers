@@ -10736,6 +10736,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FD6C-SECU-B147",
+            "device_id": "e57da9c6-bad4-45fc-a973-1757994f5727",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
