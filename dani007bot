@@ -9782,6 +9782,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-24CC-SECU-3827",
+            "device_id": "acaf4712-fc65-42f2-a6ad-9585ffb56688",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
