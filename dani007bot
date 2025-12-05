@@ -10430,6 +10430,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-449E-SECU-5A6B",
+            "device_id": "17ae952d-aaa5-4c0d-b934-c2e9ba35518b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
