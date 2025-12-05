@@ -10763,6 +10763,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D293-SECU-B035",
+            "device_id": "89d47b22-f6ce-4d22-8853-1eb68a465045",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
