@@ -9800,6 +9800,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DC18-SECU-2FD5",
+            "device_id": "9fdbcccc-a1e7-4c11-a2c1-abeffd7aff30",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
