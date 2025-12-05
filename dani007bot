@@ -9944,6 +9944,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0FDC-SECU-9C0F",
+            "device_id": "210cf40a-56ba-4627-93a5-7f4238938b18",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
