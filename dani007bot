@@ -10439,6 +10439,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4C28-SECU-2067",
+            "device_id": "956245ee-9a76-4ec6-8084-c0a8d62677cc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
