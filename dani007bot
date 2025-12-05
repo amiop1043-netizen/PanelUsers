@@ -9701,6 +9701,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-08B2-SECU-AF45",
+            "device_id": "94cfc93e-d4dc-4377-a5d9-88c4ce475316",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
