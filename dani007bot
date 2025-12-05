@@ -9557,6 +9557,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-302F-SECU-61C7",
+            "device_id": "d127fb19-0076-44e1-8de8-fe53c2fe445e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
