@@ -10727,6 +10727,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CBDC-SECU-6322",
+            "device_id": "281f40d3-ba17-4e9c-a00c-a0c623e108ed",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
