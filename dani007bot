@@ -10520,6 +10520,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ECCC-SECU-DB44",
+            "device_id": "5eb9063c-705f-4fc6-a072-919401b71efc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
