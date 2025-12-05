@@ -9485,6 +9485,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3711-SECU-198E",
+            "device_id": "894ad3e0-a890-4fc8-a009-7c9689b70689",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
