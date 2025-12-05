@@ -9656,6 +9656,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9A06-SECU-77FC",
+            "device_id": "4b3be0d2-514c-43f4-b8da-dde3df492164",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
