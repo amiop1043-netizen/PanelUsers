@@ -10709,6 +10709,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2B49-SECU-FBA8",
+            "device_id": "64709b9c-bdd6-41f3-9b9f-e08652155f49",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
