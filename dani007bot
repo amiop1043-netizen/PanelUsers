@@ -9764,6 +9764,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0272-SECU-5453",
+            "device_id": "117c9e76-3477-4487-afb0-19e50c6ff0cc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
