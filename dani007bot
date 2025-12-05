@@ -9872,6 +9872,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CE44-SECU-B0CC",
+            "device_id": "00eca6e1-d1e2-452a-86ad-5c76f5cab004",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
