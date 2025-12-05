@@ -10331,6 +10331,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A309-SECU-82F7",
+            "device_id": "4d685f3f-75e9-4a4f-ad2f-f01280fd97db",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
