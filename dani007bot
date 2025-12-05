@@ -10700,6 +10700,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6066-SECU-9BE8",
+            "device_id": "6a99d9aa-4f6c-4b6d-8c9e-1bf96d899f99",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
