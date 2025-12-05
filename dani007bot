@@ -9755,6 +9755,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EBAE-SECU-D0BE",
+            "device_id": "8baa1d05-828f-4f7c-a363-ae3fc2869bce",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
