@@ -10583,6 +10583,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CC9D-SECU-46AC",
+            "device_id": "ef515307-189a-4155-9878-05c6ec2853b8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
