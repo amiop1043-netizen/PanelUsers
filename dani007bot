@@ -10601,6 +10601,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-42C7-SECU-0B69",
+            "device_id": "43d68892-3245-4bf6-84fb-222872e7cd75",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
