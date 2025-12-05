@@ -10043,6 +10043,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A808-SECU-DAED",
+            "device_id": "c7c10d8c-d782-4099-a3ee-95388fdf7485",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
