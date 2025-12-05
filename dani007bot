@@ -10592,6 +10592,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BC4D-SECU-7CB1",
+            "device_id": "e71010d0-cad6-4b3b-9ea2-5e11fcc76e2f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
