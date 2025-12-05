@@ -9845,6 +9845,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-54E7-SECU-B946",
+            "device_id": "26700fb5-3509-4ef1-8637-9b4c4076c008",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
