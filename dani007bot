@@ -10187,6 +10187,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AE24-SECU-1EB6",
+            "device_id": "91eebce2-8a3f-4fa3-8e93-1b1cab2e60c4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
