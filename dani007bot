@@ -9341,6 +9341,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-926E-SECU-1526",
+            "device_id": "b1eba777-9212-46ea-9816-ff301f89c1fe",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
