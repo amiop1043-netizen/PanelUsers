@@ -9827,6 +9827,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A083-SECU-EBF1",
+            "device_id": "4742d6bd-55bf-4180-b2c6-3748fed396a8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
