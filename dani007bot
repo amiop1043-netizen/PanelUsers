@@ -9908,6 +9908,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0A39-SECU-A42A",
+            "device_id": "58a63b9a-e324-4cef-9c1d-37e84b932839",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
