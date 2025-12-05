@@ -10322,6 +10322,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0B14-SECU-DC02",
+            "device_id": "d8581ccb-9307-472c-aa6d-636e47e9ac36",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
