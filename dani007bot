@@ -9611,6 +9611,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4C81-SECU-5F22",
+            "device_id": "1d969a86-0791-464d-800b-c6d65a4e4f42",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
