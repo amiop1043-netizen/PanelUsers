@@ -10475,6 +10475,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-450E-SECU-FB42",
+            "device_id": "749544ce-8eaa-40f5-bed3-e320a069ca2d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
