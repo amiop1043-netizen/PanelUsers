@@ -10565,6 +10565,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5133-SECU-7C11",
+            "device_id": "22f089dd-dcb3-40a1-ae1e-29e4441191fb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
