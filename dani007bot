@@ -10025,6 +10025,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-32FA-SECU-C3BB",
+            "device_id": "30a10a6a-4bbe-4754-bb0a-4d5b2bb4f69b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
