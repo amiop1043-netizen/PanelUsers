@@ -9440,6 +9440,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1860-SECU-CC0E",
+            "device_id": "badb3106-2d0a-441e-9ff4-330cbe1ea3b6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
