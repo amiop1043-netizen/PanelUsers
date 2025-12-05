@@ -10754,6 +10754,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8388-SECU-C832",
+            "device_id": "2f26bc00-2dad-4a6c-8011-25bc6be1f6fa",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
