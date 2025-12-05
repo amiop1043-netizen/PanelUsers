@@ -9773,6 +9773,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-40B1-SECU-8837",
+            "device_id": "50ef95a1-fd0f-4723-82de-9f2dd1045705",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
