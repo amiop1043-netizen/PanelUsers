@@ -9359,6 +9359,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F135-SECU-E9F6",
+            "device_id": "6c5baddb-ca92-449b-a18e-b10f4b8f1fba",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
