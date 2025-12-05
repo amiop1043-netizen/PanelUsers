@@ -10277,6 +10277,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1D87-SECU-4831",
+            "device_id": "6541e937-674c-4643-a068-ce9b3527fba3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
