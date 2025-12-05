@@ -10250,6 +10250,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EFFA-SECU-D95E",
+            "device_id": "2942672e-49e8-4902-9b8e-05cbe1e3dccd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
