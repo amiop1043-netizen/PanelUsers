@@ -9728,6 +9728,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2C70-SECU-3C1F",
+            "device_id": "c89df798-3163-4122-846e-bd3d480c7ee9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
