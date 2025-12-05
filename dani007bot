@@ -10079,6 +10079,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CC88-SECU-2717",
+            "device_id": "8ef7c512-2fad-4a20-add1-b9faf69de0fc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
