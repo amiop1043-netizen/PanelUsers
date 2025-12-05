@@ -10511,6 +10511,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A59D-SECU-481B",
+            "device_id": "39cf891c-575a-4d44-bafe-f5efe97e70a6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
