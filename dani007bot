@@ -10205,6 +10205,15 @@
             "status": "active",
             "created_date": "2025-12-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-28E8-SECU-963E",
+            "device_id": "087b72d0-eaa2-4a97-806c-2703f72aa79f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-05",
+            "max_devices": 1
         }
     ]
 }
