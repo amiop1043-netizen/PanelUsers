@@ -11231,6 +11231,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3CC0-SECU-339B",
+            "device_id": "c2132c2f-7c3c-474c-a51f-9af88363595c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
