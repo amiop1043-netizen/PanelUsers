@@ -11285,6 +11285,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8D9E-SECU-AFEB",
+            "device_id": "564931fa-07cc-473f-8841-26c272a19c9d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
