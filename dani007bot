@@ -10432,15 +10432,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-C75E-SECU-E5EA",
-            "device_id": "14d92e99-6638-4482-af25-786e4ddb210e",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-05",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-E2D9-SECU-7822",
             "device_id": "536d0c93-e387-4cda-97d0-3fa7f1f17ac7",
             "expiry_date": "2069-12-31",
