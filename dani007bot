@@ -11204,6 +11204,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7B48-SECU-D943",
+            "device_id": "e7771dec-8ecf-4c9e-be8e-d8cbf93be752",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
