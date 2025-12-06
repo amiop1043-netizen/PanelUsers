@@ -11348,6 +11348,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AE5B-SECU-14D2",
+            "device_id": "04bbeca2-0f3b-4fec-83a6-29609f759cca",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
