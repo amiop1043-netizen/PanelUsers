@@ -10889,6 +10889,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-36FF-SECU-8F01",
+            "device_id": "20d9eb07-5ba8-4f31-82c7-5ae6fcadb4ab",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
