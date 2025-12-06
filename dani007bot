@@ -11258,6 +11258,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B731-SECU-240F",
+            "device_id": "63255442-1ae1-4bc1-acb9-9389a8dd48fb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
