@@ -11375,6 +11375,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-45EE-SECU-086A",
+            "device_id": "8850c51d-724c-4ffb-81e9-c4ca999833b0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
