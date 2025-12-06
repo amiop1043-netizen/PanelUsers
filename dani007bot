@@ -10961,6 +10961,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-15C7-SECU-D506",
+            "device_id": "801467dc-c81a-4b4b-b19d-59ee43cd5856",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
