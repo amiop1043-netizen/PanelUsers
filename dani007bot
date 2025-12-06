@@ -10808,6 +10808,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-21C9-SECU-FE4C",
+            "device_id": "86becc6c-efbb-46e9-bc04-00928e8803b8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
