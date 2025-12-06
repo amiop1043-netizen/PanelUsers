@@ -11186,6 +11186,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-814B-SECU-A4DF",
+            "device_id": "2b794c77-eb64-450d-8059-ef6aa2fda1b7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
