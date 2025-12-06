@@ -4342,5 +4342,11 @@
         "key": "L81qhPVCE2",
         "expirydate": "06-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "305d18e6dd971bf1",
+        "key": "0mfls5bnvP",
+        "expirydate": "06-05-2032",
+        "Allowoffline": false
     }
 ]
