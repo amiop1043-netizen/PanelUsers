@@ -11051,6 +11051,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-286B-SECU-9212",
+            "device_id": "b5dd9646-bb56-4d5d-8a04-a1f81bde0ed3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
