@@ -6688,15 +6688,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-5F19-SECU-BC62",
-            "device_id": "3e23234f-d2a4-4d18-857c-2e537de65f80",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-04",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-1F89-SECU-D632",
             "device_id": "df3197ac-3292-4b9b-99cc-0e9ed5ebeb75",
             "expiry_date": "2069-12-31",
