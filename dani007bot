@@ -11096,6 +11096,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2EC2-SECU-08AD",
+            "device_id": "7ce8ae17-5cf8-4c3e-b7d6-a73448ad9336",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
