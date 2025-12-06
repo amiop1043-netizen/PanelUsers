@@ -11222,6 +11222,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E107-SECU-F8ED",
+            "device_id": "d98b6223-ebab-4b80-9e03-95e803f2814d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
