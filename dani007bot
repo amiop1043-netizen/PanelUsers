@@ -11240,6 +11240,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1D12-SECU-CA1A",
+            "device_id": "69ac3304-b706-4404-9714-1cc5f10e5b50",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
