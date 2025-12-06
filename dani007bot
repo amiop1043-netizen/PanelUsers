@@ -11168,6 +11168,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DCB0-SECU-2586",
+            "device_id": "843286eb-200d-4c41-8fc6-74b461b29866",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
