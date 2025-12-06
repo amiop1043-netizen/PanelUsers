@@ -11276,6 +11276,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FAFF-SECU-5AF3",
+            "device_id": "relme nat50",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
