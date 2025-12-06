@@ -10907,6 +10907,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-32FE-SECU-4469",
+            "device_id": "eee0cbd3-14b4-4c4e-9319-1fa143052013",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
