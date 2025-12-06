@@ -10979,6 +10979,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-936A-SECU-BB6C",
+            "device_id": "f51efc3c-e9ef-4c26-b9bb-acaf967e1319",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
