@@ -11150,6 +11150,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2738-SECU-A6EC",
+            "device_id": "658ccf64-0e1f-4f4c-8afa-93e18f99143a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
