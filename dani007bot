@@ -10862,6 +10862,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8C78-SECU-8C2D",
+            "device_id": "e5eddd14-301a-441e-afac-ed3598219a62",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
