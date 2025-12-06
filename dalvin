@@ -4312,5 +4312,11 @@
         "key": "4vJB1ihs7L",
         "expirydate": "06-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e4d616901011e618",
+        "key": "YGE3LRUDg0",
+        "expirydate": "06-01-2026",
+        "Allowoffline": false
     }
 ]
