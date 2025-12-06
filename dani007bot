@@ -10997,6 +10997,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EF75-SECU-9956",
+            "device_id": "7bb42ef8-90ea-4fb0-8089-b6845d5e04c6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
