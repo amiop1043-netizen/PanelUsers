@@ -10817,6 +10817,15 @@
             "status": "active",
             "created_date": "2025-12-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-580C-SECU-1D60",
+            "device_id": "df0614e9-2b85-4d6b-bc81-eb82871f102b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-06",
+            "max_devices": 1
         }
     ]
 }
