@@ -11393,6 +11393,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B130-SECU-CF99",
+            "device_id": "POCO X3 NFC",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
