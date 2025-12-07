@@ -11411,6 +11411,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D769-SECU-993B",
+            "device_id": "0cd13aac-b980-467d-aea9-4aefa1a488e3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
