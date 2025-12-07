@@ -11411,6 +11411,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BC45-SECU-2D86",
+            "device_id": "6a6af69e-7bda-4fe2-a933-ea5aa6bf6a36",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
