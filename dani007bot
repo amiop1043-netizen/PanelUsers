@@ -11393,6 +11393,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-71B9-SECU-6AE5",
+            "device_id": "e9156e51-94cc-4d30-814a-cda5a1eadd58",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
