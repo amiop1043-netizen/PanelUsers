@@ -11384,6 +11384,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1168-SECU-F411",
+            "device_id": "71ef5d87-f69d-4118-a275-3dd81c50a3c6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
