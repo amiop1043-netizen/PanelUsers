@@ -11384,6 +11384,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A4F3-SECU-D63B",
+            "device_id": "a2f68dec-8d02-4168-a1c2-8e5df19a3cd8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
