@@ -10351,15 +10351,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-4060-SECU-DCFF",
-            "device_id": "7f401aae-c55d-485a-9f13-465ad02f08d1",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-05",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-66E8-SECU-46EB",
             "device_id": "243e4565-23ed-4ce2-8b33-b64042cded60",
             "expiry_date": "2069-12-31",
