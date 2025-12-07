@@ -11402,6 +11402,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7CA8-SECU-0734",
+            "device_id": "32ccf1d8-aa8e-497a-9993-b9d513ea1135",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-07",
+            "max_devices": 1
         }
     ]
 }
