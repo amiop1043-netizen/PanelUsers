@@ -11537,6 +11537,15 @@
             "status": "active",
             "created_date": "2025-12-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D4BE-SECU-47B8",
+            "device_id": "926065c1-10d8-40dd-a2bf-28a4341bcbc7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
