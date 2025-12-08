@@ -11510,6 +11510,15 @@
             "status": "active",
             "created_date": "2025-12-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1929-SECU-9A4B",
+            "device_id": "15023673-d731-441c-822c-619e9a1e1777",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
