@@ -11456,6 +11456,15 @@
             "status": "active",
             "created_date": "2025-12-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-D900-SECU-C8F3",
+            "device_id": "a9e6ee65-3516-4e02-9839-ea460ec92db9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
