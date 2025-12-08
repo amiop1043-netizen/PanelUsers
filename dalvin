@@ -4522,5 +4522,11 @@
         "key": "DLG61iJCnu",
         "expirydate": "08-01-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "45968ae164be2d4d",
+        "key": "RA9TtbCusj",
+        "expirydate": "08-01-2026",
+        "Allowoffline": false
     }
 ]
