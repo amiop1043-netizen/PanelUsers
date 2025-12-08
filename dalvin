@@ -4510,5 +4510,11 @@
         "key": "17NHPBe5Cx",
         "expirydate": "08-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9608eaf7583e1f36",
+        "key": "FJYItCW2vE",
+        "expirydate": "08-01-2026",
+        "Allowoffline": false
     }
 ]
