@@ -11420,6 +11420,15 @@
             "status": "active",
             "created_date": "2025-12-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4B44-SECU-0FFD",
+            "device_id": "0f7c3a14-ae6a-4fb8-bb5e-49207d5c1de1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
