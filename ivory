@@ -190,5 +190,11 @@
         "key": "xbpocNSIZ5",
         "expirydate": "08-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "038ae23666f75166",
+        "key": "rdZOBYFXhv",
+        "expirydate": "08-02-2030",
+        "Allowoffline": false
     }
 ]
