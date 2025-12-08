@@ -11465,6 +11465,15 @@
             "status": "active",
             "created_date": "2025-12-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AF5D-SECU-3C89",
+            "device_id": "9650c633-18ce-4a2e-a8e4-e9a8eabf9982",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
