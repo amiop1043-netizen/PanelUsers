@@ -11474,6 +11474,15 @@
             "status": "active",
             "created_date": "2025-12-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4195-SECU-4684",
+            "device_id": "7da14cca-a6ee-4bde-b7a7-6734a04a064f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
