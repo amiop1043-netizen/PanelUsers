@@ -11537,6 +11537,15 @@
             "status": "active",
             "created_date": "2025-12-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2397-SECU-80CA",
+            "device_id": "ac648287-97f8-43d9-8b5a-d585df0716d7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-08",
+            "max_devices": 1
         }
     ]
 }
