@@ -11609,6 +11609,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-64F0-SECU-34CB",
+            "device_id": "f153fcfd-e59d-4f4f-9ebf-e67a8602b8e1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
