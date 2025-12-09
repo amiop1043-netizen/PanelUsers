@@ -11600,6 +11600,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7FA3-SECU-7FDB",
+            "device_id": "e2f173df-d8ea-4495-844d-554f15c36086",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
