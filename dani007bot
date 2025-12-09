@@ -11546,6 +11546,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CC55-SECU-1A6B",
+            "device_id": "faf45eea-067d-4b4f-a4dd-c929778a27c3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
