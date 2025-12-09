@@ -11555,6 +11555,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-47FC-SECU-BF70",
+            "device_id": "4b0650db-b5b6-4def-8f3e-5f2e5c1f70b1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
