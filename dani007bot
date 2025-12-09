@@ -11528,6 +11528,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2741-SECU-C2A2",
+            "device_id": "de2ea6da-8213-42e0-a3ae-9ef4b28abd68",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
