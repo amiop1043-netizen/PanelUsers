@@ -11512,15 +11512,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-79D5-SECU-3221",
-            "device_id": "de019cf2-bb84-4619-ac4c-75c718d4e64e",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-08",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-6A15-SECU-847E",
             "device_id": "c65cd5df-dd7e-42c2-a209-936d810c2de0",
             "expiry_date": "2069-12-31",
