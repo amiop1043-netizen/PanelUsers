@@ -11618,6 +11618,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C195-SECU-F7B5",
+            "device_id": "0da9ad9d-355d-4988-ad4b-37b437a82afb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
