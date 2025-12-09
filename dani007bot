@@ -11663,6 +11663,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-32DF-SECU-CD57",
+            "device_id": "79480d4c-b2f8-4cf0-acdc-f1ce75ba2cee",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
