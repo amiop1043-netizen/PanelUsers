@@ -208,5 +208,11 @@
         "key": "3ohG2BOtTC",
         "expirydate": "09-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f2534e535090379",
+        "key": "xVNLXep03M",
+        "expirydate": "09-02-2030",
+        "Allowoffline": false
     }
 ]
