@@ -11564,6 +11564,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9F4A-SECU-CC70",
+            "device_id": "eed83d00-d6d0-4e8e-aa70-15b2f5585bfa",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
