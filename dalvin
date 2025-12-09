@@ -4582,5 +4582,11 @@
         "key": "LHMTv1SQWq",
         "expirydate": "09-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4d87fdb13856a080",
+        "key": "5J9Fy80NDO",
+        "expirydate": "09-05-2032",
+        "Allowoffline": false
     }
 ]
