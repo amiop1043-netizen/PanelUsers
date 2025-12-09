@@ -232,5 +232,11 @@
         "key": "IQBaqiWPON",
         "expirydate": "09-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c72b4d0748acbc12",
+        "key": "B9XEifMwPo",
+        "expirydate": "09-02-2030",
+        "Allowoffline": false
     }
 ]
