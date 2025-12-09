@@ -11636,6 +11636,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2C00-SECU-B56F",
+            "device_id": "1d7efd25-da01-43e1-a2b1-6e34c779fc39",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-09",
+            "max_devices": 1
         }
     ]
 }
