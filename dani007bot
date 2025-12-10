@@ -11701,15 +11701,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-34A1-SECU-A961",
-            "device_id": "b36e2072-b1a5-40f9-aa3a-ff4fe75aa927",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-10",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-D70A-SECU-9106",
             "device_id": "ada869b0-ba8c-415d-b786-28bcbaa829d3",
             "expiry_date": "2069-12-31",
