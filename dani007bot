@@ -9064,15 +9064,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-9829-SECU-F98B",
-            "device_id": "84d823cf-5e05-444b-963b-5f190cad7e4d",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-03",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-D3A8-SECU-520B",
             "device_id": "c433ec90-490d-4803-b105-a63bf012ce29",
             "expiry_date": "2069-12-31",
