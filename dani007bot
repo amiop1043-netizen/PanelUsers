@@ -11726,6 +11726,15 @@
             "status": "active",
             "created_date": "2025-12-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E094-SECU-34D1",
+            "device_id": "c7db76bc-dd98-48d9-9798-6e572be49a95",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-10",
+            "max_devices": 1
         }
     ]
 }
