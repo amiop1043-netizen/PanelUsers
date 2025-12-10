@@ -11735,6 +11735,15 @@
             "status": "active",
             "created_date": "2025-12-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3DD4-SECU-D26D",
+            "device_id": "22f089dd-dcb3-40a1-ae1e-29e4441191fb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-10",
+            "max_devices": 1
         }
     ]
 }
