@@ -11744,6 +11744,15 @@
             "status": "active",
             "created_date": "2025-12-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-21A3-SECU-2A25",
+            "device_id": "dac7f2bb-64b0-4ac8-8b02-110d1df0e59b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-10",
+            "max_devices": 1
         }
     ]
 }
