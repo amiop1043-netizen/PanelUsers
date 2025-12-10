@@ -11681,6 +11681,15 @@
             "status": "active",
             "created_date": "2025-12-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DAF6-SECU-4A19",
+            "device_id": "8b5c7df2-d757-4f5f-9fdd-2c59666bf0ff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-10",
+            "max_devices": 1
         }
     ]
 }
