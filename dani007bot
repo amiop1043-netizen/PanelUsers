@@ -11672,6 +11672,15 @@
             "status": "active",
             "created_date": "2025-12-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-514C-SECU-4835",
+            "device_id": "689f6b36-58bc-44ad-a604-a569b3adb5a1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-10",
+            "max_devices": 1
         }
     ]
 }
