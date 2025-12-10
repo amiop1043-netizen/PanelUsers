@@ -256,5 +256,11 @@
         "key": "MNy0SCBTds",
         "expirydate": "10-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "44ecf6c60e4b2c0f",
+        "key": "h3Qkq8LJ6M",
+        "expirydate": "10-02-2030",
+        "Allowoffline": false
     }
 ]
