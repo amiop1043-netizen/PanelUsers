@@ -11726,6 +11726,15 @@
             "status": "active",
             "created_date": "2025-12-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2E4B-SECU-5FAD",
+            "device_id": "6a74cc35-99a9-429e-a5ee-ff974d1fffe5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-10",
+            "max_devices": 1
         }
     ]
 }
