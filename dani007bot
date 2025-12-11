@@ -11744,6 +11744,15 @@
             "status": "active",
             "created_date": "2025-12-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3C7B-SECU-B372",
+            "device_id": "3b0e84df-0ac5-4007-8549-19a9fb502a7f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-11",
+            "max_devices": 1
         }
     ]
 }
