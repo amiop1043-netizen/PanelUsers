@@ -58,5 +58,11 @@
         "key": "QTPkB2bouy",
         "expirydate": "11-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2b19107fd3efa70c",
+        "key": "RaFEgNZQMD",
+        "expirydate": "11-12-2035",
+        "Allowoffline": false
     }
 ]
