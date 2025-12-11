@@ -4822,5 +4822,11 @@
         "key": "jyMlUSk0nG",
         "expirydate": "11-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "957555e5d96bd4bb",
+        "key": "K6DLNb3l4r",
+        "expirydate": "11-01-2026",
+        "Allowoffline": false
     }
 ]
