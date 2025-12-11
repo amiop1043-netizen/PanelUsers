@@ -4816,5 +4816,11 @@
         "key": "hcons5OIwj",
         "expirydate": "11-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fe6f46c62b5a5e9f",
+        "key": "jyMlUSk0nG",
+        "expirydate": "11-05-2026",
+        "Allowoffline": false
     }
 ]
