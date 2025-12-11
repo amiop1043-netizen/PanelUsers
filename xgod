@@ -106,5 +106,11 @@
         "key": "LkIotbayMW",
         "expirydate": "11-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "da0c2f6490b009bb",
+        "key": "PIfg8WrG5o",
+        "expirydate": "11-12-2035",
+        "Allowoffline": false
     }
 ]
