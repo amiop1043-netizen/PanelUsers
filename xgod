@@ -100,5 +100,11 @@
         "key": "7Nl6vH9izF",
         "expirydate": "11-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "27e79e8724d46970",
+        "key": "LkIotbayMW",
+        "expirydate": "11-12-2035",
+        "Allowoffline": false
     }
 ]
