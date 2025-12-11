@@ -11717,6 +11717,15 @@
             "status": "active",
             "created_date": "2025-12-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-60A1-SECU-03FC",
+            "device_id": "86571733-bf78-4a51-809b-0cd5a4b51518",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-11",
+            "max_devices": 1
         }
     ]
 }
