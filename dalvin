@@ -4804,5 +4804,11 @@
         "key": "DKCu09xbPk",
         "expirydate": "11-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eddb3f714478c7cd",
+        "key": "8fXWls9Tu6",
+        "expirydate": "11-01-2026",
+        "Allowoffline": false
     }
 ]
