@@ -46,5 +46,11 @@
         "key": "8H04vriDEG",
         "expirydate": "11-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6ea7992f090f4b49",
+        "key": "CG7KurUSYJ",
+        "expirydate": "11-12-2035",
+        "Allowoffline": false
     }
 ]
