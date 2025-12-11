@@ -52,5 +52,11 @@
         "key": "CG7KurUSYJ",
         "expirydate": "11-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b80006fc0d65e047",
+        "key": "QTPkB2bouy",
+        "expirydate": "11-12-2035",
+        "Allowoffline": false
     }
 ]
