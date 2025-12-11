@@ -11735,6 +11735,15 @@
             "status": "active",
             "created_date": "2025-12-11",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CC6E-SECU-5605",
+            "device_id": "\u062a\u0633\u0646\u062a\u0633\u0646\u0633",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-11",
+            "max_devices": 1
         }
     ]
 }
