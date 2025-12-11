@@ -9820,15 +9820,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-2925-SECU-16FA",
-            "device_id": "594c5b60-d0cd-4a6c-be0e-ecb90f4db1f3",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-05",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-AFAD-SECU-1CA8",
             "device_id": "c2f4423d-05fb-41aa-9e04-c217a598157a",
             "expiry_date": "2069-12-31",
