@@ -11717,6 +11717,15 @@
             "status": "active",
             "created_date": "2025-12-10",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ACC4-SECU-8356",
+            "device_id": "16696511-cb19-4adf-b139-0849a3407eb3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-11",
+            "max_devices": 1
         }
     ]
 }
