@@ -11413,15 +11413,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-C195-SECU-F7B5",
-            "device_id": "0da9ad9d-355d-4988-ad4b-37b437a82afb",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-09",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-CFE2-SECU-DF22",
             "device_id": "45013ca3-51df-4ffe-b57d-1810b6512652",
             "expiry_date": "2069-12-31",
