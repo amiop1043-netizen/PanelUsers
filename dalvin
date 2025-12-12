@@ -4846,5 +4846,11 @@
         "key": "DJ71x59gTU",
         "expirydate": "12-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4ccbbdf7cbc89cf3",
+        "key": "SLzufZy5x1",
+        "expirydate": "12-07-2030",
+        "Allowoffline": false
     }
 ]
