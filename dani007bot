@@ -9775,15 +9775,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-B308-SECU-0B8F",
-            "device_id": "shervin_09",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-05",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-AFAD-SECU-1CA8",
             "device_id": "c2f4423d-05fb-41aa-9e04-c217a598157a",
             "expiry_date": "2069-12-31",
