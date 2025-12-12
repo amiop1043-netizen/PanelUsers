@@ -11870,6 +11870,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6B38-SECU-1963",
+            "device_id": "39afb707-be57-40ed-92f1-6acaa169092a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
