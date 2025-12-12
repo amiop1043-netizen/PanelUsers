@@ -11825,6 +11825,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3944-SECU-AAA8",
+            "device_id": "ed117b60-9de9-4de6-b229-0d25285df689",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
