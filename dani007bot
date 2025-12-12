@@ -11807,6 +11807,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9268-SECU-BAED",
+            "device_id": "48186e38-4345-460b-aecb-44b6175188dd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
