@@ -11744,6 +11744,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7546-SECU-BCB4",
+            "device_id": "eb6d35aa-8290-4396-bb4a-ca406b65c3cf",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
