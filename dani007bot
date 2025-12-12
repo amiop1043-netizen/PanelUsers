@@ -11798,6 +11798,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4E5C-SECU-94E0",
+            "device_id": "MTX-BBF4-SECU-02C7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
