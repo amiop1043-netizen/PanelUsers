@@ -11870,6 +11870,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DF11-SECU-DF8F",
+            "device_id": "e74b9a12-3145-4ba8-a617-7e9280419ad5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
