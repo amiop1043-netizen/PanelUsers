@@ -11843,6 +11843,15 @@
             "status": "active",
             "created_date": "2025-12-12",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BFC9-SECU-679D",
+            "device_id": "78365b08-6b2c-41ef-a506-e930b5c4c0b0",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-12",
+            "max_devices": 1
         }
     ]
 }
