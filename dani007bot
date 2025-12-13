@@ -3187,15 +3187,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-EEE8-SECU-98EC",
-            "device_id": "ff717e28-f886-41c4-8ba1-d58f935cb32f",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-C72D-SECU-B89D",
             "device_id": "14b20a2a-b3d9-46a5-9877-fec57f48ad2f",
             "expiry_date": "2069-12-31",
