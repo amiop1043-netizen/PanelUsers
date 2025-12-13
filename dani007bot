@@ -11888,6 +11888,15 @@
             "status": "active",
             "created_date": "2025-12-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8CE4-SECU-C07F",
+            "device_id": "78a168f8-8500-4531-835a-46493301edeb",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-13",
+            "max_devices": 1
         }
     ]
 }
