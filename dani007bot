@@ -11906,6 +11906,15 @@
             "status": "active",
             "created_date": "2025-12-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-72CE-SECU-4D86",
+            "device_id": "8a76bfedf58c557b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-14",
+            "max_devices": 1
         }
     ]
 }
