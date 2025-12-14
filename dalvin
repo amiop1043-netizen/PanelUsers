@@ -4948,5 +4948,11 @@
         "key": "3JOWhD9tqV",
         "expirydate": "14-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f39d33eaab7e1b24",
+        "key": "L0aW9ygJBv",
+        "expirydate": "14-12-2027",
+        "Allowoffline": false
     }
 ]
