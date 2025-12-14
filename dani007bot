@@ -11924,6 +11924,15 @@
             "status": "active",
             "created_date": "2025-12-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-041C-SECU-69F2",
+            "device_id": "daab3f2d-42df-42c6-bba4-6b99d7a4a49f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-14",
+            "max_devices": 1
         }
     ]
 }
