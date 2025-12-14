@@ -11888,6 +11888,15 @@
             "status": "active",
             "created_date": "2025-12-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A2C7-SECU-5842",
+            "device_id": "0f533425-86b1-4240-9fd9-a2fdd6d75704",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-14",
+            "max_devices": 1
         }
     ]
 }
