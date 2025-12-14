@@ -11906,6 +11906,15 @@
             "status": "active",
             "created_date": "2025-12-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-580F-SECU-75BE",
+            "device_id": "\ud83d\udd16 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-14",
+            "max_devices": 1
         }
     ]
 }
