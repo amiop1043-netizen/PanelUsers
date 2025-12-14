@@ -11897,6 +11897,15 @@
             "status": "active",
             "created_date": "2025-12-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7312-SECU-609E",
+            "device_id": "10006782885",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-14",
+            "max_devices": 1
         }
     ]
 }
