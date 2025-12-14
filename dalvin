@@ -4954,5 +4954,11 @@
         "key": "L0aW9ygJBv",
         "expirydate": "14-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1a0335a58d9df8b9",
+        "key": "5KSDMGgHe4",
+        "expirydate": "14-02-2026",
+        "Allowoffline": false
     }
 ]
