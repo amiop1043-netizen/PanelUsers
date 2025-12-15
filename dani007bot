@@ -11807,6 +11807,15 @@
             "status": "active",
             "created_date": "2025-12-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ADD2-SECU-AA77",
+            "device_id": "1681064c-4ec3-42b9-a970-d4ac09cddfa8",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-15",
+            "max_devices": 1
         }
     ]
 }
