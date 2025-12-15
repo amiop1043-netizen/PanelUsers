@@ -11780,6 +11780,15 @@
             "status": "active",
             "created_date": "2025-12-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0C87-SECU-5639",
+            "device_id": "63559f31-2339-461a-8c3a-927a9069dccf",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-15",
+            "max_devices": 1
         }
     ]
 }
