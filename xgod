@@ -166,5 +166,11 @@
         "key": "PK74M9Icdr",
         "expirydate": "14-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1b3a645707229729",
+        "key": "rhNVBwOIc5",
+        "expirydate": "15-01-2026",
+        "Allowoffline": false
     }
 ]
