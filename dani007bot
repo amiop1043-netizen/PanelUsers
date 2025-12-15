@@ -11762,6 +11762,15 @@
             "status": "active",
             "created_date": "2025-12-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9A26-SECU-B133",
+            "device_id": "64c01ce5-2c34-4b7b-9476-b95dfb546e4b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-15",
+            "max_devices": 1
         }
     ]
 }
