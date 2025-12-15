@@ -11771,6 +11771,15 @@
             "status": "active",
             "created_date": "2025-12-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-73F1-SECU-FFDF",
+            "device_id": "fa384f03-2c33-419d-9e8c-3af1603b9a55",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-15",
+            "max_devices": 1
         }
     ]
 }
