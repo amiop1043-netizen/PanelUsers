@@ -5026,5 +5026,11 @@
         "key": "4TjP6pYBor",
         "expirydate": "15-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dab6d10eb953f653",
+        "key": "hUaKAyTeIN",
+        "expirydate": "15-01-2026",
+        "Allowoffline": false
     }
 ]
