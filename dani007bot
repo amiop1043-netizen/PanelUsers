@@ -10873,15 +10873,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-348D-SECU-DE99",
-            "device_id": "Poco m6 pro",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-08",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-F1D6-SECU-BF2A",
             "device_id": "769f219c-8503-46a6-b585-1f0eff70fd29",
             "expiry_date": "2069-12-31",
@@ -10902,15 +10893,6 @@
         {
             "key": "MTX-AF5D-SECU-3C89",
             "device_id": "9650c633-18ce-4a2e-a8e4-e9a8eabf9982",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-08",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-4195-SECU-4684",
-            "device_id": "7da14cca-a6ee-4bde-b7a7-6734a04a064f",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
