@@ -11771,6 +11771,15 @@
             "status": "active",
             "created_date": "2025-12-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4308-SECU-8A89",
+            "device_id": "305984e0-43a8-4f44-a27d-689dbe698538",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-15",
+            "max_devices": 1
         }
     ]
 }
