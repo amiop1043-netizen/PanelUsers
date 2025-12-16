@@ -11726,6 +11726,15 @@
             "status": "active",
             "created_date": "2025-12-15",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EA29-SECU-2FAC",
+            "device_id": "2c20bf63-6eb9-4c0a-a3cf-578dd6d7b976",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-16",
+            "max_devices": 1
         }
     ]
 }
