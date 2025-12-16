@@ -11708,6 +11708,15 @@
             "status": "active",
             "created_date": "2025-12-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8F3C-SECU-7726",
+            "device_id": "a791f38e-39a0-491b-9de0-6488e1f4c422",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-16",
+            "max_devices": 1
         }
     ]
 }
