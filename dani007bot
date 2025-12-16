@@ -11717,6 +11717,15 @@
             "status": "active",
             "created_date": "2025-12-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9D71-SECU-DA3D",
+            "device_id": "327f453d-cf4b-4d41-8e71-ca64b0142279",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-16",
+            "max_devices": 1
         }
     ]
 }
