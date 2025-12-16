@@ -11717,6 +11717,15 @@
             "status": "active",
             "created_date": "2025-12-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-221E-SECU-80F1",
+            "device_id": "ro.sys.fw.use_perf.tweak",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-16",
+            "max_devices": 1
         }
     ]
 }
