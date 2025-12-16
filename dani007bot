@@ -11726,6 +11726,15 @@
             "status": "active",
             "created_date": "2025-12-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-CAF3-SECU-B70A",
+            "device_id": "ae1b7530-75f3-439f-945c-f23ed2daa849",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-16",
+            "max_devices": 1
         }
     ]
 }
