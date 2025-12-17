@@ -11726,6 +11726,15 @@
             "status": "active",
             "created_date": "2025-12-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B82F-SECU-610D",
+            "device_id": "0f64052c-d7f4-4799-9c30-7af6a9238612",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-17",
+            "max_devices": 1
         }
     ]
 }
