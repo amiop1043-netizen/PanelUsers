@@ -11708,6 +11708,15 @@
             "status": "active",
             "created_date": "2025-12-17",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EEFF-SECU-0B39",
+            "device_id": "df1494ed-6b30-42c0-824f-442d8a0d7787",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-17",
+            "max_devices": 1
         }
     ]
 }
