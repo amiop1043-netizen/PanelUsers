@@ -196,5 +196,11 @@
         "key": "l8npmgdhaw",
         "expirydate": "15-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "616e5a4c0be95bf6",
+        "key": "TJIalcvk57",
+        "expirydate": "17-12-2035",
+        "Allowoffline": false
     }
 ]
