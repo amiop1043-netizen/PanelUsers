@@ -280,5 +280,11 @@
         "key": "sMBUDLmGgN",
         "expirydate": "17-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "60eb099e1c8dafbc",
+        "key": "2iSdQ63X1D",
+        "expirydate": "17-02-2026",
+        "Allowoffline": false
     }
 ]
