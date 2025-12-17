@@ -11708,6 +11708,15 @@
             "status": "active",
             "created_date": "2025-12-17",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FA62-SECU-68CB",
+            "device_id": "e02e4989-62de-4820-92e6-700453a4036c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-17",
+            "max_devices": 1
         }
     ]
 }
