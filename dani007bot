@@ -8605,15 +8605,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-FFD7-SECU-85EC",
-            "device_id": "dfa5bea7-6ff2-476a-8028-715d3a7a6a3b",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-02",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-3E74-SECU-1DD4",
             "device_id": "c433ec90-490d-4803-b105-a63bf012ce29",
             "expiry_date": "2069-12-31",
