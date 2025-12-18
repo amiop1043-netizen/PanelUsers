@@ -7372,15 +7372,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-24DD-SECU-3269",
-            "device_id": "SM-A037F/DS",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-14",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-CB26-SECU-469B",
             "device_id": "f6908661-1d94-484a-abf3-2c87d434dff1",
             "expiry_date": "2069-12-31",
