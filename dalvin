@@ -5254,5 +5254,11 @@
         "key": "LMAgpRd1Gr",
         "expirydate": "18-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dc322a0c30930696",
+        "key": "kvf0X9GlWO",
+        "expirydate": "18-01-2026",
+        "Allowoffline": false
     }
 ]
