@@ -142,5 +142,11 @@
         "key": "eMCogPWZ3v",
         "expirydate": "18-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1c38148954010e8",
+        "key": "BHKCdQpkEo",
+        "expirydate": "18-03-2034",
+        "Allowoffline": false
     }
 ]
