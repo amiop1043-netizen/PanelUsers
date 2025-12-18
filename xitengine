@@ -106,5 +106,11 @@
         "key": "74wuhibLl6",
         "expirydate": "18-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bcd4353433fe2014",
+        "key": "fruJXDs9PW",
+        "expirydate": "18-03-2034",
+        "Allowoffline": false
     }
 ]
