@@ -11647,15 +11647,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-0769-SECU-3CA6",
-            "device_id": "\u067e\u0646\u0644 \u06cc\u062e \u0628\u0631\u0639\u06a9\u0633",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-17",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-75D6-SECU-976F",
             "device_id": "df1494ed-6b30-42c0-824f-442d8a0d7787",
             "expiry_date": "2069-12-31",
