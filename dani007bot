@@ -11708,6 +11708,15 @@
             "status": "active",
             "created_date": "2025-12-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7ADD-SECU-5D2A",
+            "device_id": "bebc269e-db67-41d6-a191-f7c8baa48f6f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-18",
+            "max_devices": 1
         }
     ]
 }
