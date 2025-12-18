@@ -11726,6 +11726,15 @@
             "status": "active",
             "created_date": "2025-12-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-23BB-SECU-F654",
+            "device_id": "d3812447-5542-469a-9ac5-36524eb2eb99",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-18",
+            "max_devices": 1
         }
     ]
 }
