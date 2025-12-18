@@ -11708,6 +11708,15 @@
             "status": "active",
             "created_date": "2025-12-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6DE0-SECU-BAE9",
+            "device_id": "7750484041",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-18",
+            "max_devices": 1
         }
     ]
 }
