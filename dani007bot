@@ -11699,6 +11699,15 @@
             "status": "active",
             "created_date": "2025-12-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3F71-SECU-6AFB",
+            "device_id": "5dc04512-a4f5-4bd0-9a72-fe3d19dee6d1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-18",
+            "max_devices": 1
         }
     ]
 }
