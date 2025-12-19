@@ -7903,60 +7903,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-8FD9-SECU-0305",
-            "device_id": "f6390e83-5d5a-4e66-a8fb-1d55cd7d8765",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-4476-SECU-90E1",
-            "device_id": "f6390e83-5d5a-4e66-a8fb-1d55cd7d8765",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-4B80-SECU-F894",
-            "device_id": "f6390e83-5d5a-4e66-a8fb-1d55cd7d8765",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-1178-SECU-B6A5",
-            "device_id": "f6390e83-5d5a-4e66-a8fb-1d55cd7d8765",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-F292-SECU-C14A",
-            "device_id": "f6390e83-5d5a-4e66-a8fb-1d55cd7d8765",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-381D-SECU-F5DE",
-            "device_id": "f6390e83-5d5a-4e66-a8fb-1d55cd7d8765",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-4DD4-SECU-D8B3",
             "device_id": "9dcb9517-0649-4a69-8f8b-ee5e9b35fb4b",
             "expiry_date": "2069-12-31",
