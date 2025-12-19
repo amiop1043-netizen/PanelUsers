@@ -11681,6 +11681,15 @@
             "status": "active",
             "created_date": "2025-12-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-97C4-SECU-F7CF",
+            "device_id": "\u0645\u0646\u0638\u0648\u0631\u062a \u0686\u06cc\u0633\u062a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-19",
+            "max_devices": 1
         }
     ]
 }
