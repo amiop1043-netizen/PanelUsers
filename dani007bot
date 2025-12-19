@@ -11672,6 +11672,15 @@
             "status": "active",
             "created_date": "2025-12-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A1A9-SECU-FDF5",
+            "device_id": "84684246-2200-4bc6-9020-adb7cd1cd5be",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-19",
+            "max_devices": 1
         }
     ]
 }
