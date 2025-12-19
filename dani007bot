@@ -11672,6 +11672,15 @@
             "status": "active",
             "created_date": "2025-12-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-4940-SECU-4619",
+            "device_id": "ac78cd51-9246-47b5-872b-b92966a17d75",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-19",
+            "max_devices": 1
         }
     ]
 }
