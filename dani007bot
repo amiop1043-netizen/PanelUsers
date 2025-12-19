@@ -11663,6 +11663,15 @@
             "status": "active",
             "created_date": "2025-12-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-ED54-SECU-8566",
+            "device_id": "5c529012-15f1-42c1-af8f-7afe87b59f2b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-19",
+            "max_devices": 1
         }
     ]
 }
