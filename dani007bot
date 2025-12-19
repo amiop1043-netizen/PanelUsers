@@ -11681,6 +11681,15 @@
             "status": "active",
             "created_date": "2025-12-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1CCA-SECU-8FA4",
+            "device_id": "33088705-f6ff-402e-9edf-2733d634a1b4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-19",
+            "max_devices": 1
         }
     ]
 }
