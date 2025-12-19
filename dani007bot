@@ -11654,6 +11654,15 @@
             "status": "active",
             "created_date": "2025-12-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F107-SECU-10D0",
+            "device_id": "634c15e1-b599-47a2-b96d-0e604b3a3eb9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-19",
+            "max_devices": 1
         }
     ]
 }
