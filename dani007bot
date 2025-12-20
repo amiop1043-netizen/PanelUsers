@@ -11663,6 +11663,15 @@
             "status": "active",
             "created_date": "2025-12-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-22B8-SECU-5DDA",
+            "device_id": "4a30d761-3639-4808-a0c3-4bcd9dffe3ff",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-20",
+            "max_devices": 1
         }
     ]
 }
