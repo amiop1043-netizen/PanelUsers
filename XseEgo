@@ -16,5 +16,11 @@
         "key": "kKohF0xiEM",
         "expirydate": "20-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Barbi",
+        "key": "m71QXJSoav",
+        "expirydate": "20-01-2026",
+        "Allowoffline": false
     }
 ]
