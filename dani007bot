@@ -11627,6 +11627,15 @@
             "status": "active",
             "created_date": "2025-12-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DA51-SECU-2DA4",
+            "device_id": "d04d7ddf-718a-4857-a67e-fed57ad0ddf9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-20",
+            "max_devices": 1
         }
     ]
 }
