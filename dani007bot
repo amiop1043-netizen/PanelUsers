@@ -11654,6 +11654,15 @@
             "status": "active",
             "created_date": "2025-12-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-79CA-SECU-70FA",
+            "device_id": "ab81c0d7-09b8-4153-ad8e-a0de9fc84f8c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-20",
+            "max_devices": 1
         }
     ]
 }
