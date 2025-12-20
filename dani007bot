@@ -9397,15 +9397,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-CB99-SECU-5652",
-            "device_id": "00bd67b9-3ff0-4ea8-8a35-f0ebd73daeb4",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-05",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-455C-SECU-64B7",
             "device_id": "243e4565-23ed-4ce2-8b33-b64042cded60",
             "expiry_date": "2069-12-31",
