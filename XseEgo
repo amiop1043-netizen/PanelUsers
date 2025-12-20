@@ -22,5 +22,11 @@
         "key": "m71QXJSoav",
         "expirydate": "20-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Alis",
+        "key": "W4u1qzYCED",
+        "expirydate": "20-12-2026",
+        "Allowoffline": false
     }
 ]
