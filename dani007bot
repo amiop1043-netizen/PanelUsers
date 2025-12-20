@@ -11663,6 +11663,15 @@
             "status": "active",
             "created_date": "2025-12-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F9B6-SECU-6774",
+            "device_id": "857f3f7b-de56-40b4-81c4-1f3d24806c81",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-20",
+            "max_devices": 1
         }
     ]
 }
