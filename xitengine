@@ -352,5 +352,11 @@
         "key": "AO14RrBCZY",
         "expirydate": "21-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3eb4647c4b0f94fb",
+        "key": "iDPzgtJ0HB",
+        "expirydate": "21-03-2034",
+        "Allowoffline": false
     }
 ]
