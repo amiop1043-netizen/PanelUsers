@@ -5380,5 +5380,11 @@
         "key": "UcpS4b5CPV",
         "expirydate": "21-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "86e990eea88d1d39",
+        "key": "XYqbG9jxwa",
+        "expirydate": "21-03-2034",
+        "Allowoffline": false
     }
 ]
