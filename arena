@@ -298,5 +298,11 @@
         "key": "DWXVR2gA70",
         "expirydate": "21-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dad3d3b3ff726e9a",
+        "key": "rn1QZb6yM4",
+        "expirydate": "21-02-2026",
+        "Allowoffline": false
     }
 ]
