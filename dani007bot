@@ -11593,15 +11593,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-199A-SECU-C34E",
-            "device_id": "f089f9e8-de30-41ef-b99d-5842455779f1",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-19",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-2601-SECU-A913",
             "device_id": "d04d7ddf-718a-4857-a67e-fed57ad0ddf9",
             "expiry_date": "2069-12-31",
