@@ -11681,6 +11681,15 @@
             "status": "active",
             "created_date": "2025-12-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-12CA-SECU-0134",
+            "device_id": "f993a3e5-d09c-452d-8c66-0f9785cf2a38",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-21",
+            "max_devices": 1
         }
     ]
 }
