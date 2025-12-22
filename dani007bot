@@ -469,15 +469,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-C8F4-SECU-3E6E",
-            "device_id": "c220facc-cfef-462d-ae23-c3fd9710e076",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-094D-SECU-67A6",
             "device_id": "a8fb0e7a-8602-48d5-8ce7-e982501a1c8d",
             "expiry_date": "2069-12-31",
