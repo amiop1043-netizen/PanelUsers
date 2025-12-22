@@ -1756,15 +1756,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-55AC-SECU-8524",
-            "device_id": "4e7f6bcd-ccf2-47c0-b8c2-5e97d9953407",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-23",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-5C2B-SECU-0364",
             "device_id": "2b75cafb-970c-496f-96d3-744bede85993",
             "expiry_date": "2069-12-31",
