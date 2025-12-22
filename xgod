@@ -256,5 +256,11 @@
         "key": "IVXLOfHTty",
         "expirydate": "22-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "950e238db998981c",
+        "key": "G0Xo1epnVD",
+        "expirydate": "22-01-2026",
+        "Allowoffline": false
     }
 ]
