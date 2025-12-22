@@ -5530,5 +5530,11 @@
         "key": "vLNWArbjMa",
         "expirydate": "22-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "28d3710cded54b74",
+        "key": "yTfY79j8dU",
+        "expirydate": "22-01-2026",
+        "Allowoffline": false
     }
 ]
