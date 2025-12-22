@@ -250,5 +250,11 @@
         "key": "9AS5yoMnem",
         "expirydate": "22-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6461b0ceb0f33bfd",
+        "key": "IVXLOfHTty",
+        "expirydate": "22-12-2035",
+        "Allowoffline": false
     }
 ]
