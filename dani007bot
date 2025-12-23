@@ -6769,15 +6769,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-03FB-SECU-6A50",
-            "device_id": "7f46bb17-1f98-4acf-a2d1-141d6866826c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-12",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-CE60-SECU-60B4",
             "device_id": "a52ea436-6431-4200-9195-8d68e7be6fb1",
             "expiry_date": "2069-12-31",
