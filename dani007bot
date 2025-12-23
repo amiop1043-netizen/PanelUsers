@@ -11474,6 +11474,15 @@
             "status": "active",
             "created_date": "2025-12-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-89C8-SECU-239B",
+            "device_id": "5b7fc225-94c9-4f1c-b906-26f084a255c5",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-23",
+            "max_devices": 1
         }
     ]
 }
