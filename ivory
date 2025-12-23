@@ -466,5 +466,11 @@
         "key": "N8F6EW234U",
         "expirydate": "23-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "905d8a367a320ec7",
+        "key": "Xb68eN7QAR",
+        "expirydate": "23-02-2030",
+        "Allowoffline": false
     }
 ]
