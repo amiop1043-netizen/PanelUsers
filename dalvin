@@ -5554,5 +5554,11 @@
         "key": "VPxCb8q19Y",
         "expirydate": "12-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3976821196a532e2",
+        "key": "Q1UC6ljJZG",
+        "expirydate": "23-03-2034",
+        "Allowoffline": false
     }
 ]
