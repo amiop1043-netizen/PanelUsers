@@ -11474,6 +11474,15 @@
             "status": "active",
             "created_date": "2025-12-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-679E-SECU-FD97",
+            "device_id": "9be46b2f-1a66-43a8-8ba7-45b121555e79",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-24",
+            "max_devices": 1
         }
     ]
 }
