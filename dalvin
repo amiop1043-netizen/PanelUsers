@@ -5650,5 +5650,11 @@
         "key": "eFtNo9AJ87",
         "expirydate": "24-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1ddb15f3205d9212",
+        "key": "nNoDGPWCH3",
+        "expirydate": "24-01-2026",
+        "Allowoffline": false
     }
 ]
