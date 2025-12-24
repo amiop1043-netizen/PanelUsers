@@ -304,5 +304,11 @@
         "key": "OAGL2WSRIo",
         "expirydate": "24-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "13f985f5adcfbdcf",
+        "key": "ARCxMWJ5D1",
+        "expirydate": "24-12-2035",
+        "Allowoffline": false
     }
 ]
