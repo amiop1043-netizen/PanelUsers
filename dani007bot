@@ -11474,6 +11474,15 @@
             "status": "active",
             "created_date": "2025-12-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-76D8-SECU-8922",
+            "device_id": "fa89d55b-051d-4dea-95e7-f12428f870d7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-24",
+            "max_devices": 1
         }
     ]
 }
