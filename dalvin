@@ -5674,5 +5674,11 @@
         "key": "cNeVDumr51",
         "expirydate": "24-04-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "69bf358625822dda",
+        "key": "bAfHFpCRc5",
+        "expirydate": "24-01-2026",
+        "Allowoffline": false
     }
 ]
