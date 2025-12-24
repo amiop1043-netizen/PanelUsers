@@ -304,5 +304,11 @@
         "key": "p83NuSDMfa",
         "expirydate": "24-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "de6fa2e22c6d3bf0",
+        "key": "OAGL2WSRIo",
+        "expirydate": "24-12-2035",
+        "Allowoffline": false
     }
 ]
