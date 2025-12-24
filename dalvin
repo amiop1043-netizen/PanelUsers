@@ -5656,5 +5656,11 @@
         "key": "nNoDGPWCH3",
         "expirydate": "24-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1e64664ed537466a",
+        "key": "5e4NPl2oGQ",
+        "expirydate": "24-03-2034",
+        "Allowoffline": false
     }
 ]
