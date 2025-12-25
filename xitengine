@@ -526,5 +526,11 @@
         "key": "zHwF9nc6mr",
         "expirydate": "25-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "mmdea",
+        "key": "bAuKR681pY",
+        "expirydate": "25-03-2034",
+        "Allowoffline": false
     }
 ]
