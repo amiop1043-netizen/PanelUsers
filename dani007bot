@@ -11492,6 +11492,15 @@
             "status": "active",
             "created_date": "2025-12-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C9C2-SECU-7780",
+            "device_id": "7f46bb17-1f98-4acf-a2d1-141d6866826c",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-25",
+            "max_devices": 1
         }
     ]
 }
