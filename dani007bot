@@ -11483,6 +11483,15 @@
             "status": "active",
             "created_date": "2025-12-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F035-SECU-C126",
+            "device_id": "60b31683-ac85-42e0-80a3-9ae947619f35",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-25",
+            "max_devices": 1
         }
     ]
 }
