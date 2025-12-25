@@ -5692,5 +5692,11 @@
         "key": "Ltylsv9oc0",
         "expirydate": "25-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f035caa20e38d9d5",
+        "key": "xVjQ53kBb4",
+        "expirydate": "25-02-2026",
+        "Allowoffline": false
     }
 ]
