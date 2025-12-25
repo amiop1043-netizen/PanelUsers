@@ -7687,15 +7687,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-CB79-SECU-4D2C",
-            "device_id": "299c307d-1c13-4224-83f1-c3e78c34426f",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-11-21",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-AF7C-SECU-CCFA",
             "device_id": "Gmdo47pbyN",
             "expiry_date": "2069-12-31",
