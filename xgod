@@ -310,5 +310,11 @@
         "key": "ARCxMWJ5D1",
         "expirydate": "24-12-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7c9ba3fb69003f8a",
+        "key": "7Io1rX59dO",
+        "expirydate": "25-12-2035",
+        "Allowoffline": false
     }
 ]
