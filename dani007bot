@@ -11474,6 +11474,15 @@
             "status": "active",
             "created_date": "2025-12-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-9573-SECU-7D8E",
+            "device_id": "4740e7b6-5e1f-4e10-a82f-1cc0b09d52a7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-25",
+            "max_devices": 1
         }
     ]
 }
