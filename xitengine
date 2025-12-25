@@ -484,5 +484,11 @@
         "key": "rkmuaCV4pG",
         "expirydate": "25-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dcc55ab271cdb54f",
+        "key": "Zl41r8S6qs",
+        "expirydate": "25-03-2034",
+        "Allowoffline": false
     }
 ]
