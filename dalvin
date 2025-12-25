@@ -5716,5 +5716,11 @@
         "key": "duiTcenKND",
         "expirydate": "25-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "db98598a42745ba2",
+        "key": "2LQyNz3gPb",
+        "expirydate": "25-12-2027",
+        "Allowoffline": false
     }
 ]
