@@ -2710,33 +2710,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-2DF2-SECU-C956",
-            "device_id": "f94484ef-6a35-4c1e-a3df-b39ec140ea44",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-75EE-SECU-67F5",
-            "device_id": "f94484ef-6a35-4c1e-a3df-b39ec140ea44",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-35B4-SECU-7931",
-            "device_id": "a2b95a01-90ac-4139-970a-a241dec55cc3",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-EBB9-SECU-B3FA",
             "device_id": "670e10ac-58ee-4616-8379-6b9d6978fbf5",
             "expiry_date": "2069-12-31",
@@ -2746,35 +2719,8 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-2DC6-SECU-03A0",
-            "device_id": "d86a3370-d0e0-4a19-a591-9ee276240552",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-E071-SECU-7010",
-            "device_id": "MTX-2DC6-SECU-03A0",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-12FE-SECU-04F1",
             "device_id": "93b1c21d-11b0-4433-bb71-177b1ceb312f",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-10-24",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-DB86-SECU-5C11",
-            "device_id": "d86a3370-d0e0-4a19-a591-9ee276240552",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
