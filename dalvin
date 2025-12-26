@@ -5752,5 +5752,11 @@
         "key": "TQjhv1bSuP",
         "expirydate": "26-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "674db5e439828d6d",
+        "key": "pgFB392sS5",
+        "expirydate": "26-01-2026",
+        "Allowoffline": false
     }
 ]
