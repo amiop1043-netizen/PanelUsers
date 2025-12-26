@@ -11402,6 +11402,15 @@
             "status": "active",
             "created_date": "2025-12-25",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5330-SECU-822D",
+            "device_id": "bc7aaa84-d9fa-47d1-9e36-0241beb56bef",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-26",
+            "max_devices": 1
         }
     ]
 }
