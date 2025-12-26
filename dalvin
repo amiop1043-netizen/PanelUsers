@@ -5746,5 +5746,11 @@
         "key": "VLFE4AduoJ",
         "expirydate": "26-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8d1bb38b5f767600",
+        "key": "TQjhv1bSuP",
+        "expirydate": "26-12-2027",
+        "Allowoffline": false
     }
 ]
