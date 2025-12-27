@@ -35,6 +35,15 @@
             "status": "active",
             "created_date": "2025-12-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7C82-SECU-5A4C",
+            "device_id": "d3e5aff9-af57-4ef2-b0d2-d3ddc16fa3f6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-27",
+            "max_devices": 1
         }
     ]
 }
