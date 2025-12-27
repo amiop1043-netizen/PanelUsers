@@ -520,5 +520,11 @@
         "key": "bAxCd01umr",
         "expirydate": "27-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fcd5fedd94465477",
+        "key": "Zn7k9YO2Id",
+        "expirydate": "27-02-2030",
+        "Allowoffline": false
     }
 ]
