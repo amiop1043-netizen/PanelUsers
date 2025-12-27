@@ -44,6 +44,15 @@
             "status": "active",
             "created_date": "2025-12-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A33D-SECU-DCC7",
+            "device_id": "595c014e12f3464d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-27",
+            "max_devices": 1
         }
     ]
 }
