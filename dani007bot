@@ -26,6 +26,15 @@
             "status": "inactive",
             "created_date": "2024-01-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0857-SECU-5340",
+            "device_id": "7d37876d-7917-4954-88c3-ba239d7c76c2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-27",
+            "max_devices": 1
         }
     ]
 }
