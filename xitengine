@@ -604,5 +604,11 @@
         "key": "vcb0DJiyus",
         "expirydate": "28-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "10935d29ee6f3440",
+        "key": "tKOP342FCU",
+        "expirydate": "28-03-2034",
+        "Allowoffline": false
     }
 ]
