@@ -532,5 +532,11 @@
         "key": "jNiH3Aotsb",
         "expirydate": "28-02-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cfda55330d6143e8",
+        "key": "DbQ9gTkrde",
+        "expirydate": "28-02-2030",
+        "Allowoffline": false
     }
 ]
