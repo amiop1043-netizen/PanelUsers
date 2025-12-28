@@ -179,6 +179,15 @@
             "status": "active",
             "created_date": "2025-12-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-FB20-SECU-E4C3",
+            "device_id": "0e419c0b-4240-4084-a9ce-d5d24190773e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-28",
+            "max_devices": 1
         }
     ]
 }
