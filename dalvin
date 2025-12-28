@@ -5890,5 +5890,11 @@
         "key": "Tyhs64GUZm",
         "expirydate": "28-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9ead14bd9e1f9ab5",
+        "key": "OMKaJi6Vzy",
+        "expirydate": "28-04-2033",
+        "Allowoffline": false
     }
 ]
