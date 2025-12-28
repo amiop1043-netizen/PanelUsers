@@ -610,5 +610,11 @@
         "key": "tKOP342FCU",
         "expirydate": "28-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca8cffb7a05422f4",
+        "key": "mAsRDXaMYy",
+        "expirydate": "28-03-2034",
+        "Allowoffline": false
     }
 ]
