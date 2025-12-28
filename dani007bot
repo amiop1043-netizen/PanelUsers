@@ -152,6 +152,15 @@
             "status": "active",
             "created_date": "2025-12-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7206-SECU-63D2",
+            "device_id": "25b58854-a2d0-479a-b730-545ee597b74e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-28",
+            "max_devices": 1
         }
     ]
 }
