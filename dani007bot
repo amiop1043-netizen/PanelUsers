@@ -206,6 +206,15 @@
             "status": "active",
             "created_date": "2025-12-28",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-747C-SECU-D41D",
+            "device_id": "f089f9e8-de30-41ef-b99d-5842455779f1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-28",
+            "max_devices": 1
         }
     ]
 }
