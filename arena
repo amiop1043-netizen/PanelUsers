@@ -400,5 +400,11 @@
         "key": "ctlyHT6XAS",
         "expirydate": "28-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dff6575719594e02",
+        "key": "zxHGnrpLov",
+        "expirydate": "28-02-2026",
+        "Allowoffline": false
     }
 ]
