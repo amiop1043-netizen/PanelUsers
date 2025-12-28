@@ -5860,5 +5860,11 @@
         "key": "8ErKH1Moyd",
         "expirydate": "28-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5baeeac1834602a9",
+        "key": "wA0CrPyGpo",
+        "expirydate": "28-01-2026",
+        "Allowoffline": false
     }
 ]
