@@ -260,6 +260,15 @@
             "status": "active",
             "created_date": "2025-12-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-35D6-SECU-B746",
+            "device_id": "2594ab5f-c7af-47bd-a576-832adc63f332",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-29",
+            "max_devices": 1
         }
     ]
 }
