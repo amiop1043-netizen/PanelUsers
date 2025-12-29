@@ -352,5 +352,11 @@
         "key": "2LKSdcV3Gb",
         "expirydate": "29-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6992b3610c318d2",
+        "key": "eNMGjVs6fv",
+        "expirydate": "29-01-2026",
+        "Allowoffline": false
     }
 ]
