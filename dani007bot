@@ -260,6 +260,15 @@
             "status": "active",
             "created_date": "2025-12-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2065-SECU-6622",
+            "device_id": "25a0dd5e-ce71-4849-b00c-c58a87033123",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-29",
+            "max_devices": 1
         }
     ]
 }
