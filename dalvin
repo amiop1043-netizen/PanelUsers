@@ -5968,5 +5968,11 @@
         "key": "dbNpSCTrwg",
         "expirydate": "30-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7bb5144bcac09940",
+        "key": "83mLE6aQnx",
+        "expirydate": "30-03-2034",
+        "Allowoffline": false
     }
 ]
