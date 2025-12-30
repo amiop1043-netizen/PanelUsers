@@ -422,6 +422,15 @@
             "status": "active",
             "created_date": "2025-12-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8206-SECU-65B0",
+            "device_id": "ffce9a5a-03de-42e4-94c8-fa0961fffa8d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-30",
+            "max_devices": 1
         }
     ]
 }
