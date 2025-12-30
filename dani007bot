@@ -440,6 +440,15 @@
             "status": "active",
             "created_date": "2025-12-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-DD3A-SECU-D1FF",
+            "device_id": "c794d0e3-32bf-4ed5-a204-a52e57929ddc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-30",
+            "max_devices": 1
         }
     ]
 }
