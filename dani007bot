@@ -287,6 +287,15 @@
             "status": "active",
             "created_date": "2025-12-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-26CB-SECU-EEFA",
+            "device_id": "e3e3d958-479e-46af-a434-0abd24c4cb9f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-30",
+            "max_devices": 1
         }
     ]
 }
