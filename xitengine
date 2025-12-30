@@ -646,5 +646,11 @@
         "key": "EWlzo579ha",
         "expirydate": "30-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9bbd54cecaa5ed8c",
+        "key": "f7tFS3C0LO",
+        "expirydate": "30-03-2034",
+        "Allowoffline": false
     }
 ]
