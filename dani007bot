@@ -278,6 +278,15 @@
             "status": "active",
             "created_date": "2025-12-29",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5EA4-SECU-C1B3",
+            "device_id": "63027564-0a11-499f-878e-3a3e34d872be",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-30",
+            "max_devices": 1
         }
     ]
 }
