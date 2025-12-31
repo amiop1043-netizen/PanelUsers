@@ -6004,5 +6004,11 @@
         "key": "VNO6sFcfaC",
         "expirydate": "30-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d673fd0a01ae15c8",
+        "key": "W8gMxI3fl7",
+        "expirydate": "31-03-2026",
+        "Allowoffline": false
     }
 ]
