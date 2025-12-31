@@ -512,6 +512,15 @@
             "status": "active",
             "created_date": "2025-12-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5D8A-SECU-EEB0",
+            "device_id": "f1b0a9a3-7493-4922-a2f2-6344ea4e41ca",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-31",
+            "max_devices": 1
         }
     ]
 }
