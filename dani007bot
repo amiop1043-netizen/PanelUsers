@@ -485,6 +485,15 @@
             "status": "active",
             "created_date": "2025-12-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EB51-SECU-93CB",
+            "device_id": "ba93c998-98d6-479a-a774-13179bc1fa83",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-31",
+            "max_devices": 1
         }
     ]
 }
