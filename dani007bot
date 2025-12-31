@@ -467,6 +467,15 @@
             "status": "active",
             "created_date": "2025-12-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C25A-SECU-C8F8",
+            "device_id": "29d5d5c4-9bfa-4f44-af16-c7600be7b5a4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-31",
+            "max_devices": 1
         }
     ]
 }
