@@ -6028,5 +6028,11 @@
         "key": "gs0RKvOZTL",
         "expirydate": "31-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b3b19cb273731833",
+        "key": "FXDNo2TqLz",
+        "expirydate": "31-01-2026",
+        "Allowoffline": false
     }
 ]
