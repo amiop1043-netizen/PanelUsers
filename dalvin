@@ -6022,5 +6022,11 @@
         "key": "uKMaVz2eAp",
         "expirydate": "31-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "169215980d2119fb",
+        "key": "gs0RKvOZTL",
+        "expirydate": "31-01-2026",
+        "Allowoffline": false
     }
 ]
