@@ -6010,5 +6010,11 @@
         "key": "W8gMxI3fl7",
         "expirydate": "31-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8c91bfdd27518ba7",
+        "key": "clINaymBCJ",
+        "expirydate": "31-01-2026",
+        "Allowoffline": false
     }
 ]
