@@ -458,6 +458,15 @@
             "status": "active",
             "created_date": "2025-12-30",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3842-SECU-9E65",
+            "device_id": "f71dfd28-5916-4092-bc6e-bbc86e632e19",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-31",
+            "max_devices": 1
         }
     ]
 }
