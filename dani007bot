@@ -530,6 +530,15 @@
             "status": "active",
             "created_date": "2025-12-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BEEE-SECU-0A56",
+            "device_id": "76b0578a-494f-4316-b3d0-43231dae63ea",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2025-12-31",
+            "max_devices": 1
         }
     ]
 }
