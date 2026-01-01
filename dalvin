@@ -6052,5 +6052,11 @@
         "key": "PlrTeG9Hft",
         "expirydate": "01-06-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3ec129d02bad4596",
+        "key": "hpab1PCLX6",
+        "expirydate": "01-04-2034",
+        "Allowoffline": false
     }
 ]
