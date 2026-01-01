@@ -584,6 +584,15 @@
             "status": "active",
             "created_date": "2026-01-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-EADB-SECU-F786",
+            "device_id": "c794d0e3-32bf-4ed5-a204-a52e57929ddc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-01",
+            "max_devices": 1
         }
     ]
 }
