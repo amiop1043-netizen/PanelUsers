@@ -382,5 +382,11 @@
         "key": "zlmS716BWJ",
         "expirydate": "01-01-2036",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2cb2ff4e46c40dc3",
+        "key": "NQuGPXD48x",
+        "expirydate": "01-02-2026",
+        "Allowoffline": false
     }
 ]
