@@ -6040,5 +6040,11 @@
         "key": "8zU9NCM0xV",
         "expirydate": "01-04-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0625099009e66c88",
+        "key": "zq3LFoHbc7",
+        "expirydate": "01-02-2026",
+        "Allowoffline": false
     }
 ]
