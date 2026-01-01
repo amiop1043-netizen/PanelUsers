@@ -6094,5 +6094,11 @@
         "key": "mxazu08NSp",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "19d9a7c3fb931146",
+        "key": "T9K4hLfNkl",
+        "expirydate": "01-04-2034",
+        "Allowoffline": false
     }
 ]
