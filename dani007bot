@@ -620,6 +620,15 @@
             "status": "active",
             "created_date": "2026-01-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-84FD-SECU-E3AD",
+            "device_id": "5814a278-ab15-4e61-b712-9efb598c5b78",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-01",
+            "max_devices": 1
         }
     ]
 }
