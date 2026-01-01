@@ -593,6 +593,15 @@
             "status": "active",
             "created_date": "2026-01-01",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7FB6-SECU-5A86",
+            "device_id": "073ac450-8f52-4135-bdc1-ece6ae4b8650",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-01",
+            "max_devices": 1
         }
     ]
 }
