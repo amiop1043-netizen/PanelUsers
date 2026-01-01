@@ -566,6 +566,15 @@
             "status": "active",
             "created_date": "2025-12-31",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5DF0-SECU-72BB",
+            "device_id": "f00edf30-ace9-4151-91c8-79eb2a1ad68d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-01",
+            "max_devices": 1
         }
     ]
 }
