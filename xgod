@@ -376,5 +376,11 @@
         "key": "Kml01RH3kG",
         "expirydate": "31-12-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "663ed53b2437d0ff",
+        "key": "zlmS716BWJ",
+        "expirydate": "01-01-2036",
+        "Allowoffline": false
     }
 ]
