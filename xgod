@@ -388,5 +388,11 @@
         "key": "NQuGPXD48x",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "88a6663ac30a58a7",
+        "key": "w7VTXUP1YJ",
+        "expirydate": "01-01-2036",
+        "Allowoffline": false
     }
 ]
