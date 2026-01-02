@@ -28,5 +28,11 @@
         "key": "DjVUXkn2ds",
         "expirydate": "09-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e7f8ec9d63a16373",
+        "key": "CiX8MSNp16",
+        "expirydate": "03-01-2026",
+        "Allowoffline": false
     }
 ]
