@@ -710,6 +710,15 @@
             "status": "active",
             "created_date": "2026-01-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0188-SECU-EB98",
+            "device_id": "7648361405",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-02",
+            "max_devices": 1
         }
     ]
 }
