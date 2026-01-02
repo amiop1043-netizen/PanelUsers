@@ -16,5 +16,11 @@
         "key": "Rc28Weflvd",
         "expirydate": "03-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "657be1361dacf6eb",
+        "key": "92351eBWit",
+        "expirydate": "01-02-2026",
+        "Allowoffline": false
     }
 ]
