@@ -701,6 +701,15 @@
             "status": "active",
             "created_date": "2026-01-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C2E3-SECU-4027",
+            "device_id": "27dfa470-432d-479d-bb19-c488f42cdcfe",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-02",
+            "max_devices": 1
         }
     ]
 }
