@@ -34,5 +34,11 @@
         "key": "CiX8MSNp16",
         "expirydate": "03-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6f01f0a6b614a23d",
+        "key": "946jABIUNl",
+        "expirydate": "01-02-2026",
+        "Allowoffline": false
     }
 ]
