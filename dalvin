@@ -6172,5 +6172,11 @@
         "key": "iSCangVFWP",
         "expirydate": "02-01-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "baf1d921407a7415",
+        "key": "kCADbnhFux",
+        "expirydate": "02-04-2026",
+        "Allowoffline": false
     }
 ]
