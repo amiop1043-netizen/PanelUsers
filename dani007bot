@@ -683,6 +683,15 @@
             "status": "active",
             "created_date": "2026-01-02",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C0EF-SECU-AC86",
+            "device_id": "f6427ed5-2f13-4c9a-a17b-01116998657b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-02",
+            "max_devices": 1
         }
     ]
 }
