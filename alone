@@ -22,5 +22,11 @@
         "key": "92351eBWit",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f00057fbb3eccd3",
+        "key": "DjVUXkn2ds",
+        "expirydate": "09-02-2026",
+        "Allowoffline": false
     }
 ]
