@@ -6142,5 +6142,11 @@
         "key": "xm70st1o49",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ecb9f5d077102935",
+        "key": "mj7OKuLa9c",
+        "expirydate": "02-01-2028",
+        "Allowoffline": false
     }
 ]
