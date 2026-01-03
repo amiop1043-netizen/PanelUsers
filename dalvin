@@ -6196,5 +6196,11 @@
         "key": "VgjXAML5ak",
         "expirydate": "03-04-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5e114042deaa0ac1",
+        "key": "lIDUe7nbWL",
+        "expirydate": "03-02-2026",
+        "Allowoffline": false
     }
 ]
