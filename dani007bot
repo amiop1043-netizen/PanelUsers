@@ -737,6 +737,15 @@
             "status": "active",
             "created_date": "2026-01-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3873-SECU-6211",
+            "device_id": "bd413d36-5a28-478e-97cf-5e27c8ced096",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-03",
+            "max_devices": 1
         }
     ]
 }
