@@ -6226,5 +6226,11 @@
         "key": "IU9Og2W057",
         "expirydate": "03-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6c05d2d06b9bc6fe",
+        "key": "VlPEghFLvn",
+        "expirydate": "03-04-2034",
+        "Allowoffline": false
     }
 ]
