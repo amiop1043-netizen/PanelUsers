@@ -6220,5 +6220,11 @@
         "key": "fpUItxjoFH",
         "expirydate": "03-04-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cb8be513db19f1c0",
+        "key": "IU9Og2W057",
+        "expirydate": "03-02-2026",
+        "Allowoffline": false
     }
 ]
