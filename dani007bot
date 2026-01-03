@@ -746,6 +746,15 @@
             "status": "active",
             "created_date": "2026-01-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-32BE-SECU-2C88",
+            "device_id": "a11ca66e-a6b2-4bbb-a867-bab9811b39e3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-03",
+            "max_devices": 1
         }
     ]
 }
