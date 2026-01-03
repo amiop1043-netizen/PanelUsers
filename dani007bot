@@ -764,6 +764,15 @@
             "status": "active",
             "created_date": "2026-01-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-8670-SECU-A8F3",
+            "device_id": "2bf7cf97-4e13-4472-90ce-add5308ffb93",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-03",
+            "max_devices": 1
         }
     ]
 }
