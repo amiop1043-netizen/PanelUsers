@@ -88,5 +88,11 @@
         "key": "sa74GlibnB",
         "expirydate": "03-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "15d875376cceeb78",
+        "key": "fokuyVMqnD",
+        "expirydate": "03-02-2026",
+        "Allowoffline": false
     }
 ]
