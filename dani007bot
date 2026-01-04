@@ -791,6 +791,15 @@
             "status": "active",
             "created_date": "2026-01-03",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F80D-SECU-2DFC",
+            "device_id": "5a54a7da-26a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-04",
+            "max_devices": 1
         }
     ]
 }
