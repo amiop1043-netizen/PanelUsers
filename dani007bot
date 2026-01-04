@@ -809,6 +809,15 @@
             "status": "active",
             "created_date": "2026-01-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E08F-SECU-F466",
+            "device_id": "5a54a7da-26a3-4ab8-bec5-2bb2980eaa43",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-04",
+            "max_devices": 1
         }
     ]
 }
