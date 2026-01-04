@@ -818,6 +818,15 @@
             "status": "active",
             "created_date": "2026-01-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B177-SECU-78C1",
+            "device_id": "1349dc1a-f971-4365-a8ff-83d4aeb3af5b",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-04",
+            "max_devices": 1
         }
     ]
 }
