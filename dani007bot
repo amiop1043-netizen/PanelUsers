@@ -827,6 +827,15 @@
             "status": "active",
             "created_date": "2026-01-04",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-3949-SECU-838E",
+            "device_id": "c9c5858e-c445-41ff-823d-0bc481867b89",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-05",
+            "max_devices": 1
         }
     ]
 }
