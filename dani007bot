@@ -881,6 +881,15 @@
             "status": "active",
             "created_date": "2026-01-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C305-SECU-10B6",
+            "device_id": "1656f354-32be-43f6-8b90-a1bc14183536",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-05",
+            "max_devices": 1
         }
     ]
 }
