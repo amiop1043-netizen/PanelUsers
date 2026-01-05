@@ -863,6 +863,15 @@
             "status": "active",
             "created_date": "2026-01-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7292-SECU-ADC1",
+            "device_id": "e7efcb46-5460-437b-a19f-7172ea12dd91",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-05",
+            "max_devices": 1
         }
     ]
 }
