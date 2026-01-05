@@ -899,6 +899,15 @@
             "status": "active",
             "created_date": "2026-01-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-1D59-SECU-B180",
+            "device_id": "DeviceID",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-05",
+            "max_devices": 1
         }
     ]
 }
