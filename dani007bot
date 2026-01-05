@@ -908,6 +908,15 @@
             "status": "active",
             "created_date": "2026-01-05",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AAA5-SECU-67C4",
+            "device_id": "af407e2d-9e8a-42a3-9582-a6497e1002c2",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-05",
+            "max_devices": 1
         }
     ]
 }
