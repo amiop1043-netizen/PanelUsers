@@ -6310,5 +6310,11 @@
         "key": "2lkZDS1nym",
         "expirydate": "04-11-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "24062b475bcc0ca9",
+        "key": "9WNHdznSqX",
+        "expirydate": "05-02-2026",
+        "Allowoffline": false
     }
 ]
