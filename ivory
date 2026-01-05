@@ -592,5 +592,11 @@
         "key": "GxVBjEo0wl",
         "expirydate": "04-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f74b02706e029d7b",
+        "key": "qdl1ToKitV",
+        "expirydate": "05-03-2030",
+        "Allowoffline": false
     }
 ]
