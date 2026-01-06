@@ -6424,5 +6424,11 @@
         "key": "60ETUOpkLh",
         "expirydate": "06-01-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0693de234ab1eabd",
+        "key": "1HAzldi3s0",
+        "expirydate": "06-04-2034",
+        "Allowoffline": false
     }
 ]
