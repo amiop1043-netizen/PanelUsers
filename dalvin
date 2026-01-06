@@ -6436,5 +6436,11 @@
         "key": "ZKACdmhtso",
         "expirydate": "06-12-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "695a565a5005ef8c",
+        "key": "7o8pVfYyN4",
+        "expirydate": "06-12-2027",
+        "Allowoffline": false
     }
 ]
