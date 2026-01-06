@@ -953,6 +953,15 @@
             "status": "active",
             "created_date": "2026-01-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C021-SECU-3118",
+            "device_id": "027581f7-5584-4705-bbc4-1b05ffec83e1",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-06",
+            "max_devices": 1
         }
     ]
 }
