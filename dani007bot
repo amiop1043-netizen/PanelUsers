@@ -962,6 +962,15 @@
             "status": "active",
             "created_date": "2026-01-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-BEC4-SECU-5FA2",
+            "device_id": "858873f7-e7e1-4e4f-9321-bac766db8316",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-06",
+            "max_devices": 1
         }
     ]
 }
