@@ -1007,6 +1007,15 @@
             "status": "active",
             "created_date": "2026-01-06",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C4A9-SECU-2183",
+            "device_id": "100584de-2882-4a4d-93b9-5138743138b4",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-07",
+            "max_devices": 1
         }
     ]
 }
