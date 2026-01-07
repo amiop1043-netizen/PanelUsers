@@ -6466,5 +6466,11 @@
         "key": "MSrxTZOp6h",
         "expirydate": "07-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bfab05dea61ffda8",
+        "key": "d8relGYtpj",
+        "expirydate": "07-02-2026",
+        "Allowoffline": false
     }
 ]
