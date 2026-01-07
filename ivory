@@ -598,5 +598,11 @@
         "key": "qdl1ToKitV",
         "expirydate": "05-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5f085e3d773d667e",
+        "key": "OwNHWcydCh",
+        "expirydate": "07-03-2030",
+        "Allowoffline": false
     }
 ]
