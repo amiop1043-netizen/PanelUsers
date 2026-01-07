@@ -1025,6 +1025,15 @@
             "status": "active",
             "created_date": "2026-01-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-2312-SECU-3028",
+            "device_id": "4c2f5da1-e49e-4907-bd06-c54f87bce808",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-07",
+            "max_devices": 1
         }
     ]
 }
