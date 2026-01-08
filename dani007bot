@@ -1043,6 +1043,15 @@
             "status": "active",
             "created_date": "2026-01-08",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A830-SECU-4694",
+            "device_id": "ad52d8ad-205c-4ec4-94cc-dd7c0e1c8543",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-08",
+            "max_devices": 1
         }
     ]
 }
