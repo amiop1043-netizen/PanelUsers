@@ -1034,6 +1034,15 @@
             "status": "active",
             "created_date": "2026-01-07",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-82E2-SECU-852A",
+            "device_id": "e81891db-b231-4c02-8341-edfa2cf7e635",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-01-08",
+            "max_devices": 1
         }
     ]
 }
