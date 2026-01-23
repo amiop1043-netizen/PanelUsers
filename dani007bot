@@ -343,60 +343,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-D2D9-SECU-77E5",
-            "device_id": "a8fb0e7a-8602-48d5-8ce7-e982501a1c8d",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-2660-SECU-3E5B",
-            "device_id": "1c794d01-d549-4bc0-88f2-37046e9e8205",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-8D0A-SECU-51A4",
-            "device_id": "1c794d01-d549-4bc0-88f2-37046e9e8205",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-6E3C-SECU-656D",
-            "device_id": "1c794d01-d549-4bc0-88f2-37046e9e8205",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-DF37-SECU-1312",
-            "device_id": "1c794d01-d549-4bc0-88f2-37046e9e8205",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-A370-SECU-C560",
-            "device_id": "1c794d01-d549-4bc0-88f2-37046e9e8205",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-C1E9-SECU-5C29",
             "device_id": "651384fb-751e-4b07-93c5-96db6689f606",
             "expiry_date": "2069-12-31",
