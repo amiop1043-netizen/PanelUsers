@@ -478,5 +478,11 @@
         "key": "Ay8nGp52xl",
         "expirydate": "24-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5362beb06b74f7ea",
+        "key": "SvWc452DPj",
+        "expirydate": "25-03-2026",
+        "Allowoffline": false
     }
 ]
