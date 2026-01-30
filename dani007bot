@@ -980,15 +980,6 @@
             "status": "active",
             "created_date": "2026-01-27",
             "max_devices": 1
-        },
-        {
-            "key": "MTX-C8BC-SECU-599E",
-            "device_id": "9db951fb437ee350",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2026-01-29",
-            "max_devices": 1
         }
     ]
 }
