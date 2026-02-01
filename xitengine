@@ -874,5 +874,11 @@
         "key": "JVWmkreQGu",
         "expirydate": "01-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cc38701e6b474fb4",
+        "key": "LnuNPlxTi6",
+        "expirydate": "01-05-2034",
+        "Allowoffline": false
     }
 ]
