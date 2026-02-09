@@ -922,5 +922,11 @@
         "key": "58g2HYBERC",
         "expirydate": "06-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0e22784e252bcaa3",
+        "key": "UjY1It93Fy",
+        "expirydate": "09-05-2034",
+        "Allowoffline": false
     }
 ]
