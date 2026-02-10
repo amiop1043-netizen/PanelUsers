@@ -962,6 +962,15 @@
             "status": "active",
             "created_date": "2026-02-09",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-AFC5-SECU-AE32",
+            "device_id": "4e820043-fe32-44b8-a2ba-70fab523e39a",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-10",
+            "max_devices": 1
         }
     ]
 }
