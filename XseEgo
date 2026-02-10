@@ -214,5 +214,11 @@
         "key": "6dpfTBR8Db",
         "expirydate": "10-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "08ae8fb4b949e1b2",
+        "key": "ATxDLbysR9",
+        "expirydate": "10-02-2027",
+        "Allowoffline": false
     }
 ]
