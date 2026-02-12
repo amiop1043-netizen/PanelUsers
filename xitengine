@@ -934,5 +934,11 @@
         "key": "ZtJ5LgenOV",
         "expirydate": "12-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c160f069bf6ae272",
+        "key": "StTf024apl",
+        "expirydate": "12-05-2034",
+        "Allowoffline": false
     }
 ]
