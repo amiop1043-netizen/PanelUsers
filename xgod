@@ -28,5 +28,11 @@
         "key": "wbpA40nFMv",
         "expirydate": "13-02-2036",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b3e40c5e7d10f5de",
+        "key": "GfH1z9hjEK",
+        "expirydate": "13-02-2036",
+        "Allowoffline": false
     }
 ]
