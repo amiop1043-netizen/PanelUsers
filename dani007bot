@@ -944,6 +944,15 @@
             "status": "active",
             "created_date": "2026-02-13",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0B3A-SECU-BA47",
+            "device_id": "839cfe97-c903-41c6-a133-954971ee8525",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-14",
+            "max_devices": 1
         }
     ]
 }
