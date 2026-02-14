@@ -953,6 +953,15 @@
             "status": "active",
             "created_date": "2026-02-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-74BE-SECU-A62A",
+            "device_id": "00c227b3-5d01-482c-8d73-69b08c8aaf74",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-14",
+            "max_devices": 1
         }
     ]
 }
