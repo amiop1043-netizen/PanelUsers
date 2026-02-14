@@ -971,6 +971,15 @@
             "status": "active",
             "created_date": "2026-02-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5B39-SECU-AA2E",
+            "device_id": "ddab9c77-751b-44fb-8de4-342003f789dc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-14",
+            "max_devices": 1
         }
     ]
 }
