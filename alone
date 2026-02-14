@@ -190,5 +190,11 @@
         "key": "HLDPvSKUFy",
         "expirydate": "20-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "00f01515d89b7038",
+        "key": "4p3C7b1ENH",
+        "expirydate": "16-03-2026",
+        "Allowoffline": false
     }
 ]
