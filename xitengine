@@ -940,5 +940,11 @@
         "key": "StTf024apl",
         "expirydate": "12-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fa53cdc136bccdf8",
+        "key": "YS4zTE1dmX",
+        "expirydate": "14-05-2034",
+        "Allowoffline": false
     }
 ]
