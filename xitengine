@@ -946,5 +946,11 @@
         "key": "YS4zTE1dmX",
         "expirydate": "14-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2a5c6ea331dd14b6",
+        "key": "BLE8FrkRos",
+        "expirydate": "14-05-2034",
+        "Allowoffline": false
     }
 ]
