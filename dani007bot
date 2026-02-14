@@ -962,6 +962,15 @@
             "status": "active",
             "created_date": "2026-02-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-397B-SECU-BA21",
+            "device_id": "DE6F7D8762BA00E7",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-14",
+            "max_devices": 1
         }
     ]
 }
