@@ -1048,5 +1048,11 @@
         "key": "INFBCoaDrh",
         "expirydate": "15-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e83144b8ab5325e0",
+        "key": "DSX3heAN1O",
+        "expirydate": "15-05-2034",
+        "Allowoffline": false
     }
 ]
