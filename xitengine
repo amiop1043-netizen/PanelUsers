@@ -1054,5 +1054,11 @@
         "key": "DSX3heAN1O",
         "expirydate": "15-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "71cab512eb7ebf8e",
+        "key": "en9T2KXgAP",
+        "expirydate": "15-05-2034",
+        "Allowoffline": false
     }
 ]
