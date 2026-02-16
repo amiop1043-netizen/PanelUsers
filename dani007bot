@@ -953,6 +953,15 @@
             "status": "active",
             "created_date": "2026-02-14",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0D41-SECU-DB51",
+            "device_id": "8ae3da1a-ef06-47e9-8f04-22c913a01960",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-16",
+            "max_devices": 1
         }
     ]
 }
