@@ -892,15 +892,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-C968-SECU-A913",
-            "device_id": "3e7c868b-831d-4a86-8474-c84a607bb6bd",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2026-02-06",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-541F-SECU-D646",
             "device_id": "https://sub.boltnet.org/sub/dXNlcl84MzgwMzk0ODYzLDE3NzA0MDM2MzYx0ZmgKH2_A",
             "expiry_date": "2069-12-31",
