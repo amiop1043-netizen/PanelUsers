@@ -1054,5 +1054,11 @@
         "key": "en9T2KXgAP",
         "expirydate": "15-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3937ca24be3cda23",
+        "key": "afgr53KkVS",
+        "expirydate": "17-05-2034",
+        "Allowoffline": false
     }
 ]
