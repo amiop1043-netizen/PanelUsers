@@ -1060,5 +1060,11 @@
         "key": "afgr53KkVS",
         "expirydate": "17-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7213e7361444c87c",
+        "key": "Q4z0dtRkBu",
+        "expirydate": "17-05-2034",
+        "Allowoffline": false
     }
 ]
