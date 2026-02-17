@@ -989,6 +989,15 @@
             "status": "active",
             "created_date": "2026-02-16",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-A343-SECU-162F",
+            "device_id": "9fee4334-6aec-42f4-9171-f5a33cfa2f9f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-17",
+            "max_devices": 1
         }
     ]
 }
