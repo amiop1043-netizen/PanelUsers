@@ -6706,5 +6706,11 @@
         "key": "I40VhBs7eM",
         "expirydate": "17-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5eadbceb7b43df91",
+        "key": "taLeuvQcYZ",
+        "expirydate": "18-03-2026",
+        "Allowoffline": false
     }
 ]
