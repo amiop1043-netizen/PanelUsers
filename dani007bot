@@ -998,6 +998,15 @@
             "status": "active",
             "created_date": "2026-02-17",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5C0E-SECU-23A8",
+            "device_id": "26a5c536-d62d-410f-8899-a3050d257c61",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-18",
+            "max_devices": 1
         }
     ]
 }
