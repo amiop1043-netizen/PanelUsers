@@ -1034,6 +1034,15 @@
             "status": "active",
             "created_date": "2026-02-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6A9E-SECU-D904",
+            "device_id": "c614497b-de6d-4007-9015-09d15e38f439",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-19",
+            "max_devices": 1
         }
     ]
 }
