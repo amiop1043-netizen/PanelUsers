@@ -1016,6 +1016,15 @@
             "status": "active",
             "created_date": "2026-02-19",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-0A77-SECU-8AD3",
+            "device_id": "178510e1-8a25-42b4-80e7-94ea5d137a80",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-19",
+            "max_devices": 1
         }
     ]
 }
