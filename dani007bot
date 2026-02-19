@@ -1007,6 +1007,15 @@
             "status": "active",
             "created_date": "2026-02-18",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5C8E-SECU-429D",
+            "device_id": "1f41f27c-368f-416f-8dea-5416c4758d5f",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-19",
+            "max_devices": 1
         }
     ]
 }
