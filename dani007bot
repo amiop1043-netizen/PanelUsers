@@ -1070,6 +1070,15 @@
             "status": "active",
             "created_date": "2026-02-20",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5485-SECU-F672",
+            "device_id": "4a5161ec-c04e-4619-84bc-8eff66112dcc",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-20",
+            "max_devices": 1
         }
     ]
 }
