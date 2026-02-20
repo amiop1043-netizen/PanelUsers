@@ -514,15 +514,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-4C09-SECU-F2C0",
-            "device_id": "20ed34e3-d29f-4240-9848-6a8d69e9166c",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2026-01-01",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-129C-SECU-770D",
             "device_id": "c3629e6f-0e05-41b0-a407-687926e87a8f",
             "expiry_date": "2069-12-31",
