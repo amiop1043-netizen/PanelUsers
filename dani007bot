@@ -1079,6 +1079,15 @@
             "status": "active",
             "created_date": "2026-02-21",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-826B-SECU-CB58",
+            "device_id": "7cec21ef-8821-4ca5-8d76-d6aa9567ba4e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-22",
+            "max_devices": 1
         }
     ]
 }
