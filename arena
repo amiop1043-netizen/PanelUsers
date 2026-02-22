@@ -586,5 +586,11 @@
         "key": "DY4wcgyMv6",
         "expirydate": "21-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "49ec07ea27731024",
+        "key": "QK8vrsxRTH",
+        "expirydate": "22-04-2026",
+        "Allowoffline": false
     }
 ]
