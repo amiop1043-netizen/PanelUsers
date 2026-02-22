@@ -1106,6 +1106,15 @@
             "status": "active",
             "created_date": "2026-02-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-6573-SECU-1C9E",
+            "device_id": "d3639793-18cb-4e6f-bba7-14c94ca65f2d",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-22",
+            "max_devices": 1
         }
     ]
 }
