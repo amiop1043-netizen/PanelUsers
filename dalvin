@@ -6754,5 +6754,11 @@
         "key": "ZiCcxv528u",
         "expirydate": "22-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9670844f59ac6296",
+        "key": "j9Z30mzFg6",
+        "expirydate": "22-03-2026",
+        "Allowoffline": false
     }
 ]
