@@ -6748,5 +6748,11 @@
         "key": "sI5SjTMlmn",
         "expirydate": "22-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ab24b147ace5511d",
+        "key": "ZiCcxv528u",
+        "expirydate": "22-05-2026",
+        "Allowoffline": false
     }
 ]
