@@ -1138,5 +1138,11 @@
         "key": "zaSKIONVpx",
         "expirydate": "23-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "be97fbc59edb6301",
+        "key": "7U8SM2EgRz",
+        "expirydate": "23-05-2034",
+        "Allowoffline": false
     }
 ]
