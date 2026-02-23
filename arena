@@ -598,5 +598,11 @@
         "key": "s2ObjJaZAm",
         "expirydate": "23-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a7793af934c37f96",
+        "key": "LbZW8qIei9",
+        "expirydate": "23-04-2026",
+        "Allowoffline": false
     }
 ]
