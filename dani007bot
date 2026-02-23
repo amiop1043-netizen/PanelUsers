@@ -1124,6 +1124,15 @@
             "status": "active",
             "created_date": "2026-02-23",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5958-SECU-E76B",
+            "device_id": "0a73d661-4e07-4365-9bc9-b03d1ca99eb9",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-23",
+            "max_devices": 1
         }
     ]
 }
