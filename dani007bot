@@ -1106,6 +1106,15 @@
             "status": "active",
             "created_date": "2026-02-22",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5081-SECU-5B08",
+            "device_id": "4d708d20-868a-463a-9494-3fcac6ade751",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-23",
+            "max_devices": 1
         }
     ]
 }
