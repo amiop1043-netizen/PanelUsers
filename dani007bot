@@ -1196,6 +1196,15 @@
             "status": "active",
             "created_date": "2026-02-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-162D-SECU-CB0C",
+            "device_id": "b4b9ae64-027f-4b1d-bdc0-91c4e6e17340",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-24",
+            "max_devices": 1
         }
     ]
 }
