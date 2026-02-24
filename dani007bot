@@ -1169,6 +1169,15 @@
             "status": "active",
             "created_date": "2026-02-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-5D6D-SECU-713D",
+            "device_id": "c0851119-1b1b-427b-bf60-1dfd920e0616",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-24",
+            "max_devices": 1
         }
     ]
 }
