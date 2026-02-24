@@ -1205,6 +1205,15 @@
             "status": "active",
             "created_date": "2026-02-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F102-SECU-4D8A",
+            "device_id": "a3027d6e-0953-4b08-8f71-5c6b76058a5e",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-24",
+            "max_devices": 1
         }
     ]
 }
