@@ -6784,5 +6784,11 @@
         "key": "RAnqzW2bIp",
         "expirydate": "23-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2e88fdda6792c44b",
+        "key": "KjScXh7F36",
+        "expirydate": "24-03-2026",
+        "Allowoffline": false
     }
 ]
