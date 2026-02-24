@@ -652,5 +652,11 @@
         "key": "NvcqHD7kit",
         "expirydate": "22-04-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "087aeb5fd843fff4",
+        "key": "aKU61HN8GO",
+        "expirydate": "24-04-2030",
+        "Allowoffline": false
     }
 ]
