@@ -6820,5 +6820,11 @@
         "key": "SoL8pynNKr",
         "expirydate": "25-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1d9f3d211499df27",
+        "key": "02xVPmYcDA",
+        "expirydate": "25-03-2026",
+        "Allowoffline": false
     }
 ]
