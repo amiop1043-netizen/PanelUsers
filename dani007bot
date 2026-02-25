@@ -1205,6 +1205,15 @@
             "status": "active",
             "created_date": "2026-02-24",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-B51F-SECU-265D",
+            "device_id": "2fe2b496-d46c-40cb-9c98-cfae44e2f737",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-25",
+            "max_devices": 1
         }
     ]
 }
