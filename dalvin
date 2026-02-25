@@ -6850,5 +6850,11 @@
         "key": "PpxEKSMcd4",
         "expirydate": "25-05-2859",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5d927f30af0fe4f8",
+        "key": "5zjcuLPeOo",
+        "expirydate": "25-03-2026",
+        "Allowoffline": false
     }
 ]
