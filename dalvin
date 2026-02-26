@@ -7024,5 +7024,11 @@
         "key": "bUp1VNf3rx",
         "expirydate": "26-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "db79047b1112ac33",
+        "key": "TmFBZDkpOG",
+        "expirydate": "26-08-2033",
+        "Allowoffline": false
     }
 ]
