@@ -6880,5 +6880,11 @@
         "key": "hunI2Pod16",
         "expirydate": "26-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b48d2036874586ce",
+        "key": "bjh9sWxDBl",
+        "expirydate": "26-05-2034",
+        "Allowoffline": false
     }
 ]
