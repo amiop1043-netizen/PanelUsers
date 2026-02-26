@@ -7078,5 +7078,11 @@
         "key": "SKXMtiabvV",
         "expirydate": "26-12-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1f9afa2d5f580dea",
+        "key": "WBrh7u4tfR",
+        "expirydate": "26-12-2031",
+        "Allowoffline": false
     }
 ]
