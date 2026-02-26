@@ -7042,5 +7042,11 @@
         "key": "Jgpdmxa8rs",
         "expirydate": "26-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c51bb57d66c20343",
+        "key": "aW4KvXAVdD",
+        "expirydate": "26-03-2026",
+        "Allowoffline": false
     }
 ]
