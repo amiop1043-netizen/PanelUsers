@@ -7240,5 +7240,11 @@
         "key": "GWhA94fZR1",
         "expirydate": "26-02-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "abe7974db87c8e98",
+        "key": "hpcdav5RGb",
+        "expirydate": "26-02-2028",
+        "Allowoffline": false
     }
 ]
