@@ -1250,6 +1250,15 @@
             "status": "active",
             "created_date": "2026-02-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-C5E2-SECU-28DD",
+            "device_id": "a9ad18b1-1ccc-4e64-8b9d-ec3832b2b739",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-26",
+            "max_devices": 1
         }
     ]
 }
