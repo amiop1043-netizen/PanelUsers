@@ -244,5 +244,11 @@
         "key": "soLbEIaire",
         "expirydate": "28-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9ef72fe2aa3dd1b2",
+        "key": "xoRY25GTFJ",
+        "expirydate": "28-03-2026",
+        "Allowoffline": false
     }
 ]
