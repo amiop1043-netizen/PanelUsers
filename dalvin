@@ -6964,5 +6964,11 @@
         "key": "26joQ4r37L",
         "expirydate": "26-05-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ea056213494add50",
+        "key": "Mi1SHLxwkq",
+        "expirydate": "26-03-2026",
+        "Allowoffline": false
     }
 ]
