@@ -1232,6 +1232,15 @@
             "status": "active",
             "created_date": "2026-02-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-799A-SECU-CD16",
+            "device_id": "2ce11ca7-a97a-4dd4-a487-23a1c940b0e6",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-26",
+            "max_devices": 1
         }
     ]
 }
