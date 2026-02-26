@@ -7066,5 +7066,11 @@
         "key": "GZzaHA3I4g",
         "expirydate": "26-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "895bd98f0d974d7a",
+        "key": "QNqXTf0W8n",
+        "expirydate": "26-03-2026",
+        "Allowoffline": false
     }
 ]
