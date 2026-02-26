@@ -7120,5 +7120,11 @@
         "key": "BvVfosNF48",
         "expirydate": "26-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "37a493b44e15eb6b",
+        "key": "6Mu82sOfRU",
+        "expirydate": "26-03-2026",
+        "Allowoffline": false
     }
 ]
