@@ -7300,5 +7300,11 @@
         "key": "LNty2eziTx",
         "expirydate": "27-02-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b997c887659e8b22",
+        "key": "KdfBjXWPGh",
+        "expirydate": "27-05-2034",
+        "Allowoffline": false
     }
 ]
