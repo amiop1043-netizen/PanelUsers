@@ -7426,5 +7426,11 @@
         "key": "HgRhjfbFan",
         "expirydate": "27-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c03c5b06535dc4d1",
+        "key": "1r5QOhzaKI",
+        "expirydate": "27-03-2026",
+        "Allowoffline": false
     }
 ]
