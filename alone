@@ -262,5 +262,11 @@
         "key": "kq9MEmboRO",
         "expirydate": "29-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "26a925cfacd5d53b",
+        "key": "sx3uOS51aQ",
+        "expirydate": "29-03-2026",
+        "Allowoffline": false
     }
 ]
