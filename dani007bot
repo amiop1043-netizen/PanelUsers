@@ -1277,6 +1277,15 @@
             "status": "active",
             "created_date": "2026-02-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-F5E1-SECU-D704",
+            "device_id": "e35afff3-2993-40b3-85bf-bfb1a1c652e3",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-27",
+            "max_devices": 1
         }
     ]
 }
