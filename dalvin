@@ -7246,5 +7246,11 @@
         "key": "hpcdav5RGb",
         "expirydate": "26-02-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1a5f1895214abf00",
+        "key": "Cdr7bXG8Rf",
+        "expirydate": "27-02-2028",
+        "Allowoffline": false
     }
 ]
