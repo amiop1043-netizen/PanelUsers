@@ -1268,6 +1268,15 @@
             "status": "active",
             "created_date": "2026-02-27",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-7345-SECU-81D9",
+            "device_id": "e7a6f63d-231c-4671-a262-786e59375f53",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-27",
+            "max_devices": 1
         }
     ]
 }
