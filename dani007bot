@@ -1259,6 +1259,15 @@
             "status": "active",
             "created_date": "2026-02-26",
             "max_devices": 1
+        },
+        {
+            "key": "MTX-E2F1-SECU-A0D5",
+            "device_id": "3e7c868b-831d-4a86-8474-c84a607bb6bd",
+            "expiry_date": "2069-12-31",
+            "active": true,
+            "status": "active",
+            "created_date": "2026-02-27",
+            "max_devices": 1
         }
     ]
 }
