@@ -838,15 +838,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-A830-SECU-4694",
-            "device_id": "ad52d8ad-205c-4ec4-94cc-dd7c0e1c8543",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2026-01-08",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-DD37-SECU-A36A",
             "device_id": "bc5248d3-6473-453a-a641-d9577cb3c1c8",
             "expiry_date": "2069-12-31",
