@@ -448,5 +448,11 @@
         "key": "iEd8514v9b",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cf2ba167c0aacb5f",
+        "key": "2s8bFYyLCd",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
