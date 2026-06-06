@@ -160,5 +160,11 @@
         "key": "WAZMUFTS1I",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7abb223d85360c22",
+        "key": "rb7Qfnk8OB",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
