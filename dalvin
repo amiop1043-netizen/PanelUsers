@@ -262,5 +262,11 @@
         "key": "97vkPLCmci",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "87f1f381b8bb3ec4",
+        "key": "ezrmtyFwaO",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
