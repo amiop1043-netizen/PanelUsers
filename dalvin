@@ -580,5 +580,11 @@
         "key": "GlILA29WSO",
         "expirydate": "06-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c97592718988e5f",
+        "key": "aL1uhIz7rb",
+        "expirydate": "06-08-2026",
+        "Allowoffline": false
     }
 ]
