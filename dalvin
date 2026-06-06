@@ -382,5 +382,11 @@
         "key": "HlkrmSIGDc",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54d6f40c6824b434",
+        "key": "NFam3Jij4S",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
