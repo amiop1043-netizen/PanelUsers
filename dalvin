@@ -658,5 +658,11 @@
         "key": "OolMI03N9b",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6c0e486e3860f1cd",
+        "key": "hvE0R5tTg3",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
