@@ -190,5 +190,11 @@
         "key": "tvwaAuMEeW",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "493ee01fb8995b5c",
+        "key": "NA8Pz9hTLa",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
