@@ -184,5 +184,11 @@
         "key": "Vb37q61Ghx",
         "expirydate": "06-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6b298492588b5fc2",
+        "key": "tvwaAuMEeW",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]
