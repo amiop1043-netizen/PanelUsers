@@ -994,5 +994,11 @@
         "key": "Pb1SNvmMUc",
         "expirydate": "07-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "716985ee3d54f18e",
+        "key": "OMtB51kuog",
+        "expirydate": "07-09-2026",
+        "Allowoffline": false
     }
 ]
