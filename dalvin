@@ -1012,5 +1012,11 @@
         "key": "AGkDO0X23S",
         "expirydate": "07-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "62895c36631d0686",
+        "key": "gc93FsBPp5",
+        "expirydate": "07-11-2026",
+        "Allowoffline": false
     }
 ]
