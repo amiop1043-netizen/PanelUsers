@@ -886,5 +886,11 @@
         "key": "ArGyfuNaU2",
         "expirydate": "07-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "50f047b372dbaaaf",
+        "key": "hC5tu6HbRS",
+        "expirydate": "07-07-2026",
+        "Allowoffline": false
     }
 ]
