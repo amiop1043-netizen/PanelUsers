@@ -934,5 +934,11 @@
         "key": "P936tdlImu",
         "expirydate": "07-09-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e6248c571c35003e",
+        "key": "Fz7aQWp8rU",
+        "expirydate": "07-07-2026",
+        "Allowoffline": false
     }
 ]
