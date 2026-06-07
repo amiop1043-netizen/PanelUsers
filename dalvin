@@ -802,5 +802,11 @@
         "key": "auJ4b5gnYt",
         "expirydate": "07-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "253d824d5dcd277a",
+        "key": "QfH1DVagLC",
+        "expirydate": "07-07-2026",
+        "Allowoffline": false
     }
 ]
