@@ -904,5 +904,11 @@
         "key": "KmVUw9t62N",
         "expirydate": "07-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f38608381ad1f9c",
+        "key": "Ff28LSMAic",
+        "expirydate": "07-12-2026",
+        "Allowoffline": false
     }
 ]
