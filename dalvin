@@ -952,5 +952,11 @@
         "key": "XN7plLed8v",
         "expirydate": "07-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "462264246481045f",
+        "key": "sjFxNBh0AJ",
+        "expirydate": "07-07-2026",
+        "Allowoffline": false
     }
 ]
