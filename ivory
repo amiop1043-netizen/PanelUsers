@@ -760,5 +760,11 @@
         "key": "skL17ZErCO",
         "expirydate": "10-08-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "47cd6a57f79f04f5",
+        "key": "41S8gazf6U",
+        "expirydate": "10-07-2026",
+        "Allowoffline": false
     }
 ]
