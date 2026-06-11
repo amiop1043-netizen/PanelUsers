@@ -1294,5 +1294,11 @@
         "key": "PEcWqn3k2f",
         "expirydate": "11-03-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dc2b6a06d5030593",
+        "key": "i12JUh36MT",
+        "expirydate": "11-12-2026",
+        "Allowoffline": false
     }
 ]
