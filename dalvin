@@ -1234,5 +1234,11 @@
         "key": "8fSTDMPpnt",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3976821196a532e2",
+        "key": "VL84r0hoJM",
+        "expirydate": "11-02-2027",
+        "Allowoffline": false
     }
 ]
