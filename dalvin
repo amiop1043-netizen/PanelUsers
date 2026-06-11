@@ -1276,5 +1276,11 @@
         "key": "EBs16S7vHT",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fa921ff571a18a82",
+        "key": "9s3KlVPfux",
+        "expirydate": "11-08-2026",
+        "Allowoffline": false
     }
 ]
