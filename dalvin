@@ -1228,5 +1228,11 @@
         "key": "bxw50k2Dcr",
         "expirydate": "11-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2f4b8f540fec5031",
+        "key": "8fSTDMPpnt",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
