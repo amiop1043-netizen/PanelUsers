@@ -1288,5 +1288,11 @@
         "key": "Ms1pr7SINU",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c380fb4bb16d618c",
+        "key": "PEcWqn3k2f",
+        "expirydate": "11-03-2027",
+        "Allowoffline": false
     }
 ]
