@@ -1486,5 +1486,11 @@
         "key": "Zb2PUSx57g",
         "expirydate": "12-09-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "decd1017ec11b39a",
+        "key": "UERIvrDJpc",
+        "expirydate": "12-07-2026",
+        "Allowoffline": false
     }
 ]
