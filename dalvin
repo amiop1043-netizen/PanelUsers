@@ -1492,5 +1492,11 @@
         "key": "UERIvrDJpc",
         "expirydate": "12-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f1bedd324bae5a29",
+        "key": "31AUKXF0dH",
+        "expirydate": "12-09-2034",
+        "Allowoffline": false
     }
 ]
