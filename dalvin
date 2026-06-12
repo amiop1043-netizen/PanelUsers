@@ -1564,5 +1564,11 @@
         "key": "VBKWnTwc51",
         "expirydate": "12-12-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d87086ad1dc24387",
+        "key": "Ekn5m6tDwi",
+        "expirydate": "12-07-2026",
+        "Allowoffline": false
     }
 ]
