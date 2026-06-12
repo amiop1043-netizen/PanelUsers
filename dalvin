@@ -1510,5 +1510,11 @@
         "key": "ORBIzeno9y",
         "expirydate": "12-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7aa1671814df97f6",
+        "key": "7AZJjWpIgG",
+        "expirydate": "12-07-2026",
+        "Allowoffline": false
     }
 ]
