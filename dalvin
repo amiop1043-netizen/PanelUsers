@@ -1954,5 +1954,11 @@
         "key": "VdZ2qEmKe1",
         "expirydate": "14-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "984020c1d71d8a36",
+        "key": "J19amBRlNb",
+        "expirydate": "14-07-2026",
+        "Allowoffline": false
     }
 ]
