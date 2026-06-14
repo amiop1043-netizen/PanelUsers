@@ -1870,5 +1870,11 @@
         "key": "gdlPfBqOIL",
         "expirydate": "14-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "907db47070119685",
+        "key": "deBNSpca2I",
+        "expirydate": "14-07-2026",
+        "Allowoffline": false
     }
 ]
