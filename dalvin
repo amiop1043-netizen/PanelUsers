@@ -1942,5 +1942,11 @@
         "key": "GI8H3gA64a",
         "expirydate": "14-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d9d051b704850343",
+        "key": "hHtQMJR4si",
+        "expirydate": "14-07-2026",
+        "Allowoffline": false
     }
 ]
