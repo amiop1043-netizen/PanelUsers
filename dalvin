@@ -1876,5 +1876,11 @@
         "key": "deBNSpca2I",
         "expirydate": "14-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "62727ef22926975f",
+        "key": "Y5c76mknsw",
+        "expirydate": "14-07-2026",
+        "Allowoffline": false
     }
 ]
