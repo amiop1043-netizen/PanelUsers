@@ -1996,5 +1996,11 @@
         "key": "zY5RCfnV3E",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f7c0b111a2de465d",
+        "key": "sxO1zcRLai",
+        "expirydate": "15-07-2026",
+        "Allowoffline": false
     }
 ]
