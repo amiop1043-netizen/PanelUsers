@@ -2002,5 +2002,11 @@
         "key": "sxO1zcRLai",
         "expirydate": "15-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6f7e04ed818a94ad",
+        "key": "eGDfckorhn",
+        "expirydate": "15-02-2027",
+        "Allowoffline": false
     }
 ]
