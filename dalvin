@@ -2074,5 +2074,11 @@
         "key": "9PTOgGeot7",
         "expirydate": "16-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eb3da098cb3c93ba",
+        "key": "HSdQaxtM1y",
+        "expirydate": "16-07-2026",
+        "Allowoffline": false
     }
 ]
