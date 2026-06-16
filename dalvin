@@ -2116,5 +2116,11 @@
         "key": "Lhwm7STvsa",
         "expirydate": "16-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e1784d58a63a5bcc",
+        "key": "Rxb5UGSI3v",
+        "expirydate": "16-07-2026",
+        "Allowoffline": false
     }
 ]
