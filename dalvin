@@ -2110,5 +2110,11 @@
         "key": "iGume1AbdU",
         "expirydate": "16-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0ae0dd4467950d1a",
+        "key": "Lhwm7STvsa",
+        "expirydate": "16-08-2026",
+        "Allowoffline": false
     }
 ]
