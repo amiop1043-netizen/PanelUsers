@@ -832,5 +832,11 @@
         "key": "M95NSEZ36q",
         "expirydate": "16-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca58cc0cc6cb83dc",
+        "key": "qnlK9yLfY8",
+        "expirydate": "17-07-2026",
+        "Allowoffline": false
     }
 ]
