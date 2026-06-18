@@ -2338,5 +2338,11 @@
         "key": "LDB12UfNkz",
         "expirydate": "18-02-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c23ba50e4d502efd",
+        "key": "zi5vrflgM9",
+        "expirydate": "18-07-2026",
+        "Allowoffline": false
     }
 ]
