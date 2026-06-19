@@ -2410,5 +2410,11 @@
         "key": "VHKPFN52f4",
         "expirydate": "19-04-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eb37de8b7201d22d",
+        "key": "NqGLrP1Dwf",
+        "expirydate": "19-08-2026",
+        "Allowoffline": false
     }
 ]
