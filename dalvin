@@ -2368,5 +2368,11 @@
         "key": "On17dMZf45",
         "expirydate": "19-09-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "695a565a5005ef8c",
+        "key": "2uW7iEOmkJ",
+        "expirydate": "19-07-2026",
+        "Allowoffline": false
     }
 ]
