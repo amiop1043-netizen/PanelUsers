@@ -2470,5 +2470,11 @@
         "key": "VQvCS8M1lH",
         "expirydate": "19-09-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "60eb099e1c8dafbc",
+        "key": "nyb6TKDNGs",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
     }
 ]
