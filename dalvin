@@ -2596,5 +2596,11 @@
         "key": "DYVbCHN012",
         "expirydate": "21-09-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0b35399876b2090a",
+        "key": "qOKhH8cm4d",
+        "expirydate": "21-06-2036",
+        "Allowoffline": false
     }
 ]
