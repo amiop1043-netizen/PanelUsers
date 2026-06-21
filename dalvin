@@ -2608,5 +2608,11 @@
         "key": "SUVaEP0G8d",
         "expirydate": "21-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "33c865403f1f6644",
+        "key": "Q2poDJTjSx",
+        "expirydate": "21-08-2026",
+        "Allowoffline": false
     }
 ]
