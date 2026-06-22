@@ -2710,5 +2710,11 @@
         "key": "UB6HAKPyfq",
         "expirydate": "22-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c46150e7e6a71fa8",
+        "key": "JE2cyOsG8C",
+        "expirydate": "22-09-2034",
+        "Allowoffline": false
     }
 ]
