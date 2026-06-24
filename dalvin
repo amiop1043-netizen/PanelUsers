@@ -2842,5 +2842,11 @@
         "key": "6AIp3b7Tza",
         "expirydate": "24-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1e7ad77dd4bed11c",
+        "key": "LYcuBiyon1",
+        "expirydate": "24-08-2026",
+        "Allowoffline": false
     }
 ]
