@@ -2902,5 +2902,11 @@
         "key": "NFT4IpBC2Q",
         "expirydate": "25-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9a7455d5fee682d2",
+        "key": "c8vAE0lLUS",
+        "expirydate": "25-09-2034",
+        "Allowoffline": false
     }
 ]
