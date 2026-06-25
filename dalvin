@@ -2920,5 +2920,11 @@
         "key": "su2GOSHVLF",
         "expirydate": "25-09-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6455d70d9f05b585",
+        "key": "sGLb8WfoFa",
+        "expirydate": "25-08-2026",
+        "Allowoffline": false
     }
 ]
