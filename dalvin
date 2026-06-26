@@ -3016,5 +3016,11 @@
         "key": "NJjCRMoK01",
         "expirydate": "26-01-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0c3bdab045068c61",
+        "key": "l92qMIwbzF",
+        "expirydate": "26-09-2034",
+        "Allowoffline": false
     }
 ]
