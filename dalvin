@@ -3094,5 +3094,11 @@
         "key": "HTK6ZqBokY",
         "expirydate": "27-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0fc031bbe2d1f592",
+        "key": "L5lJkQ6H2n",
+        "expirydate": "27-08-2026",
+        "Allowoffline": false
     }
 ]
