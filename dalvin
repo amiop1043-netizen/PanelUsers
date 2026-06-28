@@ -3154,5 +3154,11 @@
         "key": "wri491mVLN",
         "expirydate": "28-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "942ccfeec5f1bc97",
+        "key": "JTCusP6Ko9",
+        "expirydate": "28-08-2026",
+        "Allowoffline": false
     }
 ]
