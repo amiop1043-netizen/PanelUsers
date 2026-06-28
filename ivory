@@ -994,5 +994,11 @@
         "key": "S1MCPiXnpb",
         "expirydate": "28-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a2203dd433cd2381",
+        "key": "HpANtsijef",
+        "expirydate": "28-07-2026",
+        "Allowoffline": false
     }
 ]
