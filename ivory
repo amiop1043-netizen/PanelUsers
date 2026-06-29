@@ -1006,5 +1006,11 @@
         "key": "s1KG2VgaIb",
         "expirydate": "28-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "19d9a7c3fb931146",
+        "key": "eOa8riHKk4",
+        "expirydate": "29-04-2027",
+        "Allowoffline": false
     }
 ]
