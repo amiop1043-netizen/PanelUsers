@@ -1024,5 +1024,11 @@
         "key": "IutdibsV8a",
         "expirydate": "29-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0d9d10787b8726d1",
+        "key": "p95PUwdInc",
+        "expirydate": "29-07-2026",
+        "Allowoffline": false
     }
 ]
