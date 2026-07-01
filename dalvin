@@ -3442,5 +3442,11 @@
         "key": "acZVhtqJ89",
         "expirydate": "01-10-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1ebdf5db4fd2e7a",
+        "key": "ycUoz6PGH0",
+        "expirydate": "01-09-2026",
+        "Allowoffline": false
     }
 ]
