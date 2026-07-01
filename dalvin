@@ -3484,5 +3484,11 @@
         "key": "LeourMEIhR",
         "expirydate": "01-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f561b26d188b6f90",
+        "key": "G7ZTkDayn0",
+        "expirydate": "01-09-2026",
+        "Allowoffline": false
     }
 ]
