@@ -1150,5 +1150,11 @@
         "key": "gPKGVAaxiL",
         "expirydate": "01-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6900251783466725",
+        "key": "7YFyl1t86p",
+        "expirydate": "01-08-2026",
+        "Allowoffline": false
     }
 ]
