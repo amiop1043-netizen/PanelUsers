@@ -3532,5 +3532,11 @@
         "key": "mq8ut20CH3",
         "expirydate": "02-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "34cbde3298146c7e",
+        "key": "sgM5rIcYqF",
+        "expirydate": "02-09-2026",
+        "Allowoffline": false
     }
 ]
