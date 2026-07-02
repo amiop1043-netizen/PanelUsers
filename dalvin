@@ -3526,5 +3526,11 @@
         "key": "kLv3CmOqKy",
         "expirydate": "02-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "547d9e6dc68d309a",
+        "key": "mq8ut20CH3",
+        "expirydate": "02-09-2026",
+        "Allowoffline": false
     }
 ]
