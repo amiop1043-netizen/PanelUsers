@@ -3604,5 +3604,11 @@
         "key": "wBipSPnjf3",
         "expirydate": "03-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bbdd08e42d9a201b",
+        "key": "NEmPCHeOWI",
+        "expirydate": "03-08-2026",
+        "Allowoffline": false
     }
 ]
