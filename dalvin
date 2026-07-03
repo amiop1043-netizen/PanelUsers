@@ -3652,5 +3652,11 @@
         "key": "CMeGYisFo8",
         "expirydate": "03-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b107ee01db5c1901",
+        "key": "TU4v8JFlio",
+        "expirydate": "03-09-2026",
+        "Allowoffline": false
     }
 ]
