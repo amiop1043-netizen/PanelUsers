@@ -3682,5 +3682,11 @@
         "key": "4tp326Ssbm",
         "expirydate": "03-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0412b3f543023fdd",
+        "key": "PLpGfcu3So",
+        "expirydate": "04-09-2026",
+        "Allowoffline": false
     }
 ]
