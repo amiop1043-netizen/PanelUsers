@@ -3946,5 +3946,11 @@
         "key": "ViteFkLq9f",
         "expirydate": "05-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "57cb7de59926a358",
+        "key": "Ryfo5BP8Ai",
+        "expirydate": "05-08-2026",
+        "Allowoffline": false
     }
 ]
