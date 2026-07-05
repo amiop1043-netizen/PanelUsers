@@ -3892,5 +3892,11 @@
         "key": "NC9kFioS6O",
         "expirydate": "05-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dd2f05d05b8240d5",
+        "key": "GAjMLBnPOX",
+        "expirydate": "05-10-2034",
+        "Allowoffline": false
     }
 ]
