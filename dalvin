@@ -3898,5 +3898,11 @@
         "key": "GAjMLBnPOX",
         "expirydate": "05-10-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b106952c082bade5",
+        "key": "713ZgXxls6",
+        "expirydate": "05-08-2026",
+        "Allowoffline": false
     }
 ]
