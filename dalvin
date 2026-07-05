@@ -3778,5 +3778,11 @@
         "key": "WOSiTErU7J",
         "expirydate": "05-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bfbade50cde18288",
+        "key": "NApiGZTPLI",
+        "expirydate": "05-10-2034",
+        "Allowoffline": false
     }
 ]
