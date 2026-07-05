@@ -3784,5 +3784,11 @@
         "key": "NApiGZTPLI",
         "expirydate": "05-10-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "94a4235305affd03",
+        "key": "2h9bnDESQH",
+        "expirydate": "05-10-2026",
+        "Allowoffline": false
     }
 ]
