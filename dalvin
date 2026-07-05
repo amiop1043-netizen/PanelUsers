@@ -3934,5 +3934,11 @@
         "key": "EFM3PrHBD8",
         "expirydate": "05-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2514d43a995bb3f2",
+        "key": "901JTIGQC7",
+        "expirydate": "05-08-2026",
+        "Allowoffline": false
     }
 ]
