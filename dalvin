@@ -4000,5 +4000,11 @@
         "key": "SysYLHvrn8",
         "expirydate": "05-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e8969df8ecc15dfd",
+        "key": "oDqKOu8SVW",
+        "expirydate": "05-08-2026",
+        "Allowoffline": false
     }
 ]
