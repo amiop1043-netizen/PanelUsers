@@ -1420,5 +1420,11 @@
         "key": "W7b2X8sGpo",
         "expirydate": "08-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "081709cec6894203",
+        "key": "AfuBopwWnb",
+        "expirydate": "08-07-2027",
+        "Allowoffline": false
     }
 ]
