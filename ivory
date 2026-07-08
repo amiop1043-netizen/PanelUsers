@@ -1408,5 +1408,11 @@
         "key": "NMBn64SHqb",
         "expirydate": "08-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0a573018835f3ddc",
+        "key": "KkcDAduEyb",
+        "expirydate": "08-08-2026",
+        "Allowoffline": false
     }
 ]
