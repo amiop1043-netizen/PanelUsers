@@ -1414,5 +1414,11 @@
         "key": "KkcDAduEyb",
         "expirydate": "08-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f4948e1650e46255",
+        "key": "W7b2X8sGpo",
+        "expirydate": "08-08-2026",
+        "Allowoffline": false
     }
 ]
