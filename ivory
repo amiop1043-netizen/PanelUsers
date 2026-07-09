@@ -52,5 +52,11 @@
         "key": "zvmoPk1FCp",
         "expirydate": "09-09-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "995ef76d7805b363",
+        "key": "FY0PTp2gy7",
+        "expirydate": "09-09-2030",
+        "Allowoffline": false
     }
 ]
