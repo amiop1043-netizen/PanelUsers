@@ -10,5 +10,11 @@
         "key": "LMP08QZDYX",
         "expirydate": "09-02-2031",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b0202920b9efe9a3",
+        "key": "pQtdB5XHIk",
+        "expirydate": "09-02-2031",
+        "Allowoffline": false
     }
 ]
