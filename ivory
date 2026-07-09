@@ -34,5 +34,11 @@
         "key": "28RfLwPGK6",
         "expirydate": "09-09-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "953080ecfe126a0b",
+        "key": "SrV36QxUBR",
+        "expirydate": "09-09-2030",
+        "Allowoffline": false
     }
 ]
