@@ -178,5 +178,11 @@
         "key": "faCsipnqlP",
         "expirydate": "09-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7ad350004f70b82a",
+        "key": "KBVuZkA2gU",
+        "expirydate": "09-03-2030",
+        "Allowoffline": false
     }
 ]
