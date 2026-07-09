@@ -88,5 +88,11 @@
         "key": "GptOIAJonY",
         "expirydate": "09-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e710026f021369e0",
+        "key": "h58QoMwGOB",
+        "expirydate": "09-08-2026",
+        "Allowoffline": false
     }
 ]
