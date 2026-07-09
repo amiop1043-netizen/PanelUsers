@@ -1468,5 +1468,11 @@
         "key": "ELbiv865p9",
         "expirydate": "09-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "21cef0c4cc05c337",
+        "key": "kI1ZUG8C3i",
+        "expirydate": "09-03-2031",
+        "Allowoffline": false
     }
 ]
