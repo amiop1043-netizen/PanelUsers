@@ -4,5 +4,11 @@
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "36841d2adc660538",
+        "key": "LMP08QZDYX",
+        "expirydate": "09-02-2031",
+        "Allowoffline": false
     }
 ]
