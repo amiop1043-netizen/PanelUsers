@@ -262,5 +262,11 @@
         "key": "o28HGOJtEL",
         "expirydate": "09-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cab2e9f062de589a",
+        "key": "FL34mi0Tja",
+        "expirydate": "09-05-2028",
+        "Allowoffline": false
     }
 ]
