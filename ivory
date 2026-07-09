@@ -112,5 +112,11 @@
         "key": "sSdmRgbK2q",
         "expirydate": "09-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4ec3c141cb085400",
+        "key": "OZ2p8WdoSE",
+        "expirydate": "09-03-2030",
+        "Allowoffline": false
     }
 ]
