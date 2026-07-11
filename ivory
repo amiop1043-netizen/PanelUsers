@@ -466,5 +466,11 @@
         "key": "REuliChDL7",
         "expirydate": "11-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6180fcc4cbdf7f8",
+        "key": "i7kn4am0Wo",
+        "expirydate": "11-08-2026",
+        "Allowoffline": false
     }
 ]
