@@ -466,5 +466,11 @@
         "key": "arcnOK2UGS",
         "expirydate": "31-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "947dcd481c445a02",
+        "key": "REuliChDL7",
+        "expirydate": "11-08-2026",
+        "Allowoffline": false
     }
 ]
