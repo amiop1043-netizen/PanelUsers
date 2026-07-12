@@ -664,5 +664,11 @@
         "key": "KSPjcLbXoM",
         "expirydate": "12-04-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "74a79a30e47afd7a",
+        "key": "E4eR6M1Kru",
+        "expirydate": "12-04-2029",
+        "Allowoffline": false
     }
 ]
