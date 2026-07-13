@@ -217,15 +217,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-DB00-SECU-4F3C",
-            "device_id": "c3629e6f-0e05-41b0-a407-687926e87a8f",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-C1E9-SECU-5C29",
             "device_id": "651384fb-751e-4b07-93c5-96db6689f606",
             "expiry_date": "2069-12-31",
@@ -237,15 +228,6 @@
         {
             "key": "MTX-FA50-SECU-F046",
             "device_id": "966f951b-ff07-4cbc-b8dd-41959bbaca37",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2025-12-30",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-8206-SECU-65B0",
-            "device_id": "ffce9a5a-03de-42e4-94c8-fa0961fffa8d",
             "expiry_date": "2069-12-31",
             "active": true,
             "status": "active",
@@ -379,15 +361,6 @@
             "max_devices": 1
         },
         {
-            "key": "MTX-FBB7-SECU-7E26",
-            "device_id": "c3629e6f-0e05-41b0-a407-687926e87a8f",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2026-01-01",
-            "max_devices": 1
-        },
-        {
             "key": "MTX-7FB6-SECU-5A86",
             "device_id": "073ac450-8f52-4135-bdc1-ece6ae4b8650",
             "expiry_date": "2069-12-31",
@@ -421,15 +394,6 @@
             "active": true,
             "status": "active",
             "created_date": "2026-01-01",
-            "max_devices": 1
-        },
-        {
-            "key": "MTX-129C-SECU-770D",
-            "device_id": "c3629e6f-0e05-41b0-a407-687926e87a8f",
-            "expiry_date": "2069-12-31",
-            "active": true,
-            "status": "active",
-            "created_date": "2026-01-02",
             "max_devices": 1
         },
         {
