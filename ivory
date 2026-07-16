@@ -832,5 +832,11 @@
         "key": "WiRV24dqnu",
         "expirydate": "16-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8776a1381fe324bf",
+        "key": "Ww1dA8Sa7t",
+        "expirydate": "16-08-2026",
+        "Allowoffline": false
     }
 ]
