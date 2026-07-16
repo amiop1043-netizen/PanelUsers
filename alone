@@ -226,5 +226,11 @@
         "key": "BLfnvrTyeh",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5e1aecb66b024789",
+        "key": "DtM2LmBleo",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
     }
 ]
