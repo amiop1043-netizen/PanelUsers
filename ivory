@@ -808,5 +808,11 @@
         "key": "XaPYNrSBsT",
         "expirydate": "16-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c09ad085db42b194",
+        "key": "0l53vRGHfK",
+        "expirydate": "16-03-2030",
+        "Allowoffline": false
     }
 ]
