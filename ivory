@@ -868,5 +868,11 @@
         "key": "fgFDyRSNEL",
         "expirydate": "17-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5584f815ae2a63a2",
+        "key": "3RsIqM2EKd",
+        "expirydate": "17-08-2026",
+        "Allowoffline": false
     }
 ]
