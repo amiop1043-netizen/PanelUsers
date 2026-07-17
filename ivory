@@ -928,5 +928,11 @@
         "key": "ngYN5ZVKml",
         "expirydate": "17-03-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4750c8e8d0e3097f",
+        "key": "Zc5anAdeM3",
+        "expirydate": "17-04-2029",
+        "Allowoffline": false
     }
 ]
