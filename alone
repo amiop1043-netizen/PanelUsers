@@ -232,5 +232,11 @@
         "key": "DtM2LmBleo",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d29979eeb5238f40",
+        "key": "T2IcCpbHMs",
+        "expirydate": "17-08-2026",
+        "Allowoffline": false
     }
 ]
