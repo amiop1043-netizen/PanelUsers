@@ -970,5 +970,11 @@
         "key": "IZcp07wHTX",
         "expirydate": "18-04-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "451163fced24d561",
+        "key": "ztZ0sB9j7f",
+        "expirydate": "19-03-2030",
+        "Allowoffline": false
     }
 ]
