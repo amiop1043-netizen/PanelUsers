@@ -1006,5 +1006,11 @@
         "key": "GZK43NdXnA",
         "expirydate": "30-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bde39bb214e101c2",
+        "key": "ZExkO1WY67",
+        "expirydate": "19-08-2026",
+        "Allowoffline": false
     }
 ]
