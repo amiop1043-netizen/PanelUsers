@@ -1012,5 +1012,11 @@
         "key": "SpokmdVPIW",
         "expirydate": "20-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a63433d3c79d2aa3",
+        "key": "cmWzq1br7k",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
     }
 ]
