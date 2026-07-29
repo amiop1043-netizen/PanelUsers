@@ -1180,5 +1180,11 @@
         "key": "tvRCNrbw",
         "expirydate": "29-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b87809ffead6bf71",
+        "key": "c2XDpC7H",
+        "expirydate": "29-08-2026",
+        "Allowoffline": true
     }
 ]
