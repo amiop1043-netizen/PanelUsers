@@ -208,5 +208,11 @@
         "key": "Mg2sLtxc",
         "expirydate": "31-07-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "47cd6a57f79f04f5",
+        "key": "cQdGk9eJ",
+        "expirydate": "31-07-2036",
+        "Allowoffline": true
     }
 ]
