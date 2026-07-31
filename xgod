@@ -202,5 +202,11 @@
         "key": "NnkwFi3t",
         "expirydate": "31-07-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "34fbba0313aa244b",
+        "key": "Mg2sLtxc",
+        "expirydate": "31-07-2036",
+        "Allowoffline": true
     }
 ]
