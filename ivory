@@ -106,5 +106,11 @@
         "key": "D9aF5ZOM",
         "expirydate": "01-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b07aeadea3a26ea9",
+        "key": "DJai2c64",
+        "expirydate": "01-04-2030",
+        "Allowoffline": true
     }
 ]
