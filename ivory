@@ -154,5 +154,11 @@
         "key": "EZHWrcnb",
         "expirydate": "01-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0e0557c435b3afca",
+        "key": "4G7FUKAr",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
     }
 ]
