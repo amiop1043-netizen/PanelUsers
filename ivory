@@ -10,5 +10,11 @@
         "key": "dihuv2tf",
         "expirydate": "01-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "891c39b24b18ad7c",
+        "key": "UH8zLohY",
+        "expirydate": "01-04-2030",
+        "Allowoffline": true
     }
 ]
