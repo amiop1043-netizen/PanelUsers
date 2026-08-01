@@ -232,5 +232,11 @@
         "key": "cRdTo70r",
         "expirydate": "01-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "200a795e4b3c4f34",
+        "key": "sCUNeZxV",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
     }
 ]
