@@ -148,5 +148,11 @@
         "key": "cAO0zaRT",
         "expirydate": "21-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f394e9a14cf59872",
+        "key": "EZHWrcnb",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
     }
 ]
