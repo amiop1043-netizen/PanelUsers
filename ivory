@@ -112,5 +112,11 @@
         "key": "DJai2c64",
         "expirydate": "01-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ee35b0055ab8a2d9",
+        "key": "g0VwAMES",
+        "expirydate": "01-04-2030",
+        "Allowoffline": true
     }
 ]
