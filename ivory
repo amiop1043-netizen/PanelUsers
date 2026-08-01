@@ -22,5 +22,11 @@
         "key": "TyRGksQ8",
         "expirydate": "01-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8e81bc80604f9a0b",
+        "key": "VDNkeAfW",
+        "expirydate": "01-04-2030",
+        "Allowoffline": true
     }
 ]
