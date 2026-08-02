@@ -442,5 +442,11 @@
         "key": "LxlZWTcp",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7100e2842c35187c",
+        "key": "miEHP4wM",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true
     }
 ]
