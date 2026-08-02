@@ -262,5 +262,11 @@
         "key": "vGCU189D",
         "expirydate": "02-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e23a3000aa22865b",
+        "key": "VI2bulpO",
+        "expirydate": "22-08-2026",
+        "Allowoffline": true
     }
 ]
