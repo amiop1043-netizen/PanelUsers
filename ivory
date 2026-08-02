@@ -256,5 +256,11 @@
         "key": "L0FyYM46",
         "expirydate": "17-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "160025237e4a6326",
+        "key": "vGCU189D",
+        "expirydate": "02-04-2030",
+        "Allowoffline": true
     }
 ]
