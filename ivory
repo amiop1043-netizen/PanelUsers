@@ -280,5 +280,11 @@
         "key": "5WBsNHKV",
         "expirydate": "22-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0632314495098928",
+        "key": "EZfmeWnj",
+        "expirydate": "02-05-2029",
+        "Allowoffline": true
     }
 ]
