@@ -250,5 +250,11 @@
         "key": "w8gpaNr0",
         "expirydate": "07-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a6273314e9c3a8bf",
+        "key": "L0FyYM46",
+        "expirydate": "17-08-2026",
+        "Allowoffline": true
     }
 ]
