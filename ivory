@@ -436,5 +436,11 @@
         "key": "nYO6xJFG",
         "expirydate": "02-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7f96e49dea50c345",
+        "key": "LxlZWTcp",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true
     }
 ]
