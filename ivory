@@ -298,11 +298,5 @@
         "key": "8AV92LKZ",
         "expirydate": "02-04-2030",
         "Allowoffline": true
-    },
-    {
-        "device_id": "7b4a05fee18ba8ca",
-        "key": "kdrtZw8z",
-        "expirydate": "02-05-2029",
-        "Allowoffline": true
     }
 ]
