@@ -286,5 +286,11 @@
         "key": "EZfmeWnj",
         "expirydate": "02-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a31c1350b2a6f096",
+        "key": "WSD2ks9g",
+        "expirydate": "02-05-2029",
+        "Allowoffline": true
     }
 ]
