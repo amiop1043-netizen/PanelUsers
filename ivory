@@ -520,5 +520,11 @@
         "key": "IHL0pz76",
         "expirydate": "02-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e95666f3cff86b80",
+        "key": "tsk8PvK7",
+        "expirydate": "02-04-2030",
+        "Allowoffline": true
     }
 ]
