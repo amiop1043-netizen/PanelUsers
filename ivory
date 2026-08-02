@@ -328,5 +328,11 @@
         "key": "ACikgofc",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "49f5eb38ca66d7ea",
+        "key": "9BMA3cwW",
+        "expirydate": "02-05-2029",
+        "Allowoffline": true
     }
 ]
