@@ -484,5 +484,11 @@
         "key": "vc1tbAon",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "475a8ec43227abf7",
+        "key": "d9nbLNVc",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true
     }
 ]
