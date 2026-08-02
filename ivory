@@ -310,5 +310,11 @@
         "key": "sjmaVMnp",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1e0d4ea5ad4936c2",
+        "key": "3GORvw8D",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true
     }
 ]
