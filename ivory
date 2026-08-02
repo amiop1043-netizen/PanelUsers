@@ -292,5 +292,11 @@
         "key": "WSD2ks9g",
         "expirydate": "02-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a273042082247fd2",
+        "key": "8AV92LKZ",
+        "expirydate": "02-04-2030",
+        "Allowoffline": true
     }
 ]
