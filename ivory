@@ -244,5 +244,11 @@
         "key": "5BueONhm",
         "expirydate": "02-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "700240c7100482b8",
+        "key": "w8gpaNr0",
+        "expirydate": "07-08-2026",
+        "Allowoffline": true
     }
 ]
