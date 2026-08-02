@@ -190,5 +190,11 @@
         "key": "v0brzVIP",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7e98ae8680eaaa05",
+        "key": "3KuFjlAL",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true
     }
 ]
