@@ -322,5 +322,11 @@
         "key": "rGzl2XC8",
         "expirydate": "02-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7586e2547dfcf828",
+        "key": "ACikgofc",
+        "expirydate": "02-09-2026",
+        "Allowoffline": true
     }
 ]
