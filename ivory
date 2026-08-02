@@ -214,5 +214,11 @@
         "key": "rmIR0USC",
         "expirydate": "07-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3c7395a0dc4b5699",
+        "key": "qMtOsIAf",
+        "expirydate": "02-04-2030",
+        "Allowoffline": true
     }
 ]
