@@ -580,5 +580,11 @@
         "key": "6709ZESo",
         "expirydate": "03-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "66e8452071668c0e",
+        "key": "bldyKH91",
+        "expirydate": "03-04-2030",
+        "Allowoffline": true
     }
 ]
