@@ -226,5 +226,11 @@
         "key": "OBY1Q43W",
         "expirydate": "02-08-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "238a07b11639d6c6",
+        "key": "BvRFbV5a",
+        "expirydate": "03-08-2036",
+        "Allowoffline": true
     }
 ]
