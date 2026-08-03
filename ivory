@@ -592,5 +592,11 @@
         "key": "RcmJn9gb",
         "expirydate": "03-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2d93df20290307b0",
+        "key": "MV9B3cgo",
+        "expirydate": "03-04-2030",
+        "Allowoffline": true
     }
 ]
