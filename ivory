@@ -634,5 +634,11 @@
         "key": "E3FOsRx5",
         "expirydate": "03-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e82c5f89b24b004f",
+        "key": "nlz1MhgF",
+        "expirydate": "03-04-2030",
+        "Allowoffline": true
     }
 ]
