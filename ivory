@@ -598,5 +598,11 @@
         "key": "MV9B3cgo",
         "expirydate": "03-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7067262b55e1de08",
+        "key": "lMRhfyAG",
+        "expirydate": "03-04-2030",
+        "Allowoffline": true
     }
 ]
