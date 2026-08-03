@@ -232,5 +232,11 @@
         "key": "BvRFbV5a",
         "expirydate": "03-08-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b85b6c541bfc5d80",
+        "key": "CIj1sebB",
+        "expirydate": "03-08-2036",
+        "Allowoffline": true
     }
 ]
