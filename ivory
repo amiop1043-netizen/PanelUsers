@@ -574,5 +574,11 @@
         "key": "riHsD162",
         "expirydate": "23-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "48aad0017a2ca635",
+        "key": "6709ZESo",
+        "expirydate": "03-04-2030",
+        "Allowoffline": true
     }
 ]
