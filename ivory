@@ -556,5 +556,11 @@
         "key": "BhoMSg6m",
         "expirydate": "03-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1034a76ec359ef5b",
+        "key": "OlGI7J1j",
+        "expirydate": "03-04-2030",
+        "Allowoffline": true
     }
 ]
