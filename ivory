@@ -802,5 +802,11 @@
         "key": "tJUQBOT6",
         "expirydate": "04-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "15efbe02d15be92b",
+        "key": "td80n29s",
+        "expirydate": "04-04-2030",
+        "Allowoffline": true
     }
 ]
