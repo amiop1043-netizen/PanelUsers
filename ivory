@@ -796,5 +796,11 @@
         "key": "retyPz9M",
         "expirydate": "04-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d30c1307a0a16caa",
+        "key": "HK1oQsGd",
+        "expirydate": "04-04-2030",
+        "Allowoffline": true
     }
 ]
