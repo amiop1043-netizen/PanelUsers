@@ -736,5 +736,11 @@
         "key": "HRGTBrhs",
         "expirydate": "04-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8d04fc812a0e7385",
+        "key": "SKuLIBAv",
+        "expirydate": "04-09-2026",
+        "Allowoffline": true
     }
 ]
