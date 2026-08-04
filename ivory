@@ -742,5 +742,11 @@
         "key": "SKuLIBAv",
         "expirydate": "04-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9a9667cedf43feba",
+        "key": "F3STX5pM",
+        "expirydate": "04-09-2026",
+        "Allowoffline": true
     }
 ]
