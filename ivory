@@ -730,5 +730,11 @@
         "key": "JLBADsgQ",
         "expirydate": "04-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "eb7fff9479e37c67",
+        "key": "HRGTBrhs",
+        "expirydate": "04-09-2026",
+        "Allowoffline": true
     }
 ]
