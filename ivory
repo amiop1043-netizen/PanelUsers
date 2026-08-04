@@ -688,5 +688,11 @@
         "key": "cRFLus2g",
         "expirydate": "03-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7100e2842c35187c",
+        "key": "zrEQgdO8",
+        "expirydate": "04-04-2030",
+        "Allowoffline": true
     }
 ]
