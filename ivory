@@ -754,5 +754,11 @@
         "key": "kDAiRNQm",
         "expirydate": "04-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a4eac7cceaf5b755",
+        "key": "1XnFlSM6",
+        "expirydate": "04-04-2030",
+        "Allowoffline": true
     }
 ]
