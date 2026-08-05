@@ -874,5 +874,11 @@
         "key": "fabcZuOl",
         "expirydate": "05-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "cff9284527626d57",
+        "key": "KcE3M4s2",
+        "expirydate": "05-09-2026",
+        "Allowoffline": true
     }
 ]
