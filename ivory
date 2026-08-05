@@ -826,5 +826,11 @@
         "key": "Eu2XDcPf",
         "expirydate": "05-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "78e78681008ee0e1",
+        "key": "WSJ0Foi1",
+        "expirydate": "05-09-2026",
+        "Allowoffline": true
     }
 ]
