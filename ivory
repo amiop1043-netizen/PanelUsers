@@ -832,5 +832,11 @@
         "key": "WSJ0Foi1",
         "expirydate": "05-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7f5ff98881b87dc8",
+        "key": "v6uUnNCP",
+        "expirydate": "05-09-2026",
+        "Allowoffline": true
     }
 ]
