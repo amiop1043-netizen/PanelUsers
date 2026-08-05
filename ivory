@@ -886,5 +886,11 @@
         "key": "flS47GB9",
         "expirydate": "05-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ddf2ef8483695174",
+        "key": "w7VbhUIL",
+        "expirydate": "05-09-2026",
+        "Allowoffline": true
     }
 ]
