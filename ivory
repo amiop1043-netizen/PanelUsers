@@ -916,5 +916,11 @@
         "key": "f16Rh3Pk",
         "expirydate": "06-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "394edb38e8c89ae1",
+        "key": "rS64asDO",
+        "expirydate": "06-09-2026",
+        "Allowoffline": true
     }
 ]
