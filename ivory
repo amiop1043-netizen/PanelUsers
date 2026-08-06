@@ -922,5 +922,11 @@
         "key": "rS64asDO",
         "expirydate": "06-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ca55214456b91feb",
+        "key": "Ay0plw5v",
+        "expirydate": "06-09-2026",
+        "Allowoffline": true
     }
 ]
