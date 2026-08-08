@@ -970,5 +970,11 @@
         "key": "3CKNXil0",
         "expirydate": "08-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2692c5f1a201d0a6",
+        "key": "g3w65mWI",
+        "expirydate": "08-09-2026",
+        "Allowoffline": true
     }
 ]
