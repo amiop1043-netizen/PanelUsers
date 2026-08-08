@@ -976,5 +976,11 @@
         "key": "g3w65mWI",
         "expirydate": "08-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ba6dcf9b793399f6",
+        "key": "NgMVynAW",
+        "expirydate": "08-04-2030",
+        "Allowoffline": true
     }
 ]
