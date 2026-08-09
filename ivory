@@ -1036,5 +1036,11 @@
         "key": "CkgDMliY",
         "expirydate": "09-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6b7a8615ccfd5081",
+        "key": "2jGVwufN",
+        "expirydate": "09-04-2030",
+        "Allowoffline": true
     }
 ]
