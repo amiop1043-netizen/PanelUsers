@@ -286,5 +286,11 @@
         "key": "RGorS9dm",
         "expirydate": "10-08-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "51d1ec13af5551ef",
+        "key": "D80247mw",
+        "expirydate": "10-09-2026",
+        "Allowoffline": true
     }
 ]
