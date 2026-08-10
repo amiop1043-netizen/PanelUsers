@@ -280,5 +280,11 @@
         "key": "qBDNmVSL",
         "expirydate": "06-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3ac8df8aa4478a62",
+        "key": "RGorS9dm",
+        "expirydate": "10-08-2036",
+        "Allowoffline": true
     }
 ]
