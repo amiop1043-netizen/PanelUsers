@@ -1150,5 +1150,11 @@
         "key": "ZRTO36Ws",
         "expirydate": "11-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9ec5cc3e4812cdab",
+        "key": "YSXLNF5H",
+        "expirydate": "11-04-2030",
+        "Allowoffline": true
     }
 ]
