@@ -292,5 +292,11 @@
         "key": "D80247mw",
         "expirydate": "10-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a4b4dc3409ca502f",
+        "key": "WiNnlFMk",
+        "expirydate": "12-09-2026",
+        "Allowoffline": true
     }
 ]
