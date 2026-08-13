@@ -1228,5 +1228,11 @@
         "key": "Ct176xEh",
         "expirydate": "13-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "404bb4a27676982a",
+        "key": "vdoFO3Rp",
+        "expirydate": "13-09-2026",
+        "Allowoffline": true
     }
 ]
