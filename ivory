@@ -1234,5 +1234,11 @@
         "key": "vdoFO3Rp",
         "expirydate": "13-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "70aa858c68155644",
+        "key": "jRW65BYS",
+        "expirydate": "13-09-2026",
+        "Allowoffline": true
     }
 ]
