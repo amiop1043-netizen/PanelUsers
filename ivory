@@ -1240,5 +1240,11 @@
         "key": "jRW65BYS",
         "expirydate": "13-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2ddbdf169796de34",
+        "key": "KOiFEaB2",
+        "expirydate": "13-09-2026",
+        "Allowoffline": true
     }
 ]
