@@ -1270,5 +1270,11 @@
         "key": "OUWK87Gy",
         "expirydate": "14-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a76332d94006f0d2",
+        "key": "FVz904Gx",
+        "expirydate": "14-05-2029",
+        "Allowoffline": true
     }
 ]
