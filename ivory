@@ -1264,5 +1264,11 @@
         "key": "9dklULRm",
         "expirydate": "14-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b1c029732e836b9f",
+        "key": "OUWK87Gy",
+        "expirydate": "14-04-2030",
+        "Allowoffline": true
     }
 ]
