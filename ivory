@@ -1276,5 +1276,11 @@
         "key": "FVz904Gx",
         "expirydate": "14-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "76a416a3fb001096",
+        "key": "PuxZDlei",
+        "expirydate": "14-09-2026",
+        "Allowoffline": true
     }
 ]
