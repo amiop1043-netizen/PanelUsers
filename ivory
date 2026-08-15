@@ -1300,5 +1300,11 @@
         "key": "VukslM3z",
         "expirydate": "15-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a165a19ee68f5589",
+        "key": "XkSqg19f",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
