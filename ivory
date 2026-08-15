@@ -1288,5 +1288,11 @@
         "key": "giAUa9Qs",
         "expirydate": "15-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "16c86c60cb662333",
+        "key": "3VMDKIsn",
+        "expirydate": "15-04-2030",
+        "Allowoffline": true
     }
 ]
