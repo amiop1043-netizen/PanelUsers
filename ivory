@@ -1324,5 +1324,11 @@
         "key": "RlOFkCpo",
         "expirydate": "15-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5affa60e545cbc1a",
+        "key": "Kjz90Foi",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
