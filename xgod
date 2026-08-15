@@ -298,5 +298,11 @@
         "key": "WiNnlFMk",
         "expirydate": "12-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "46618ccc203db9ef",
+        "key": "jleScPwb",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
