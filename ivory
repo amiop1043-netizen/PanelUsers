@@ -1330,5 +1330,11 @@
         "key": "Kjz90Foi",
         "expirydate": "15-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1356b39fb130ee56",
+        "key": "zJl6AQhu",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
