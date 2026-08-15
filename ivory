@@ -1318,5 +1318,11 @@
         "key": "psG2bKJ9",
         "expirydate": "15-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b179924811d71725",
+        "key": "cmrixzT3",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
