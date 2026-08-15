@@ -1294,5 +1294,11 @@
         "key": "3VMDKIsn",
         "expirydate": "15-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5f0da60855d6c02f",
+        "key": "VukslM3z",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
