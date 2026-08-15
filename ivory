@@ -1318,5 +1318,11 @@
         "key": "cmrixzT3",
         "expirydate": "15-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9bf58e83f5576b7",
+        "key": "RlOFkCpo",
+        "expirydate": "15-09-2026",
+        "Allowoffline": true
     }
 ]
