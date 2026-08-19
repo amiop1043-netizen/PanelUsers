@@ -1474,5 +1474,11 @@
         "key": "6V5FRrq2",
         "expirydate": "19-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9f590a2c946e7572",
+        "key": "XorOStPK",
+        "expirydate": "19-09-2026",
+        "Allowoffline": true
     }
 ]
