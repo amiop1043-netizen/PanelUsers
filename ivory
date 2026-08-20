@@ -1498,5 +1498,11 @@
         "key": "skfiYuE8",
         "expirydate": "20-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6988619d6262f770",
+        "key": "CYFI8fWg",
+        "expirydate": "20-09-2026",
+        "Allowoffline": true
     }
 ]
