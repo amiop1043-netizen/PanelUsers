@@ -1660,5 +1660,11 @@
         "key": "yit21aOu",
         "expirydate": "24-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "27efcecd6d2cdb74",
+        "key": "GB28sbDh",
+        "expirydate": "24-09-2026",
+        "Allowoffline": true
     }
 ]
