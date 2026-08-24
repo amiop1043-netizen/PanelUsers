@@ -1654,5 +1654,11 @@
         "key": "JzkDB6PC",
         "expirydate": "24-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1971448f8964e43b",
+        "key": "yit21aOu",
+        "expirydate": "24-09-2026",
+        "Allowoffline": true
     }
 ]
