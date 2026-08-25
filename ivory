@@ -1666,5 +1666,11 @@
         "key": "GB28sbDh",
         "expirydate": "24-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4a2cd9812589dd6f",
+        "key": "8lasrjVg",
+        "expirydate": "25-09-2026",
+        "Allowoffline": true
     }
 ]
