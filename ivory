@@ -1708,11 +1708,5 @@
         "key": "ex9EPY2a",
         "expirydate": "26-03-2031",
         "Allowoffline": true
-    },
-    {
-        "device_id": "2986ad24d0530d6c",
-        "key": "pg2bwADT",
-        "expirydate": "26-09-2026",
-        "Allowoffline": true
     }
 ]
