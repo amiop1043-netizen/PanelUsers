@@ -1714,5 +1714,11 @@
         "key": "UauHDncC",
         "expirydate": "26-04-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b29d0740fff9a53e",
+        "key": "kUi4vFxf",
+        "expirydate": "26-04-2030",
+        "Allowoffline": true
     }
 ]
