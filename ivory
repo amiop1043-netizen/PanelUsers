@@ -1762,5 +1762,11 @@
         "key": "Bi3H5VAM",
         "expirydate": "27-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ef36d80c754241d9",
+        "key": "2wzjn4ph",
+        "expirydate": "27-05-2029",
+        "Allowoffline": true
     }
 ]
