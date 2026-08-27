@@ -1744,5 +1744,11 @@
         "key": "b2PoplDe",
         "expirydate": "27-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "68d76213bb295a52",
+        "key": "2asSwpOn",
+        "expirydate": "27-04-2030",
+        "Allowoffline": true
     }
 ]
