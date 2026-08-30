@@ -1846,5 +1846,11 @@
         "key": "5pF8J6hB",
         "expirydate": "30-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "30fead104fdbb38e",
+        "key": "CptEHLei",
+        "expirydate": "30-09-2026",
+        "Allowoffline": true
     }
 ]
