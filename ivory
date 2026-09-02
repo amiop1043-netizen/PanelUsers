@@ -1882,5 +1882,11 @@
         "key": "WX6K1Gmh",
         "expirydate": "02-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "12b3982b6e334ac7",
+        "key": "uV96MwAe",
+        "expirydate": "02-04-2031",
+        "Allowoffline": true
     }
 ]
