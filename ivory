@@ -1882,5 +1882,11 @@
         "key": "74GMa2if",
         "expirydate": "01-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "cda1bf345a1b285b",
+        "key": "WX6K1Gmh",
+        "expirydate": "02-10-2026",
+        "Allowoffline": true
     }
 ]
