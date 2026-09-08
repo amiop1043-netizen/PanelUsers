@@ -1972,5 +1972,11 @@
         "key": "0Yocw8FP",
         "expirydate": "08-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "903886c6b8360035",
+        "key": "CBA18Du6",
+        "expirydate": "08-10-2026",
+        "Allowoffline": true
     }
 ]
