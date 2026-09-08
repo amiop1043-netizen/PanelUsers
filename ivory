@@ -1978,5 +1978,11 @@
         "key": "CBA18Du6",
         "expirydate": "08-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "08679b82672ff34d",
+        "key": "SDOLK62Q",
+        "expirydate": "08-10-2026",
+        "Allowoffline": true
     }
 ]
