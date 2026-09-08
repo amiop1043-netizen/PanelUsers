@@ -2014,5 +2014,11 @@
         "key": "mJePOS9s",
         "expirydate": "08-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "cb8de785649aae7d",
+        "key": "3McTtYSH",
+        "expirydate": "08-10-2026",
+        "Allowoffline": true
     }
 ]
