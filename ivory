@@ -1990,5 +1990,11 @@
         "key": "Q1NMVGX6",
         "expirydate": "08-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ed9fe2adf30b53c0",
+        "key": "alWgDC0z",
+        "expirydate": "08-10-2026",
+        "Allowoffline": true
     }
 ]
