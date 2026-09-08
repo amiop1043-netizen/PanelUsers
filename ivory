@@ -2026,5 +2026,11 @@
         "key": "g86fouSM",
         "expirydate": "08-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "27bc379218fd2c78",
+        "key": "i5928nYI",
+        "expirydate": "08-10-2026",
+        "Allowoffline": true
     }
 ]
