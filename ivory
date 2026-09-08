@@ -1984,5 +1984,11 @@
         "key": "SDOLK62Q",
         "expirydate": "08-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "be78aaf4cb2af047",
+        "key": "Q1NMVGX6",
+        "expirydate": "08-10-2026",
+        "Allowoffline": true
     }
 ]
