@@ -2092,5 +2092,11 @@
         "key": "RufehTKV",
         "expirydate": "09-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "86963ce1735d0db1",
+        "key": "Cp62jAZa",
+        "expirydate": "09-06-2029",
+        "Allowoffline": true
     }
 ]
