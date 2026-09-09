@@ -2092,5 +2092,11 @@
         "key": "Cp62jAZa",
         "expirydate": "09-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "74a79a30e47afd7a",
+        "key": "al5Yifpk",
+        "expirydate": "09-10-2026",
+        "Allowoffline": true
     }
 ]
