@@ -2068,5 +2068,11 @@
         "key": "9xXPp7mg",
         "expirydate": "09-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e50829998495e8f7",
+        "key": "FwdDXOr7",
+        "expirydate": "09-10-2026",
+        "Allowoffline": true
     }
 ]
