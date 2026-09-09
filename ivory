@@ -2062,5 +2062,11 @@
         "key": "JjcnutNT",
         "expirydate": "09-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "239ee788d5237af1",
+        "key": "9xXPp7mg",
+        "expirydate": "09-10-2026",
+        "Allowoffline": true
     }
 ]
