@@ -2116,5 +2116,11 @@
         "key": "LmSaiWNu",
         "expirydate": "10-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "cb9496dd775dd724",
+        "key": "8oywFnNS",
+        "expirydate": "10-10-2026",
+        "Allowoffline": true
     }
 ]
