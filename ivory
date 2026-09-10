@@ -2110,5 +2110,11 @@
         "key": "Hhe7smSN",
         "expirydate": "10-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7074a33c554cfe5b",
+        "key": "LmSaiWNu",
+        "expirydate": "10-10-2026",
+        "Allowoffline": true
     }
 ]
