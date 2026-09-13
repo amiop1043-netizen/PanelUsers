@@ -2164,5 +2164,11 @@
         "key": "YuPgfho4",
         "expirydate": "13-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fddc32560375a5a3",
+        "key": "CNs2Yump",
+        "expirydate": "13-10-2026",
+        "Allowoffline": true
     }
 ]
