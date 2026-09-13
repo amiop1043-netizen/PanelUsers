@@ -2170,5 +2170,11 @@
         "key": "CNs2Yump",
         "expirydate": "13-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "85cde92a8b286f2b",
+        "key": "GMLRBdsz",
+        "expirydate": "13-10-2026",
+        "Allowoffline": true
     }
 ]
