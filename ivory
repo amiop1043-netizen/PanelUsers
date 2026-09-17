@@ -2242,5 +2242,11 @@
         "key": "O4alowG5",
         "expirydate": "17-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ZXSANAN4820",
+        "key": "Hrbh8mAp",
+        "expirydate": "17-05-2030",
+        "Allowoffline": true
     }
 ]
