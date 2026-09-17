@@ -2254,5 +2254,11 @@
         "key": "FDs3xJe5",
         "expirydate": "17-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ad0104f926fcd9a5",
+        "key": "7kmA1vDW",
+        "expirydate": "17-05-2030",
+        "Allowoffline": true
     }
 ]
