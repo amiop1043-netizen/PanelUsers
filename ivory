@@ -2278,5 +2278,11 @@
         "key": "OYAwPBC8",
         "expirydate": "19-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "818dff6b07159ee7",
+        "key": "hiMOSCm3",
+        "expirydate": "19-06-2029",
+        "Allowoffline": true
     }
 ]
