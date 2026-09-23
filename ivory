@@ -2350,5 +2350,11 @@
         "key": "rnfbOmV5",
         "expirydate": "23-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f09368703e3aae20",
+        "key": "xh04KBJe",
+        "expirydate": "23-05-2030",
+        "Allowoffline": true
     }
 ]
