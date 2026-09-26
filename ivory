@@ -2434,5 +2434,11 @@
         "key": "rmDSY2fo",
         "expirydate": "26-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c6d860bb0a1bd916",
+        "key": "OMPz9Hju",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
     }
 ]
