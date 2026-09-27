@@ -166,5 +166,11 @@
         "key": "TUSbldxj",
         "expirydate": "27-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6f573c1858baee7d",
+        "key": "Y4fpnQ19",
+        "expirydate": "27-10-2026",
+        "Allowoffline": true
     }
 ]
