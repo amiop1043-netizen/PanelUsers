@@ -28,5 +28,11 @@
         "key": "lenAhBip",
         "expirydate": "27-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b7e244900005dc42",
+        "key": "U5TQmbCd",
+        "expirydate": "27-05-2030",
+        "Allowoffline": true
     }
 ]
