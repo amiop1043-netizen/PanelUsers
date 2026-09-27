@@ -190,5 +190,11 @@
         "key": "iSsPBHTx",
         "expirydate": "27-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fa1e4e02bbbb3d1f",
+        "key": "gXc3bSTD",
+        "expirydate": "27-05-2030",
+        "Allowoffline": true
     }
 ]
