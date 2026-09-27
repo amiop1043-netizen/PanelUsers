@@ -310,11 +310,5 @@
         "key": "inSFrsJ8",
         "expirydate": "27-05-2030",
         "Allowoffline": true
-    },
-    {
-        "device_id": "46f27fd44c61d474",
-        "key": "H2sl4IdS",
-        "expirydate": "27-05-2030",
-        "Allowoffline": true
     }
 ]
