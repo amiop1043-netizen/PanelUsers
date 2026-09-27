@@ -238,5 +238,11 @@
         "key": "T2KilAa7",
         "expirydate": "27-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e90f5e2e6c95cc75",
+        "key": "mZXDsbv6",
+        "expirydate": "27-05-2030",
+        "Allowoffline": true
     }
 ]
