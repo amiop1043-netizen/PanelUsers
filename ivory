@@ -202,5 +202,11 @@
         "key": "fZNBl4D5",
         "expirydate": "27-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b2d5636de7356902",
+        "key": "GLWEAp3J",
+        "expirydate": "22-10-2026",
+        "Allowoffline": true
     }
 ]
