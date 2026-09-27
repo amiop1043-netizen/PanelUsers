@@ -106,5 +106,11 @@
         "key": "RartEYTO",
         "expirydate": "27-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2e92e7eac08d04b2",
+        "key": "cTWDz8s3",
+        "expirydate": "27-05-2030",
+        "Allowoffline": true
     }
 ]
