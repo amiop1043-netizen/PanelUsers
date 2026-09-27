@@ -274,5 +274,11 @@
         "key": "1iGbBml0",
         "expirydate": "27-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6776f86b84bf9d45",
+        "key": "ljkORguV",
+        "expirydate": "27-05-2030",
+        "Allowoffline": true
     }
 ]
