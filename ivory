@@ -406,5 +406,11 @@
         "key": "DBSYT7Nm",
         "expirydate": "18-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9cd035461cb4149b",
+        "key": "5iALKc43",
+        "expirydate": "28-10-2026",
+        "Allowoffline": true
     }
 ]
