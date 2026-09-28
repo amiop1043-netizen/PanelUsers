@@ -400,5 +400,11 @@
         "key": "RYQUEjJN",
         "expirydate": "28-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d9388443faff3119",
+        "key": "DBSYT7Nm",
+        "expirydate": "18-10-2026",
+        "Allowoffline": true
     }
 ]
