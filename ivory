@@ -394,5 +394,11 @@
         "key": "PDV5UOaA",
         "expirydate": "28-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ba13c7ce30108e30",
+        "key": "RYQUEjJN",
+        "expirydate": "28-05-2030",
+        "Allowoffline": true
     }
 ]
