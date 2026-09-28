@@ -334,5 +334,11 @@
         "key": "Myo8mDtX",
         "expirydate": "28-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f1011d655d6b7c8b",
+        "key": "pCsDZGTL",
+        "expirydate": "28-05-2030",
+        "Allowoffline": true
     }
 ]
