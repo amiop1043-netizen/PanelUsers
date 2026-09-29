@@ -454,5 +454,11 @@
         "key": "BI2NS7b3",
         "expirydate": "29-05-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "661081113f6765a1",
+        "key": "WmkYAZjS",
+        "expirydate": "29-06-2029",
+        "Allowoffline": true
     }
 ]
