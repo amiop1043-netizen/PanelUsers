@@ -646,5 +646,11 @@
         "key": "zmDLJKl8",
         "expirydate": "01-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c257cba865dfd13b",
+        "key": "7IrMoG8D",
+        "expirydate": "01-11-2026",
+        "Allowoffline": true
     }
 ]
