@@ -622,5 +622,11 @@
         "key": "LAgQcRXs",
         "expirydate": "01-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b18d2c5e0791bc6d",
+        "key": "7XSkCvtn",
+        "expirydate": "23-10-2026",
+        "Allowoffline": true
     }
 ]
