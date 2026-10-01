@@ -592,5 +592,11 @@
         "key": "GJC8OK2F",
         "expirydate": "01-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fbba2ed9dc9d7abc",
+        "key": "QJOmlZ2V",
+        "expirydate": "01-11-2026",
+        "Allowoffline": true
     }
 ]
