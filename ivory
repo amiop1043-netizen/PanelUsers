@@ -610,5 +610,11 @@
         "key": "Cx3keidS",
         "expirydate": "01-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0888a53a6ba0514c",
+        "key": "nsWgRwDM",
+        "expirydate": "01-11-2026",
+        "Allowoffline": true
     }
 ]
