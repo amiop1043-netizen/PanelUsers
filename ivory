@@ -604,5 +604,11 @@
         "key": "WICAtLx9",
         "expirydate": "01-07-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b2e269f0030ab05a",
+        "key": "Cx3keidS",
+        "expirydate": "01-06-2030",
+        "Allowoffline": true
     }
 ]
