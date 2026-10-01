@@ -352,5 +352,11 @@
         "key": "FSB2iseK",
         "expirydate": "01-10-2036",
         "Allowoffline": true
+    },
+    {
+        "device_id": "382c52cd2de81a53",
+        "key": "BqnODtLF",
+        "expirydate": "01-11-2026",
+        "Allowoffline": true
     }
 ]
