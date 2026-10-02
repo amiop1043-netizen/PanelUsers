@@ -700,5 +700,11 @@
         "key": "WcaB3hfR",
         "expirydate": "02-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3dfcc75c315780da",
+        "key": "NjDemaFv",
+        "expirydate": "02-11-2026",
+        "Allowoffline": true
     }
 ]
