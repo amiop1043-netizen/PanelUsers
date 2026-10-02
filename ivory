@@ -682,5 +682,11 @@
         "key": "G20S3WEC",
         "expirydate": "02-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6cc6438b64f028b3",
+        "key": "nRKh5pd3",
+        "expirydate": "02-06-2030",
+        "Allowoffline": true
     }
 ]
