@@ -676,5 +676,11 @@
         "key": "GCJrgsde",
         "expirydate": "02-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4d8ef9d39ea10a88",
+        "key": "G20S3WEC",
+        "expirydate": "02-11-2026",
+        "Allowoffline": true
     }
 ]
