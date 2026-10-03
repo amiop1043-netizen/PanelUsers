@@ -706,5 +706,11 @@
         "key": "NjDemaFv",
         "expirydate": "02-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d4bbf9ce5696a184",
+        "key": "tgCaNbTY",
+        "expirydate": "03-11-2026",
+        "Allowoffline": true
     }
 ]
