@@ -712,5 +712,11 @@
         "key": "tgCaNbTY",
         "expirydate": "03-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "14db54be20fd751d",
+        "key": "oHV5pAOc",
+        "expirydate": "03-11-2026",
+        "Allowoffline": true
     }
 ]
