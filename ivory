@@ -778,5 +778,11 @@
         "key": "PA2tEbcW",
         "expirydate": "04-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "de4a4d67a0b2dfb6",
+        "key": "wiF04KH5",
+        "expirydate": "04-06-2030",
+        "Allowoffline": true
     }
 ]
