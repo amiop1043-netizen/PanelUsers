@@ -784,5 +784,11 @@
         "key": "wiF04KH5",
         "expirydate": "04-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f6bdefcd7b42a0a3",
+        "key": "YApZTnOP",
+        "expirydate": "05-11-2026",
+        "Allowoffline": true
     }
 ]
