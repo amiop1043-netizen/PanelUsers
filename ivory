@@ -856,5 +856,11 @@
         "key": "179bCaZk",
         "expirydate": "07-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d8a5cbcb1f4e9f84",
+        "key": "XARMSHbU",
+        "expirydate": "07-11-2026",
+        "Allowoffline": true
     }
 ]
