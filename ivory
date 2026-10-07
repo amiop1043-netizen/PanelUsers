@@ -868,5 +868,11 @@
         "key": "R90BQjdb",
         "expirydate": "07-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bf6b154f73257dd8",
+        "key": "y7dsIPuR",
+        "expirydate": "07-11-2026",
+        "Allowoffline": true
     }
 ]
