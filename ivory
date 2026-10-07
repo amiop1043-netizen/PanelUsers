@@ -832,5 +832,11 @@
         "key": "Dim2V6eW",
         "expirydate": "06-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a7d3084221256146",
+        "key": "rmoy06Iw",
+        "expirydate": "07-11-2026",
+        "Allowoffline": true
     }
 ]
