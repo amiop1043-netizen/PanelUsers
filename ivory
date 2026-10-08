@@ -874,5 +874,11 @@
         "key": "y7dsIPuR",
         "expirydate": "07-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4a3c28fa66efd166",
+        "key": "ksOSMEd7",
+        "expirydate": "08-11-2026",
+        "Allowoffline": true
     }
 ]
