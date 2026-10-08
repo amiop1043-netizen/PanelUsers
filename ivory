@@ -880,5 +880,11 @@
         "key": "ksOSMEd7",
         "expirydate": "08-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6bc63bc0f8b23338",
+        "key": "3sm2alZV",
+        "expirydate": "08-06-2030",
+        "Allowoffline": true
     }
 ]
