@@ -10,5 +10,11 @@
         "key": "867epbDA",
         "expirydate": "09-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e8b79e72cc3efe73",
+        "key": "PVTKrkNp",
+        "expirydate": "16-10-2026",
+        "Allowoffline": true
     }
 ]
