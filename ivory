@@ -964,5 +964,11 @@
         "key": "J4KaPGDi",
         "expirydate": "10-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7b8804586372cd38",
+        "key": "96WvBkgx",
+        "expirydate": "10-06-2030",
+        "Allowoffline": true
     }
 ]
