@@ -1000,5 +1000,11 @@
         "key": "mtzLP173",
         "expirydate": "10-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4b9426ca081d2756",
+        "key": "dpzCs8YA",
+        "expirydate": "10-07-2029",
+        "Allowoffline": true
     }
 ]
