@@ -1108,5 +1108,11 @@
         "key": "4kDiGILE",
         "expirydate": "12-08-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c47928916d935ed6",
+        "key": "UObZ6o2A",
+        "expirydate": "12-11-2026",
+        "Allowoffline": true
     }
 ]
