@@ -1192,5 +1192,11 @@
         "key": "rHmMCKNE",
         "expirydate": "14-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "10fa86f0e5c030a7",
+        "key": "pr3gaS91",
+        "expirydate": "14-04-2032",
+        "Allowoffline": true
     }
 ]
