@@ -1216,5 +1216,11 @@
         "key": "AyTPFOLs",
         "expirydate": "15-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3d0b0210e904721c",
+        "key": "6DnbuUlV",
+        "expirydate": "15-05-2031",
+        "Allowoffline": true
     }
 ]
