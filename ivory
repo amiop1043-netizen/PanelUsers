@@ -1282,5 +1282,11 @@
         "key": "JAdKgabs",
         "expirydate": "16-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8fce83f1c08fdb87",
+        "key": "My46fzXi",
+        "expirydate": "16-05-2031",
+        "Allowoffline": true
     }
 ]
