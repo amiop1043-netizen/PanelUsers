@@ -1246,5 +1246,11 @@
         "key": "RG4FUimw",
         "expirydate": "16-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c8601781cb3915c9",
+        "key": "jwnieckq",
+        "expirydate": "16-11-2026",
+        "Allowoffline": true
     }
 ]
