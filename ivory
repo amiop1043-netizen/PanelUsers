@@ -1366,5 +1366,11 @@
         "key": "HRnXEhsV",
         "expirydate": "18-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "90301422a0e85fab",
+        "key": "CKOm7Ssd",
+        "expirydate": "19-11-2026",
+        "Allowoffline": true
     }
 ]
