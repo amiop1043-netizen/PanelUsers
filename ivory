@@ -1372,5 +1372,11 @@
         "key": "CKOm7Ssd",
         "expirydate": "19-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "021bc489575bd737",
+        "key": "aizpmXwL",
+        "expirydate": "19-11-2026",
+        "Allowoffline": true
     }
 ]
