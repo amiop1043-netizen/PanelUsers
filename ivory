@@ -1444,5 +1444,11 @@
         "key": "Pv8mHKtu",
         "expirydate": "22-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "64c03d0af668f573",
+        "key": "InU781dA",
+        "expirydate": "22-11-2026",
+        "Allowoffline": true
     }
 ]
