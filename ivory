@@ -1528,5 +1528,11 @@
         "key": "jPLBykvt",
         "expirydate": "23-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0c6fb4a4a0be7e58",
+        "key": "3VL0qtvP",
+        "expirydate": "23-11-2026",
+        "Allowoffline": true
     }
 ]
