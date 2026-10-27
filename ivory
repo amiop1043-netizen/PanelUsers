@@ -1576,5 +1576,11 @@
         "key": "01Uaobvm",
         "expirydate": "26-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9a8771a9f5863bc5",
+        "key": "X7aUfJFd",
+        "expirydate": "27-07-2029",
+        "Allowoffline": true
     }
 ]
