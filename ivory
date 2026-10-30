@@ -1642,5 +1642,11 @@
         "key": "SVLREaup",
         "expirydate": "30-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f146cf1e076e3ec2",
+        "key": "in6bUCS7",
+        "expirydate": "30-11-2026",
+        "Allowoffline": true
     }
 ]
