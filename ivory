@@ -1792,5 +1792,11 @@
         "key": "MFT5bX28",
         "expirydate": "05-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7512df13002bbaa3",
+        "key": "HRX1GWUz",
+        "expirydate": "06-12-2026",
+        "Allowoffline": true
     }
 ]
