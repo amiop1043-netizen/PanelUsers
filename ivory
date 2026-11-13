@@ -1948,5 +1948,11 @@
         "key": "GV6D82ot",
         "expirydate": "13-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "47cefd98185127a4",
+        "key": "s0QBCZcu",
+        "expirydate": "13-12-2026",
+        "Allowoffline": true
     }
 ]
