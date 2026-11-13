@@ -1918,5 +1918,11 @@
         "key": "OhUN1620",
         "expirydate": "13-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f5cfe05395b7b661",
+        "key": "Ox2ZgTyc",
+        "expirydate": "13-12-2026",
+        "Allowoffline": true
     }
 ]
