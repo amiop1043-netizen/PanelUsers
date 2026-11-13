@@ -1942,5 +1942,11 @@
         "key": "UBSJNHVq",
         "expirydate": "13-07-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "36955d77b02aa503",
+        "key": "GV6D82ot",
+        "expirydate": "13-12-2026",
+        "Allowoffline": true
     }
 ]
