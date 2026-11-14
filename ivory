@@ -1960,5 +1960,11 @@
         "key": "ORGgnEDc",
         "expirydate": "13-07-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "33350a10852e3aec",
+        "key": "b6fH4kB7",
+        "expirydate": "14-12-2026",
+        "Allowoffline": true
     }
 ]
