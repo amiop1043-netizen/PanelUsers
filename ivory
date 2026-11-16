@@ -2002,5 +2002,11 @@
         "key": "SyApvMwu",
         "expirydate": "16-09-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c41c392074992bb4",
+        "key": "t7brDCPf",
+        "expirydate": "16-12-2026",
+        "Allowoffline": true
     }
 ]
