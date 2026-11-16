@@ -2008,5 +2008,11 @@
         "key": "t7brDCPf",
         "expirydate": "16-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4fe88c4a09d28588",
+        "key": "G3kZ9gH0",
+        "expirydate": "16-03-2027",
+        "Allowoffline": true
     }
 ]
