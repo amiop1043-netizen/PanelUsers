@@ -2044,5 +2044,11 @@
         "key": "dHDBpM4K",
         "expirydate": "19-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ee3cd43729ff2e15",
+        "key": "MTeEGtp7",
+        "expirydate": "19-12-2026",
+        "Allowoffline": true
     }
 ]
