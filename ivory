@@ -2050,5 +2050,11 @@
         "key": "MTeEGtp7",
         "expirydate": "19-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d5b75eac48817e43",
+        "key": "of9bNMl3",
+        "expirydate": "20-12-2026",
+        "Allowoffline": true
     }
 ]
