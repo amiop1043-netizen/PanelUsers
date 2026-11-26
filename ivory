@@ -2122,5 +2122,11 @@
         "key": "iO3A16x7",
         "expirydate": "26-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "06452a56a1d8e538",
+        "key": "qus98YT0",
+        "expirydate": "26-08-2029",
+        "Allowoffline": true
     }
 ]
